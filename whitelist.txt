@@ -149,7 +149,7 @@ transactions.sendowl.com
 twitter.com
 unpkg.com
 unsubscribe.mailerlite.com
-urlscan.io
+urlscan.i
 www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
