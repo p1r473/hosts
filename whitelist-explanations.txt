@@ -1,0 +1,46 @@
+3p.ampproject.net #Google News articles
+accounts.nvgs.nvidia.com #Logging into Nvidia on the Shield
+accounts.us1.gigya.com #Logging into iRobot app on Android
+ae01.alicdn.com #Images on AliExpress
+amzn.to #Amazon
+api.yotpo.com #Online store customer reviews
+assets.bwbx.io #Bloomberg website layout
+auth.samsungosp.com #Logging into Samsung on an Android device
+cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.jsdelivr.net #Breaks images on several sites
+cdns.gigya.com #Embedded CTV News videos
+clients1.google.com #Chrome auto fill and search results
+clients6.google.com #Google Drive
+code.jquery.com #Website layouts
+d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
+edge.api.brightcove.com #City News 1130 videos
+encrypted-tbn1.gstatic.com #Gstatic is a service used by Google to hold static content and reduce bandwidth usage.
+encrypted-tbn3.gstatic.com 
+events.gfe.nvidia.com #Nvidia
+i.ytimg.com #YouTube thumbnails
+imapi-mu.isnssdk.com #TikTok DMs
+instantmessaging-pa.googleapis.com #Google Messages for Web
+js.stripe.com #Stripe payments
+login.live.com #Microsoft OAUTH sign in
+mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
+mtalk.google.com #Kijiji Android app notifications
+players.brightcove.net #City News 1130 videos
+pmd.cdn.turner.com #CNN videos
+redirector.googlevideo.com #Google Play Movies
+s.ytimg.com #Embedded YouTube videos
+s1.twnmm.com #The Weather Network website layout
+secure.brightcove.com #City News 1130 videos
+socialize.us1.gigya.com #Logging into iRobot app on Android
+ssl.p.jwpcdn.com #GlobalNews embedded video
+static-cdn.jtvnw.net #Twitch
+static.zdassets.com #Kobo/Rakuten "contact us" page
+static01.nyt.com #New York Times
+t.co #Twitter
+unpkg.com #flatten.ca map
+www.ecdinterface.philips.com #Philips and Google Home integration
+www.googletagmanager.com #Hearthstone login from iOS
+www.gstatic.com #Google
+x.kinja-static.com #Gizmodo news pictures
+youtu.be #YouTube
+youtube-nocookie.com #Youtube
+yt3.ggpht.com #YouTube comment avatars
