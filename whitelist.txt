@@ -15,6 +15,7 @@ api.github.com
 api.locize.io
 api.yotpo.com
 apkpure.com
+archive.org
 asia.pool.ntp.org
 assets.bwbx.io
 auth.samsungosp.com
@@ -169,6 +170,7 @@ www.phishtank.com
 www.pinterest.com
 www.privateinternetaccess.com
 www.staradvertiser.com
+www.techrepublic.com
 www.todayonline.com
 www.worldometers.info
 www.zerohedge.com
@@ -177,3 +179,11 @@ youtu.be
 youtube-nocookie.com
 youtube.com
 yt3.ggpht.com
+www.express.co.uk
+ajax.cloudflare.com
+forum.kaspersky.com
+community.kaspersky.com
+usa.kaspersky.com
+disqus.com
+support.kaspersky.com
+kotaku.com
