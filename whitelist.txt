@@ -187,3 +187,14 @@ usa.kaspersky.com
 disqus.com
 support.kaspersky.com
 kotaku.com
+img-prod-cms-rt-microsoft-com.akamaized.net
+storage.live.com
+steamcommunity.com
+maxcdn.bootstrapcdn.com
+digitaljournal.com
+www.digitaljournal.com
+use.fontawesome.com
+api.videos.oovvuu.com
+videos.oovvuu.com
+accounts.google.com
+storage.googleapis.com

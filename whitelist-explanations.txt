@@ -19,6 +19,7 @@ encrypted-tbn3.gstatic.com
 events.gfe.nvidia.com #Nvidia
 i.ytimg.com #YouTube thumbnails
 imapi-mu.isnssdk.com #TikTok DMs
+img-prod-cms-rt-microsoft-com.akamaized.net #Microsoft.com images
 instantmessaging-pa.googleapis.com #Google Messages for Web
 js.stripe.com #Stripe payments
 login.live.com #Microsoft OAUTH sign in
@@ -45,3 +46,4 @@ youtu.be #YouTube
 youtube-nocookie.com #Youtube
 yt3.ggpht.com #YouTube comment avatars
 dashboard-06.braze.com #Unsubscribe from Mailing Lists
+maxcdn.bootstrapcdn.com #Digital Journal layout
