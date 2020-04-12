@@ -198,3 +198,7 @@ api.videos.oovvuu.com
 videos.oovvuu.com
 accounts.google.com
 storage.googleapis.com
+change.org
+www.glassdoor.ca
+glassdoor.ca
+t.me
