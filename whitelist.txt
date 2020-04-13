@@ -203,3 +203,13 @@ www.glassdoor.ca
 glassdoor.ca
 t.me
 js.braintreegateway.com
+ctldl.windowsupdate.com
+fe2.update.microsoft.com
+fe3.delivery.mp.microsoft.com
+download.microsoft.com
+sls.update.microsoft.com
+login.microsoftonline.com
+au.download.windowsupdate.com
+dl.delivery.mp.microsoft.com
+no-cache.hubspot.com
+s.marketwatch.com
