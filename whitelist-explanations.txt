@@ -49,3 +49,4 @@ dashboard-06.braze.com #Unsubscribe from Mailing Lists
 maxcdn.bootstrapcdn.com #Digital Journal layout
 no-cache.hubspot.com #Ycharts images
 s.marketwatch.com #MarketWatch images
+cdnjs.cloudflare.com #Javascript on websites
