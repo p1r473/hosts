@@ -213,3 +213,5 @@ au.download.windowsupdate.com
 dl.delivery.mp.microsoft.com
 no-cache.hubspot.com
 s.marketwatch.com
+cdnjs.cloudflare.com
+store-images.s-microsoft.com
