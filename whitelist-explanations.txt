@@ -50,3 +50,8 @@ maxcdn.bootstrapcdn.com #Digital Journal layout
 no-cache.hubspot.com #Ycharts images
 s.marketwatch.com #MarketWatch images
 cdnjs.cloudflare.com #Javascript on websites
+static.intercomassets.com #Website layouts that use Intercom help
+downloads.intercomcdn.com #Website layouts that use Intercom help
+fonts.intercomcdn.com #Website layouts that use Intercom help
+koho.onelink.me #Koho appstore link
+img-s-msn-com.akamaized.net #Images hosts on Akamai for MSN.com
