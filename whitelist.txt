@@ -215,3 +215,15 @@ no-cache.hubspot.com
 s.marketwatch.com
 cdnjs.cloudflare.com
 store-images.s-microsoft.com
+mint.finance.intuit.com
+static.intercomassets.com
+downloads.intercomcdn.com
+fonts.intercomcdn.com
+koho.onelink.me
+img-s-msn-com.akamaized.net
+bitbucket.org
+cdn.registerdisney.go.com
+raw.githubusercontent.com
+pastebin.com
+giphy.com
+amazon.com

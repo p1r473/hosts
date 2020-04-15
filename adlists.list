@@ -117,6 +117,7 @@ https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadb
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://raw.githubusercontent.com/KurzGedanke/kurzBlock/master/kurzBlock.txt
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.txt
@@ -173,8 +174,8 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 https://raw.githubusercontent.com/cb-software/CB-Malicious-Domains/master/block_lists/hosts
 https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
-https://raw.githubusercontent.com/chimbori/lite-apps/master/blocklists/src/Adware%20and%20Malware/PaidContentLinks.txt
-https://raw.githubusercontent.com/chimbori/lite-apps/master/blocklists/src/Adware%20and%20Malware/UserSuggested.txt
+https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/PaidContentLinks.txt
+https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/UserSuggested.txt
 https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
 https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt
@@ -306,8 +307,8 @@ https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/coinblocker.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
-https://raw.githubusercontent.com/chimbori/lite-apps/master/blocklists/src/Coin%20Miners/UserSuggested.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%20Miners/UserSuggested.txt
 
 
 # Banned
