@@ -245,3 +245,6 @@ fe2cr.update.microsoft.com
 displaycatalog.mp.microsoft.com
 download.windowsupdate.com
 fe3cr.delivery.mp.microsoft.com
+ppl.i.lithium.com
+passport.mobilenations.com
+appuals.com
