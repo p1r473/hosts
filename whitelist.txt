@@ -248,3 +248,5 @@ fe3cr.delivery.mp.microsoft.com
 ppl.i.lithium.com
 passport.mobilenations.com
 appuals.com
+thenextweb.com
+webtrack.dhlglobalmail.com
