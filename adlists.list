@@ -1,7 +1,106 @@
-#Test
-# Test 2
-# Test 3 https://raw.githubusercontent.com/p1r473/hosts/master/adlists.list
-# https://raw.githubusercontent.com/p1r473/hosts/master/adlists.list
-# Test 5 https://raw.githubusercontent.com/p1r473/hosts/master/adlists.list 
-#Test 5 https://raw.githubusercontent.com/p1r473/hosts/master/adlists.list
-#Test 6
+# My Blacklist located at /var/www/html/hosts.txt or /var/www/Apache/hosts.txt
+#http://localhost:81/others.txt
+#http://localhost:81/hosts.txt
+#http://tortuga.servebeer.com:4444/others.txt
+#http://tortuga.servebeer.com:4444/hosts.txt
+
+
+#Banned
+#https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt blocks answers.microsoft.com  support.microsoft.com login.live.com
+#https://blocklist.kowabit.de/list.txt blocks XXX
+#https://gitlab.com/intr0/iVOID.GitLab.io/raw/master/iVOID.hosts blocks mainstream social media
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBlockFiltersPlus.txt blocks XXX
+#https://tgc.cloud/downloads/hosts.txt includes dead hosts so use hosts.alive.txt instead
+#https://www.hostsfile.org/Downloads/hosts.txt blocks XXX
+#http://phishing.mailscanner.info/phishing.bad.sites.conf blocks play.google.com / not possible to report
+#https://adblock.mahakala.is blocks XXX
+
+#Redundant
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-Clickbait-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-X-Files.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABPindo.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AakList.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AdAway-Default-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-Filters-by-Gurudee.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adblock-YouTube-Ads.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adguard-English-Filter.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Adware-Filters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/AntiPubWeb.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Anudeep-Youtube.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ayucat-Powerful.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Bad-JAV-Sites.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Blockzilla.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/BreakingTheNews.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CAMELEON-Hosts.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/CryptoWall-Ransomware-C2-Domain-blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Disconnect-Malware-Filter.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Dshield-Suspicious-High.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Dshield-Suspicious-Low.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Dshield-Suspicious-Medium.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/FadeMind-addSpam.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Filtros-Nauscopicos.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/GandJ-Hosts.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Hant05080-Filters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Henning-VanRaumle-Youtube.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Hufilter.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ImmortalMalwareDomains.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Lead-Generator.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Locky-Ransomware-C2-Domain-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Malware-Domains-Just-Domains.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mat1th-DNS-add-block.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mayvs-Private-Adblock-Filters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Metaphoricgiraffe-Privacy-Filters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Michael-Trimms-Hosts.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Mitchell-Krogs-Badd-Boyz-Hosts.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Notracking-hostnames.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Piwik-Spam.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/PopupBlocker.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Quidsup-Malicious.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ROad-Block.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/SatterlysAdblockPlusFilters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Schacks-Adblock-Plus-Liste.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Spam-Assassin-Bill-Stearns.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Fakenews.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Trackers.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Unified-Hosts.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TakoYachty-Gift-Card-Killer.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/The-Hosts-File-Project.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Thoughtconverge-AdBlock-Filters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Tofu-Filter.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/TorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Wiltteri.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker7.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Yhonay-AntiPopAds.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/YousList.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ZeuS-Domain-Blocklist-Bad-Domains.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsFilters.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uAssetsPrivacy.txt
+#https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBOPersonalFilters.txt++-
+
+#Retired
+#https://hosts-file.net/ad_servers.txt
+#https://hosts-file.net/download/hosts.txt
+#https://hosts-file.net/emd.txt
+#https://hosts-file.net/exp.txt
+#https://hosts-file.net/fsa.txt
+#https://hosts-file.net/grm.txt
+#https://hosts-file.net/hjk.txt
+#https://hosts-file.net/hphosts-partial.txt
+#https://hosts-file.net/mmt.txt
+#https://hosts-file.net/psh.txt
+#https://www.malekal.com/HOSTS_filtre/HOSTS.txt
+#https://ransomwaretracker.abuse.ch/downloads/CW_C2_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/LY_C2_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/LY_PS_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/TC_PS_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+#https://ransomwaretracker.abuse.ch/downloads/TL_PS_DOMBL.txt
