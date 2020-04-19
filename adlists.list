@@ -70,6 +70,8 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblock.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous(Hosts).txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
@@ -184,6 +186,13 @@ https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups_Head
 https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
 https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Advertisements.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/IP%20Loggers.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Other.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Phishing.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Scams.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Shockers.txt
+https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/lists/Trackers.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/fraudulent.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
 https://raw.githubusercontent.com/jaykepeters/Blocklists/master/Ads/spotify.txt
