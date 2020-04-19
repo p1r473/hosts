@@ -86,6 +86,7 @@ d1ey3fksimezm4.cloudfront.net
 d1eyk8qbbvsiyg.cloudfront.net
 d1f1lqyq09pe4q.cloudfront.net
 d1f5rbi95y1icu.cloudfront.net
+d1f8f9xcsvx3ha.cloudfront.net
 d1f94w321xtzmt.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1fo96xm8fci0r.cloudfront.net
@@ -303,6 +304,7 @@ d2is3w689nunba.cloudfront.net
 d2izezc8ujpkba.cloudfront.net
 d2j3te7y7s8xxp.cloudfront.net
 d2jn12r3o7an7z.cloudfront.net
+d2k03kvdk5cku0.cloudfront.net
 d2k4es4l94a3cv.cloudfront.net
 d2k8yz7zlc0yyi.cloudfront.net
 d2kbaqwa2nt57l.cloudfront.net
@@ -790,6 +792,7 @@ dzt3uyxd69um2.cloudfront.net
 dzxxxg6ij9u99.cloudfront.net
 2.android.pool.ntp.org
 3p.ampproject.net
+a1089.dscd.akamai.net
 abebooks.com
 accounts.google.com
 accounts.nvgs.nvidia.com
@@ -818,6 +821,7 @@ auth.samsungosp.com
 bethesda.net
 bit.ly
 bitbucket.org
+bnc.lt
 boardgamegeek.com
 c0.wp.com
 calendarsync-pa.googleapis.com
@@ -836,7 +840,9 @@ change.org
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 clickserve.dartsearch.net
+clients.l.google.com
 clients1.google.com
+clients6.google.com
 code.jquery.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
@@ -885,9 +891,11 @@ gist.githubusercontent.com
 gitlab.com
 glassdoor.ca
 gleam.io
+go.redirectingat.com
 go.skimresources.com
 goldmoney.com
 google.com
+googlehosted.l.googleusercontent.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com
@@ -908,6 +916,7 @@ img-s-msn-com.akamaized.net
 imgur.com
 instagram.com
 instantmessaging-pa.googleapis.com
+iob.imgur.com
 jouw.postnl.nl
 js.braintreegateway.com
 js.gleam.io
@@ -992,6 +1001,8 @@ support.kaspersky.com
 support.microsoft.com
 t.co
 t.me
+telephonyspamprotect-pa.googleapis.com
+the.earth.li
 thenextweb.com
 thepiratebay.org
 todayonline.com
@@ -1007,6 +1018,7 @@ use.fontawesome.com
 video.xx.fbcdn.net
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
+www3.l.google.com
 www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
@@ -1041,6 +1053,4 @@ youtu.be
 youtube-nocookie.com
 youtube.com
 yt3.ggpht.com
-the.earth.li
-iob.imgur.com
-bnc.lt
+z-p42-instagram.c10r.facebook.com
