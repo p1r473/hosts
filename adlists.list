@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 http://abpvn.com/android/abpvn.txt
 http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 http://mirror1.malwaredomains.com/files/justdomains
@@ -327,3 +328,8 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/coinbl
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%20Miners/UserSuggested.txt
+=======
+https://dbl.oisd.nl
+https://dbl.oisd.nl
+https://hostsmobile.oisd.nl
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
