@@ -14,13 +14,19 @@ https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
 https://any.andryou.com/oisddbl.txt
 https://any.andryou.com/oisdmobilehosts.txt
+<<<<<<< HEAD
 https://any.andryou.com/oisdhosts.txt
+=======
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://asc.hk/adplus.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://blocklist.site/app/dl/fraud
 https://cdn.andryou.com/oisddbl.txt
+<<<<<<< HEAD
 https://cdn.andryou.com/oisdhosts.txt
+=======
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://cdn.andryou.com/oisdmobilehosts.txt
 https://dbl.oisd.nl
 https://filtri-dns.ga/filtri.txt
@@ -41,14 +47,20 @@ https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/tracking/domains.list
 https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
+<<<<<<< HEAD
 https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dblzero.txt
+=======
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/hostsmobile.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hblock.molinero.dev/hosts
 https://hosts.nfz.moe/basic/hosts
 https://hosts.nfz.moe/full/hosts
+<<<<<<< HEAD
 https://hosts.oisd.nl
+=======
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://hosts.ubuntu101.co.za/domains.list
 https://hosts.ubuntu101.co.za/hosts
 https://hosts.ubuntu101.co.za/hosts.windows
@@ -76,10 +88,15 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblock.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt
+<<<<<<< HEAD
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28Hosts%29.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28iPv4%29.txt
+=======
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous(Hosts).txt
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/Canvas%20font%20fingerprinting.txt
@@ -92,7 +109,11 @@ https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+<<<<<<< HEAD
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20%28Hosts%29.txt
+=======
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20(Hosts).txt
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt
@@ -235,7 +256,10 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclickparsed
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
+<<<<<<< HEAD
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
+=======
+>>>>>>> e644e5d2b9cb726b882d97bbea75ea90a625e5d6
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt
