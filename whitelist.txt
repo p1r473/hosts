@@ -873,6 +873,7 @@ encrypted-tbn3.gstatic.com
 etsy.com
 experian.com
 fast.wistia.com
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 fe2.update.microsoft.com
 fe2cr.update.microsoft.com
 fe3.delivery.mp.microsoft.com
