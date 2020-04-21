@@ -57,3 +57,6 @@ koho.onelink.me #Koho appstore link
 img-s-msn-com.akamaized.net #Images hosts on Akamai for MSN.com
 assets.guim.co.uk #The Guardian videos
 dmd.metaservices.microsoft.com #device metadata: https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
+cs45.wac.edgecastcdn.net #Embedded images in Twitter feed
+dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos		
+dualstack.brightcove.map.fastly.net #New York Post embedded videos
