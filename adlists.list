@@ -1,4 +1,5 @@
 http://abpvn.com/android/abpvn.txt
+<<<<<<< HEAD
 http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 http://mirror1.malwaredomains.com/files/justdomains
 http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
@@ -431,3 +432,5 @@ https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%
 #https:://ransomwaretracker.abuse.ch/downloads/TC_PS_DOMBL.txt
 #https:://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 #https:://ransomwaretracker.abuse.ch/downloads/TL_PS_DOMBL.txt
+=======
+>>>>>>> bb32fe70bbfe9a5f05f8358b92c9704bf2957df1

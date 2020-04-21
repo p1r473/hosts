@@ -837,7 +837,10 @@ cdn2.editmysite.com
 cdnjs.cloudflare.com
 cdns.gigya.com
 change.org
+<<<<<<< HEAD
 checkip.us-east-1.prod.check-ip.aws.a2z.com
+=======
+>>>>>>> bb32fe70bbfe9a5f05f8358b92c9704bf2957df1
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 clickserve.dartsearch.net
@@ -847,7 +850,10 @@ clients6.google.com
 code.jquery.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
+<<<<<<< HEAD
 cs45.wac.edgecastcdn.net
+=======
+>>>>>>> bb32fe70bbfe9a5f05f8358b92c9704bf2957df1
 cta-redirect.hubspot.com
 ctldl.windowsupdate.com
 dailymotion.com
@@ -864,8 +870,11 @@ download.microsoft.com
 download.windowsupdate.com
 downloads.intercomcdn.com
 drive.google.com
+<<<<<<< HEAD
 dualstack.brightcove.map.fastly.net
 dualstack.us-eu.brightcove.map.fastly.net
+=======
+>>>>>>> bb32fe70bbfe9a5f05f8358b92c9704bf2957df1
 dyjpb62732.i.lithium.com
 ebates.com
 edge-mqtt.facebook.com
@@ -960,7 +969,10 @@ out.reddit.com
 passport.mobilenations.com
 pastebin.com
 people-pa.googleapis.com
+<<<<<<< HEAD
 photos-ugc.l.googleusercontent.com
+=======
+>>>>>>> bb32fe70bbfe9a5f05f8358b92c9704bf2957df1
 pinterest.com
 platform.twitter.com
 play.google.com
@@ -1013,7 +1025,10 @@ telephonyspamprotect-pa.googleapis.com
 the.earth.li
 thenextweb.com
 thepiratebay.org
+<<<<<<< HEAD
 tlu.dl.delivery.mp.microsoft.com
+=======
+>>>>>>> bb32fe70bbfe9a5f05f8358b92c9704bf2957df1
 todayonline.com
 todo-ta-g7g.amazon.com
 tracker.openbittorrent.com
