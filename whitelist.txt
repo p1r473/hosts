@@ -837,6 +837,7 @@ cdn2.editmysite.com
 cdnjs.cloudflare.com
 cdns.gigya.com
 change.org
+checkip.us-east-1.prod.check-ip.aws.a2z.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 clickserve.dartsearch.net
@@ -846,6 +847,7 @@ clients6.google.com
 code.jquery.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
+cs45.wac.edgecastcdn.net
 cta-redirect.hubspot.com
 ctldl.windowsupdate.com
 dailymotion.com
@@ -862,6 +864,8 @@ download.microsoft.com
 download.windowsupdate.com
 downloads.intercomcdn.com
 drive.google.com
+dualstack.brightcove.map.fastly.net
+dualstack.us-eu.brightcove.map.fastly.net
 dyjpb62732.i.lithium.com
 ebates.com
 edge-mqtt.facebook.com
@@ -873,6 +877,7 @@ encrypted-tbn3.gstatic.com
 etsy.com
 experian.com
 fast.wistia.com
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 fe2.update.microsoft.com
 fe2cr.update.microsoft.com
 fe3.delivery.mp.microsoft.com
@@ -927,6 +932,7 @@ koho.onelink.me
 kotaku.com
 l.facebook.com
 links.mint.com
+linuxconfig.org
 lnkd.in
 login.live.com
 login.microsoftonline.com
@@ -945,6 +951,7 @@ mobile.twitter.com
 mobilenetworkscoring-pa.googleapis.com
 mobilesyrup.com
 na2.docusign.net
+nypost.com
 no-cache.hubspot.com
 north-america.pool.ntp.org
 nsanedown.com
@@ -953,6 +960,7 @@ out.reddit.com
 passport.mobilenations.com
 pastebin.com
 people-pa.googleapis.com
+photos-ugc.l.googleusercontent.com
 pinterest.com
 platform.twitter.com
 play.google.com
@@ -1005,6 +1013,7 @@ telephonyspamprotect-pa.googleapis.com
 the.earth.li
 thenextweb.com
 thepiratebay.org
+tlu.dl.delivery.mp.microsoft.com
 todayonline.com
 todo-ta-g7g.amazon.com
 tracker.openbittorrent.com
