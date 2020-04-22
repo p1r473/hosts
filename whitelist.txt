@@ -949,7 +949,6 @@ gcplab2.maxmind.com
 gcplab3.maxmind.com
 geoip-as-southeast.maxmind.com
 geoip-ipv4.maxmind.com
-geoip-js.maxmind.com
 geoip-us-east.maxmind.com
 geoip.maxmind.com
 geoip1.maxmind.com
