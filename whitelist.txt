@@ -805,6 +805,7 @@ ajax.cloudflare.com
 ajax.googleapis.com
 amzn.to
 android.clients.google.com
+angryip.org
 answers.microsoft.com
 api.github.com
 api.locize.io
@@ -829,6 +830,7 @@ cdn.ampproject.org
 cdn.contentful.com
 cdn.discordapp.com
 cdn.embedly.com
+cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.jsdelivr.net
 cdn.registerdisney.go.com
 cdn.shopify.com
@@ -905,6 +907,7 @@ gounlimited.to
 gql.reddit.com
 graph.facebook.com
 gumroad.com
+hackerone.com
 heavy.com
 hosts-file.net
 ht.cdn.turner.com
@@ -962,6 +965,7 @@ pastebin.com
 people-pa.googleapis.com
 photos-ugc.l.googleusercontent.com
 pinterest.com
+pki-goog.l.google.com
 platform.twitter.com
 play.google.com
 play.googleapis.com
