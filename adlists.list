@@ -239,6 +239,7 @@ https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt
+https://raw.githubusercontent.com/p1r473/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt
 https://raw.githubusercontent.com/quedlin/blacklist/master/domains
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt
@@ -313,13 +314,12 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.threatcrowd.org/feeds/domains.txt
 https://zonefiles.io/f/compromised/domains/live
-#My Blacklist located at /var/www/html/hosts.txt or /var/www/Apache/hosts.txt
+#My Blacklist
 #http://localhost:81/others.txt
 #http://localhost:81/hosts.txt
 #http://tortuga.servebeer.com:4444/others.txt
 #http://tortuga.servebeer.com:4444/hosts.txt
-file:////var/www/apache/public/hosts.txt
-file:////var/www/apache/public/others.txt
+#file:////var/www/apache/public/others.txt
 #Allowed Coin BLockers
 #This one is "Browser mining only" but have to whitelist TPB
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
