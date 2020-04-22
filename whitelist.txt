@@ -10,6 +10,7 @@ addons.mozilla.com
 addons.mozilla.org
 ae01.alicdn.com
 ajax.cloudflare.com
+<<<<<<< HEAD
 ajax.googleapis.com
 alertmanager-test.maxmind.com
 alertmanager.maxmind.com
@@ -1169,3 +1170,5 @@ youtube-nocookie.com
 youtube.com
 yt3.ggpht.com
 z-p42-instagram.c10r.facebook.com
+=======
+>>>>>>> f844a8b7f1ba54a6fac7446d80de12db98a67622
