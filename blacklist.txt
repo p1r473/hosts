@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 #activation.acronis.com
 #cap.cyberlink.com
 #activation.cyberlink.com
+=======
+>>>>>>> f844a8b7f1ba54a6fac7446d80de12db98a67622
 r4---sn-vgqs7nez.googlevideo.com 
 r4.sn-vgqs7nez.googlevideo.com 
 r17---sn-vgqsenes.googlevideo.com 
@@ -8,8 +11,12 @@ r2---sn-vgqs7n7k.googlevideo.com
 r1---sn-vgqsen7z.googlevideo.com 
 r1.sn-vgqsen7z.googlevideo.com 
 r20---sn-vgqs7ne7.googlevideo.com 
+<<<<<<< HEAD
 r20.sn-vgqs7ne7.googlevideo.com
 activate.adobe.com
 practivate.adobe.com
 lmlicenses.wip4.adobe.com
 lm.licenses.adobe.com
+=======
+
+>>>>>>> f844a8b7f1ba54a6fac7446d80de12db98a67622
