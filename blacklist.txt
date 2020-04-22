@@ -1,6 +1,3 @@
-#activation.acronis.com
-#cap.cyberlink.com
-#activation.cyberlink.com
 r4---sn-vgqs7nez.googlevideo.com 
 r4.sn-vgqs7nez.googlevideo.com 
 r17---sn-vgqsenes.googlevideo.com 
@@ -9,7 +6,3 @@ r1---sn-vgqsen7z.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com 
 r20---sn-vgqs7ne7.googlevideo.com 
 r20.sn-vgqs7ne7.googlevideo.com
-activate.adobe.com
-practivate.adobe.com
-lmlicenses.wip4.adobe.com
-lm.licenses.adobe.com
