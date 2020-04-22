@@ -11,33 +11,22 @@ addons.mozilla.org
 ae01.alicdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
-<<<<<<< HEAD
 alertmanager-test.maxmind.com
 alertmanager.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 amzn.to
 android.clients.google.com
 angryip.org
 answers.microsoft.com
-<<<<<<< HEAD
 ap5-wdc.maxmind.com
 api-v4.maxmind.com
 api.github.com
 api.locize.io
 api.maxmind.com
-=======
-api.github.com
-api.locize.io
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 api.videos.oovvuu.com
 api.yotpo.com
 apkpure.com
 appuals.com
-<<<<<<< HEAD
 apt.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 archive.org
 asia.pool.ntp.org
 assets.bwbx.io
@@ -47,10 +36,7 @@ auth.samsungosp.com
 bethesda.net
 bit.ly
 bitbucket.org
-<<<<<<< HEAD
 blog.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 bnc.lt
 boardgamegeek.com
 c0.wp.com
@@ -79,7 +65,6 @@ code.jquery.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
 cs45.wac.edgecastcdn.net
-<<<<<<< HEAD
 ct1-test.maxmind.com
 ct10-test.maxmind.com
 ct100-test.maxmind.com
@@ -805,18 +790,11 @@ dhdtk67w1eua6.cloudfront.net
 dhpikd1t89arn.cloudfront.net
 dhy77jsjr4g76.cloudfront.net
 dhzws7l31cq8p.cloudfront.net
-=======
-cta-redirect.hubspot.com
-ctldl.windowsupdate.com
-dailymotion.com
-device.auth.xboxlive.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 digitaljournal.com
 diodxcszlbmwk.cloudfront.net
 diqdel92t4na6.cloudfront.net
 displaycatalog.mp.microsoft.com
 disqus.com
-<<<<<<< HEAD
 disy2s34euyqm.cloudfront.net
 dizixdllzznrf.cloudfront.net
 dj1d6o6ftflzi.cloudfront.net
@@ -944,21 +922,6 @@ ebates.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
 email.maxmind.com
-=======
-dl.delivery.mp.microsoft.com
-docs.google.com
-download.cnet.com
-download.microsoft.com
-download.windowsupdate.com
-downloads.intercomcdn.com
-drive.google.com
-dualstack.brightcove.map.fastly.net
-dualstack.us-eu.brightcove.map.fastly.net
-dyjpb62732.i.lithium.com
-ebates.com
-edge-mqtt.facebook.com
-edge.api.brightcove.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
@@ -977,7 +940,6 @@ fonts.gstatic.com
 fonts.intercomcdn.com
 forms.gle
 forum.kaspersky.com
-<<<<<<< HEAD
 forum.maxmind.com
 funk.eu
 gateway.reddit.com
@@ -998,13 +960,6 @@ giphy.com
 gist.githubusercontent.com
 git.maxmind.com
 github.maxmind.com
-=======
-funk.eu
-gateway.reddit.com
-gcp.api.snapchat.com
-giphy.com
-gist.githubusercontent.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 gitlab.com
 glassdoor.ca
 gleam.io
@@ -1015,11 +970,8 @@ google.com
 googlehosted.l.googleusercontent.com
 gounlimited.to
 gql.reddit.com
-<<<<<<< HEAD
 grafana-test.maxmind.com
 grafana.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 graph.facebook.com
 gumroad.com
 hackerone.com
@@ -1040,24 +992,17 @@ imgur.com
 instagram.com
 instantmessaging-pa.googleapis.com
 iob.imgur.com
-<<<<<<< HEAD
 j.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 jouw.postnl.nl
 js.braintreegateway.com
 js.gleam.io
 js.hsforms.net
-<<<<<<< HEAD
 js.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 js.stripe.com
 kitco.com
 koho.onelink.me
 kotaku.com
 l.facebook.com
-<<<<<<< HEAD
 lab.maxmind.com
 lb1-test.maxmind.com
 lb2-test.maxmind.com
@@ -1068,19 +1013,11 @@ loadtest.maxmind.com
 login.live.com
 login.microsoftonline.com
 logs.maxmind.com
-=======
-links.mint.com
-linuxconfig.org
-lnkd.in
-login.live.com
-login.microsoftonline.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 m.media-amazon.com
 mail.google.com
 mandrillapp.com
 maps.googleapis.com
 maps.gstatic.com
-<<<<<<< HEAD
 marketing.email.maxmind.com
 maxcdn.bootstrapcdn.com
 maxmind.com
@@ -1091,19 +1028,12 @@ minfraud.maxmind.com
 minfraud1.maxmind.com
 minfraud2.maxmind.com
 minfraud3.maxmind.com
-=======
-maxcdn.bootstrapcdn.com
-media0.giphy.com
-medium.com
-mene.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 mingle.kijiji.ca
 mint.finance.intuit.com
 mobile.twitter.com
 mobilenetworkscoring-pa.googleapis.com
 mobilesyrup.com
 na2.docusign.net
-<<<<<<< HEAD
 nagios-test.maxmind.com
 nagios.maxmind.com
 no-cache.hubspot.com
@@ -1111,21 +1041,12 @@ north-america.pool.ntp.org
 nsanedown.com
 nypost.com
 o1.email.maxmind.com
-=======
-nypost.com
-no-cache.hubspot.com
-north-america.pool.ntp.org
-nsanedown.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 openload.co
 out.reddit.com
 passport.mobilenations.com
 pastebin.com
 people-pa.googleapis.com
-<<<<<<< HEAD
 pgbadger.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 photos-ugc.l.googleusercontent.com
 pinterest.com
 pki-goog.l.google.com
@@ -1137,11 +1058,8 @@ pmd.cdn.turner.com
 pool.ntp.org
 ppl.i.lithium.com
 privateinternetaccess.com
-<<<<<<< HEAD
 prometheus-test.maxmind.com
 prometheus.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 qvay.app.link
@@ -1161,14 +1079,10 @@ samsung.com
 scontent.xx.fbcdn.net
 script.google.com
 secure.brightcove.com
-<<<<<<< HEAD
 secure.maxmind.com
 seekingalpha.com
 sensu.maxmind.com
 sitecore1.maxmind.com
-=======
-seekingalpha.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 sls.update.microsoft.com
 slscr.update.microsoft.com
 socialize.us1.gigya.com
@@ -1176,15 +1090,10 @@ sputniknews.com
 ssl.p.jwpcdn.com
 static-cdn.jtvnw.net
 static.intercomassets.com
-<<<<<<< HEAD
 static.maxmind.com
 static.zdassets.com
 static01.nyt.com
 status.maxmind.com
-=======
-static.zdassets.com
-static01.nyt.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 steamcommunity.com
 stockhouse.com
 storage.googleapis.com
@@ -1192,17 +1101,11 @@ storage.live.com
 store-images.microsoft.com
 store-images.s-microsoft.com
 support.kaspersky.com
-<<<<<<< HEAD
 support.maxmind.com
 support.microsoft.com
 t.co
 t.me
 tc.maxmind.com
-=======
-support.microsoft.com
-t.co
-t.me
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 telephonyspamprotect-pa.googleapis.com
 the.earth.li
 thenextweb.com
@@ -1216,18 +1119,14 @@ turner-tls.map.fastly.net
 twitter.com
 unpkg.com
 unsubscribe.mailerlite.com
-<<<<<<< HEAD
 update.maxmind.com
 updates.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 urlscan.io
 usa.kaspersky.com
 use.fontawesome.com
 video.xx.fbcdn.net
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
-<<<<<<< HEAD
 www.abebooks.com
 www.aliexpress.com
 www.apt.maxmind.com
@@ -1235,14 +1134,6 @@ www.avantlink.com
 www.ccleaner.com
 www.ccn.com
 www.ct100-test.maxmind.com
-=======
-www3.l.google.com
-www.abebooks.com
-www.aliexpress.com
-www.avantlink.com
-www.ccleaner.com
-www.ccn.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 www.digitaljournal.com
 www.ebates.com
 www.ecdinterface.philips.com
@@ -1257,37 +1148,24 @@ www.google.com
 www.googleadservices.com
 www.googletagmanager.com
 www.gstatic.com
-<<<<<<< HEAD
 www.logs.maxmind.com
 www.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 www.msftconnecttest.com
 www.nsanedown.com
 www.phishtank.com
 www.pinterest.com
 www.privateinternetaccess.com
 www.staradvertiser.com
-<<<<<<< HEAD
 www.tc.maxmind.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 www.techrepublic.com
 www.todayonline.com
 www.worldometers.info
 www.zerohedge.com
-<<<<<<< HEAD
 www2.maxmind.com
 www3.l.google.com
-=======
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
 x.kinja-static.com
 youtu.be
 youtube-nocookie.com
 youtube.com
 yt3.ggpht.com
-<<<<<<< HEAD
 z-p42-instagram.c10r.facebook.com
-=======
-z-p42-instagram.c10r.facebook.com
->>>>>>> 9695732c16457a90b7c5c3df8a18e906b61834ca
