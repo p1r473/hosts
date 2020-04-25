@@ -13,6 +13,3 @@ activate.adobe.com
 practivate.adobe.com
 lmlicenses.wip4.adobe.com
 lm.licenses.adobe.com
-doesntwork.com
-bad.com
-badd.comgh
