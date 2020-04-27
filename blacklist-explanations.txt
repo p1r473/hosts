@@ -1,7 +1,7 @@
-activation.acronis.com #Acronis Licensing server
-cap.cyberlink.com #PowerDVD
-activation.cyberlink.com #PowerDVD
 activate.adobe.com #Photoshop
-practivate.adobe.com #Photoshop
-lmlicenses.wip4.adobe.com #Photoshop
+activation.acronis.com #Acronis Licensing server
+activation.cyberlink.com #PowerDVD
+cap.cyberlink.com #PowerDVD
 lm.licenses.adobe.com #Photoshop
+lmlicenses.wip4.adobe.com #Photoshop
+practivate.adobe.com #Photoshop
