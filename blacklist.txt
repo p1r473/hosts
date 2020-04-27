@@ -1,7 +1,1 @@
-#activate.adobe.com
-#activation.acronis.com
-#activation.cyberlink.com
-#cap.cyberlink.com
-#lm.licenses.adobe.com
-#lmlicenses.wip4.adobe.com
-#practivate.adobe.com
+sampleblacklist.com
