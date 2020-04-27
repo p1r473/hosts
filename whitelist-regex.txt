@@ -1,3 +1,0 @@
-(\.|^)cloudfront\.net$
-(\.|^)lametric\.com$
-(\.|^)maxmind\.com$
