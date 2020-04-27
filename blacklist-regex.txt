@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-^(.+[_.-]?)?ad[sxv]?.*
-^(.+[_.-]?)?adchoice.*
-^(.+[_.-]?)?adim(age|g)s?.*
-^(.+[_.-]?)?adnxs\..*
-^(.+[_.-]?)?ads\..*
-^(.+[_.-]?)?adsdk.*
-^(.+[_.-]?)?adse?rv(er?|ice)?s?.*
-^(.+[_.-]?)?adserv.*
-^(.+[_.-]?)?adtrack(er|ing)?.*
-^(.+[_.-]?)?advert(s|is(ing|ements?))?.*
-^(.+[_.-]?)?advertising\..*
-^(.+[_.-]?)?aff(iliat(es?|ion))?.*
-^(.+[_.-]?)?analytic.*
-^(.+[_.-]?)?analytics\..*
-^(.+[_.-]?)?appnexus\..*
-^(.+[_.-]?)?banners\..*
-^(.+[_.-]?)?beacons\..*
-^(.+[_.-]?)?buffpanel\.com$
-^(.+[_.-]?)?bugsnag\.com$
-^(.+[_.-]?)?clicks\.beap\..*
-^(.+[_.-]?)?count(ers?)\..*
-^(.+[_.-]?)?doubleclick\..*
-=======
 ^(.+[_.-]?)?adchoice.*
 ^(.+[_.-]?)?adsdk.*
 ^(.+[_.-]?)?adserv.*
@@ -54,34 +30,11 @@
 ^(.+[_.-]?)?advertising\..*
 ^(.+[_.-]?)?appnexus\..*
 ^(.+[_.-]?)?clicks\.beap\..*
->>>>>>> 37b04dd7521ed1b0dcc143f80bccef155a47a1f6
 ^(.+[_.-]?)?evidon\..*
 ^(.+[_.-]?)?flashtalking\..*
 ^(.+[_.-]?)?global\.ard\.yahoo.*
 ^(.+[_.-]?)?googlesyndication\..*
 ^(.+[_.-]?)?info\.yahoo\..*
-<<<<<<< HEAD
-^(.+[_.-]?)?lgsmartad\.com$
-^(.+[_.-]?)?mads\..*
-^(.+[_.-]?)?mathtag\..*
-^(.+[_.-]?)?mediamath\..*
-^(.+[_.-]?)?metric.*
-^(.+[_.-]?)?pixels\..*
-^(.+[_.-]?)?redshell\.io$
-^(.+[_.-]?)?scorecardresearch\..*
-^(.+[_.-]?)?sitescout\..*
-^(.+[_.-]?)?stat(s|istics)?\..*
-^(.+[_.-]?)?surveylink\..*
-^(.+[_.-]?)?telemetry.*
-^(.+[_.-]?)?track(ing)?.*
-^(.+[_.-]?)?treasuredata\.com$
-^(.+[_.-]?)?turn\..*
-^(.+[_.-]?)?unity(|3d)\.com$
-^(.+[_.-]?)?unityads(|\.co)\.com$
-^(.+[_.-]?)?w55c\..*
-^(.+[_.-]?)?xn--.*
-^(.+[_.-]?)?yieldmanager\..*
-=======
 ^(.+[_.-]?)?mathtag\..*
 ^(.+[_.-]?)?mediamath\..*
 ^(.+[_.-]?)?scorecardresearch\..*
@@ -93,4 +46,3 @@
 ^(.+[_.-]?)?mads\..*
 ^(.+[_.-]?)?pixels\..*
 ^(.+[_.-]?)?stat(s|istics)?\..*
->>>>>>> 37b04dd7521ed1b0dcc143f80bccef155a47a1f6
