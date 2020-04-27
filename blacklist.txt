@@ -1,7 +1,7 @@
-#activation.acronis.com
-#cap.cyberlink.com
-#activation.cyberlink.com
 #activate.adobe.com
-#practivate.adobe.com
-#lmlicenses.wip4.adobe.com
+#activation.acronis.com
+#activation.cyberlink.com
+#cap.cyberlink.com
 #lm.licenses.adobe.com
+#lmlicenses.wip4.adobe.com
+#practivate.adobe.com
