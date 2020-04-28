@@ -1,3 +1,4 @@
 (\.|^)cloudfront\.net$
+(\.|^)gravatar\.com$
 (\.|^)lametric\.com$
 (\.|^)maxmind\.com$
