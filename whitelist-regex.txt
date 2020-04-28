@@ -1,4 +1,6 @@
 (\.|^)cloudfront\.net$
 (\.|^)gravatar\.com$
+(\.|^)intercom\.io$
+(\.|^)intercomcdn\.com$
 (\.|^)lametric\.com$
 (\.|^)maxmind\.com$
