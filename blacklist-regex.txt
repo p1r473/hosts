@@ -30,7 +30,6 @@
 ^(.+[_.-])?mediamath\..*
 ^(.+[_.-])?metric.*
 ^(.+[_.-])?pixels\..*
-^(.+[_.-])?pixels\..*
 ^(.+[_.-])?redshell\.io$
 ^(.+[_.-])?scorecardresearch\..*
 ^(.+[_.-])?sitescout\..*
