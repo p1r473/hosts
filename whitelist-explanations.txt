@@ -60,4 +60,5 @@ www.gstatic.com #Google
 x.kinja-static.com #Gizmodo news pictures
 youtu.be #YouTube
 youtube-nocookie.com #Youtube
+youtube-ui.l.google.com #Youtube
 yt3.ggpht.com #YouTube comment avatars

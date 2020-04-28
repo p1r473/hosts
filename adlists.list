@@ -35,7 +35,6 @@ https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Anti-FPT.txt
 https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Crashlytics.txt
 https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Malware.txt
 https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Popads.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Windows%2010.txt
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/tracking/domains.list
@@ -171,7 +170,6 @@ https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hos
 https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/PaidContentLinks.txt
 https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/UserSuggested.txt
 https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
 https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/dex4k/dex4kblocklist/master/dex4kblocklist.txt
 https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups_Head
@@ -320,6 +318,8 @@ https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%20Miners/UserSuggested.txt
 #Banned
 #https:://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt blocks answers.microsoft.com  support.microsoft.com login.live.com
+#https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt Windows updates
+#https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Windows%2010.txt Windows
 #https:://blocklist.kowabit.de/list.txt blocks XXX
 #https:://gitlab.com/intr0/iVOID.GitLab.io/raw/master/iVOID.hosts blocks mainstream social media
 #https:://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/uBlockFiltersPlus.txt blocks XXX
