@@ -46,6 +46,7 @@ cdn.syndication.twimg.com
 cdn2.editmysite.com
 cdnjs.cloudflare.com
 cdns.gigya.com
+cds.j3z9t3p6.hwcdn.net
 change.org
 checkip.us-east-1.prod.check-ip.aws.a2z.com
 chrome.google.com
@@ -58,7 +59,9 @@ clients6.google.com
 code.jquery.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
+couponxoo.com
 cs45.wac.edgecastcdn.net
+cs9.wac.phicdn.net
 cta-redirect.hubspot.com
 ctldl.windowsupdate.com
 dailymotion.com
@@ -169,6 +172,7 @@ nsanedown.com
 nypost.com
 openload.co
 out.reddit.com
+outlook.office365.com
 passport.mobilenations.com
 pastebin.com
 people-pa.googleapis.com
@@ -208,6 +212,7 @@ slscr.update.microsoft.com
 socialize.us1.gigya.com
 sputniknews.com
 ssl.p.jwpcdn.com
+star-mini.c10r.facebook.com
 static-cdn.jtvnw.net
 static.intercomassets.com
 static.zdassets.com
@@ -231,6 +236,7 @@ todayonline.com
 todo-ta-g7g.amazon.com
 tracker.openbittorrent.com
 transactions.sendowl.com
+trk.klclick.com
 turner-tls.map.fastly.net
 twitter.com
 unpkg.com
@@ -239,6 +245,7 @@ urlscan.io
 us-central1-gcp.api.snapchat.com
 usa.kaspersky.com
 use.fontawesome.com
+v2assets.zopim.io
 video.xx.fbcdn.net
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
@@ -247,6 +254,7 @@ www.aliexpress.com
 www.avantlink.com
 www.ccleaner.com
 www.ccn.com
+www.couponxoo.com
 www.digitaljournal.com
 www.ebates.com
 www.ecdinterface.philips.com
@@ -275,6 +283,7 @@ www3.l.google.com
 x.kinja-static.com
 youtu.be
 youtube-nocookie.com
+youtube-ui.l.google.com
 youtube.com
 yt3.ggpht.com
 z-p42-instagram.c10r.facebook.com
