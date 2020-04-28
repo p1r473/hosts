@@ -29,6 +29,7 @@
 ^(.+[_.-])?mathtag\..*
 ^(.+[_.-])?mediamath\..*
 ^(.+[_.-])?metric.*
+^(.+[_.-])?pixel\..*
 ^(.+[_.-])?pixels\..*
 ^(.+[_.-])?redshell\.io$
 ^(.+[_.-])?scorecardresearch\..*
