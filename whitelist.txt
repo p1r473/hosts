@@ -162,6 +162,7 @@ mobile.twitter.com
 mobilenetworkscoring-pa.googleapis.com
 mobilesyrup.com
 na2.docusign.net
+news.bitcoin.com
 no-cache.hubspot.com
 north-america.pool.ntp.org
 nsanedown.com
