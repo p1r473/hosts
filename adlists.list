@@ -80,7 +80,6 @@ https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.t
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/Canvas%20font%20fingerprinting.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/audio%20fingerprinting%20pages.txt
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/canvas%20fingerprinting%20pages.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/trackers.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/webrtc%20tracking.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
@@ -172,6 +171,13 @@ https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adwar
 https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
 https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/dex4k/dex4kblocklist/master/dex4kblocklist.txt
+https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/cyberthreat.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/home-lite.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/home-medium.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt
+https://raw.githubusercontent.com/durablenapkin/block/master/home-obese.txt
 https://raw.githubusercontent.com/faralai/Pihole-Rules/master/Fara-Popups_Head
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt
@@ -327,6 +333,7 @@ https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%
 #https:://www.hostsfile.org/Downloads/hosts.txt blocks XXX
 #http://phishing.mailscanner.info/phishing.bad.sites.conf blocks play.google.com / not possible to report
 #https:://adblock.mahakala.is blocks XXX
+#https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/canvas%20fingerprinting%20pages.txt
 #Redundant
 #https:://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-Clickbait-Blocklist.txt
 #https:://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-X-Files.txt
