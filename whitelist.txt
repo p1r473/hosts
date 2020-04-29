@@ -132,6 +132,7 @@ imapi-mu.isnssdk.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 imgur.com
+instagram.c10r.facebook.com
 instagram.com
 instantmessaging-pa.googleapis.com
 iob.imgur.com
@@ -274,8 +275,10 @@ www.nsanedown.com
 www.phishtank.com
 www.pinterest.com
 www.privateinternetaccess.com
+www.sevenforums.com
 www.staradvertiser.com
 www.techrepublic.com
+www.tenforums.com
 www.todayonline.com
 www.worldometers.info
 www.zerohedge.com
