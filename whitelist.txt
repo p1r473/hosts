@@ -171,6 +171,7 @@ news.bitcoin.com
 no-cache.hubspot.com
 north-america.pool.ntp.org
 nsanedown.com
+ntp.nict.jp
 nypost.com
 openload.co
 out.reddit.com
