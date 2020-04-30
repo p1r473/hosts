@@ -25,6 +25,7 @@ archive.org
 asia.pool.ntp.org
 assets.bwbx.io
 assets.guim.co.uk
+amazon.com
 au.download.windowsupdate.com
 auth.samsungosp.com
 bethesda.net
@@ -213,11 +214,11 @@ slscr.update.microsoft.com
 socialize.us1.gigya.com
 sputniknews.com
 ssl.p.jwpcdn.com
-star-mini.c10r.facebook.com
 static-cdn.jtvnw.net
 static.intercomassets.com
 static.zdassets.com
 static01.nyt.com
+star-mini.c10r.facebook.com
 steamcommunity.com
 stockhouse.com
 storage.googleapis.com
@@ -249,6 +250,7 @@ use.fontawesome.com
 v2assets.zopim.io
 video.xx.fbcdn.net
 videos.oovvuu.com
+vignette.wikia.nocookie.net
 webtrack.dhlglobalmail.com
 www.abebooks.com
 www.aliexpress.com
