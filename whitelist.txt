@@ -211,6 +211,7 @@ secure.brightcove.com
 seekingalpha.com
 sls.update.microsoft.com
 slscr.update.microsoft.com
+smartlinks.intuit.com
 socialize.us1.gigya.com
 sputniknews.com
 ssl.p.jwpcdn.com
