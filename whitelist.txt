@@ -11,6 +11,7 @@ addons.mozilla.org
 ae01.alicdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
+amazon.com
 amzn.to
 android.clients.google.com
 angryip.org
@@ -25,7 +26,6 @@ archive.org
 asia.pool.ntp.org
 assets.bwbx.io
 assets.guim.co.uk
-amazon.com
 au.download.windowsupdate.com
 auth.samsungosp.com
 bethesda.net
@@ -214,11 +214,11 @@ slscr.update.microsoft.com
 socialize.us1.gigya.com
 sputniknews.com
 ssl.p.jwpcdn.com
+star-mini.c10r.facebook.com
 static-cdn.jtvnw.net
 static.intercomassets.com
 static.zdassets.com
 static01.nyt.com
-star-mini.c10r.facebook.com
 steamcommunity.com
 stockhouse.com
 storage.googleapis.com
