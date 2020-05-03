@@ -1,5 +1,3 @@
-statics-www-ssl.gingersoftware.com
-static.makeuseof.com
 2.android.pool.ntp.org
 3p.ampproject.net
 a1089.dscd.akamai.net
@@ -223,8 +221,10 @@ ssl.p.jwpcdn.com
 star-mini.c10r.facebook.com
 static-cdn.jtvnw.net
 static.intercomassets.com
+static.makeuseof.com
 static.zdassets.com
 static01.nyt.com
+statics-www-ssl.gingersoftware.com
 steamcommunity.com
 stockhouse.com
 storage.googleapis.com
