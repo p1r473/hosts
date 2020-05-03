@@ -1,3 +1,5 @@
+statics-www-ssl.gingersoftware.com
+static.makeuseof.com
 2.android.pool.ntp.org
 3p.ampproject.net
 a1089.dscd.akamai.net
@@ -104,6 +106,7 @@ forum.kaspersky.com
 funk.eu
 gateway.reddit.com
 gcp.api.snapchat.com
+getpocket.com
 giphy.com
 gist.githubusercontent.com
 gitlab.com
@@ -215,6 +218,7 @@ slscr.update.microsoft.com
 smartlinks.intuit.com
 socialize.us1.gigya.com
 sputniknews.com
+ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
 star-mini.c10r.facebook.com
 static-cdn.jtvnw.net
@@ -268,6 +272,7 @@ www.experian.com
 www.express.co.uk
 www.facebook.com
 www.funk.eu
+www.getpocket.com
 www.glassdoor.ca
 www.goldmoney.com
 www.google.com
