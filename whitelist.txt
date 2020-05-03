@@ -138,6 +138,7 @@ instagram.c10r.facebook.com
 instagram.com
 instantmessaging-pa.googleapis.com
 iob.imgur.com
+ipchicken.com
 jouw.postnl.nl
 js.braintreegateway.com
 js.gleam.io
@@ -279,6 +280,7 @@ www.google.com
 www.googleadservices.com
 www.googletagmanager.com
 www.gstatic.com
+www.ipchicken.com
 www.msftconnecttest.com
 www.nsanedown.com
 www.phishtank.com
