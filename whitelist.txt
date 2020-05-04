@@ -200,6 +200,7 @@ raw.githubusercontent.com
 rds-assets.nvidia.com
 reddit.app.link
 redirector.googlevideo.com
+rogers.lithium.com
 s.marketwatch.com
 s.w.org
 s.ytimg.com
