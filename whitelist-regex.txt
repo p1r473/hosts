@@ -1,3 +1,4 @@
+(\.|^)abg-analytics\.com$
 (\.|^)cloudfront\.net$
 (\.|^)gravatar\.com$
 (\.|^)intercom\.io$
