@@ -238,6 +238,7 @@ storage.googleapis.com
 storage.live.com
 store-images.microsoft.com
 store-images.s-microsoft.com
+stripecdn.map.fastly.net
 support.kaspersky.com
 support.microsoft.com
 t.co
