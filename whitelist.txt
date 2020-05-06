@@ -162,6 +162,7 @@ maps.googleapis.com
 maps.gstatic.com
 maxcdn.bootstrapcdn.com
 media0.giphy.com
+mediafire.com
 medium.com
 mene.com
 mingle.kijiji.ca
@@ -287,6 +288,7 @@ www.googleadservices.com
 www.googletagmanager.com
 www.gstatic.com
 www.ipchicken.com
+www.mediafire.com
 www.msftconnecttest.com
 www.nsanedown.com
 www.phishtank.com
