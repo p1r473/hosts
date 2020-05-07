@@ -20,6 +20,7 @@ dashboard-06.braze.com #Unsubscribe from Mailing Lists
 dmd.metaservices.microsoft.com #device metadata: https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #New York Post embedded videos
+dualstack.com.imgix.map.fastly.net #Kickstarter images
 dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos		
 edge.api.brightcove.com #City News 1130 videos
 encrypted-tbn1.gstatic.com #Gstatic is a service used by Google to hold static content and reduce bandwidth usage.
@@ -54,6 +55,8 @@ static01.nyt.com #New York Times
 t.co #Twitter
 unpkg.com #flatten.ca map
 us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
+v2assets.zopim.io #Support avatar on Reship chat
+widget-mediator.zopim.com #Support chat on Reship
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google

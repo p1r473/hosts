@@ -80,9 +80,11 @@ download.windowsupdate.com
 downloads.intercomcdn.com
 drive.google.com
 dualstack.brightcove.map.fastly.net
+dualstack.com.imgix.map.fastly.net
 dualstack.us-eu.brightcove.map.fastly.net
 dyjpb62732.i.lithium.com
 ebates.com
+edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
 encrypted-tbn0.gstatic.com
@@ -228,6 +230,7 @@ sputniknews.com
 ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
 star-mini.c10r.facebook.com
+star.c10r.facebook.com
 static-cdn.jtvnw.net
 static.intercomassets.com
 static.makeuseof.com
