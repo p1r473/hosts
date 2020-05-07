@@ -16,6 +16,7 @@ amzn.to
 android.clients.google.com
 angryip.org
 answers.microsoft.com
+api.fing.io
 api.github.com
 api.locize.io
 api.videos.oovvuu.com
