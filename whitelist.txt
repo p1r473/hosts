@@ -110,6 +110,7 @@ gateway.reddit.com
 gcp.api.snapchat.com
 getpocket.com
 getsatisfaction.com
+ghostery.com
 giphy.com
 gist.githubusercontent.com
 gitlab.com
@@ -287,6 +288,7 @@ www.express.co.uk
 www.facebook.com
 www.funk.eu
 www.getpocket.com
+www.ghostery.com
 www.glassdoor.ca
 www.goldmoney.com
 www.google.com
