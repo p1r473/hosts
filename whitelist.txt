@@ -263,6 +263,7 @@ turner-tls.map.fastly.net
 twitter.com
 unpkg.com
 unsubscribe.mailerlite.com
+uptimerobot.com
 urlscan.io
 us-central1-gcp.api.snapchat.com
 usa.kaspersky.com
@@ -307,6 +308,7 @@ www.staradvertiser.com
 www.techrepublic.com
 www.tenforums.com
 www.todayonline.com
+www.uptimerobot.com
 www.worldometers.info
 www.zerohedge.com
 www.ziprecruiter.com
