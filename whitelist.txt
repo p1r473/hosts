@@ -106,6 +106,7 @@ fonts.intercomcdn.com
 forms.gle
 forum.kaspersky.com
 funk.eu
+gamecopyworld.com
 gateway.reddit.com
 gcp.api.snapchat.com
 getpocket.com
@@ -288,6 +289,7 @@ www.experian.com
 www.express.co.uk
 www.facebook.com
 www.funk.eu
+www.gamecopyworld.com
 www.getpocket.com
 www.ghostery.com
 www.glassdoor.ca
