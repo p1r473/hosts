@@ -60,6 +60,7 @@ clients.l.google.com
 clients1.google.com
 clients6.google.com
 code.jquery.com
+coingeek.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
 couponxoo.com
@@ -280,6 +281,7 @@ www.aliexpress.com
 www.avantlink.com
 www.ccleaner.com
 www.ccn.com
+www.coingeek.com
 www.couponxoo.com
 www.digitaljournal.com
 www.ebates.com
