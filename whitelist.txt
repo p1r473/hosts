@@ -158,6 +158,7 @@ koho.onelink.me
 kotaku.com
 l.facebook.com
 links.mint.com
+linktr.ee
 linuxconfig.org
 lnkd.in
 login.live.com
