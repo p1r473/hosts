@@ -5,3 +5,6 @@
 #lm.licenses.adobe.com
 #lmlicenses.wip4.adobe.com
 #practivate.adobe.com
+cdns.grindr.com
+chat.grindr.com
+grindr.mobi
