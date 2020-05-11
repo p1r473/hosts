@@ -76,7 +76,6 @@ https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28Hosts%29.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28iPv4%29.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
-https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/audio%20fingerprinting%20pages.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/trackers.txt
