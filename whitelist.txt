@@ -61,6 +61,7 @@ clients1.google.com
 clients6.google.com
 code.jquery.com
 coingeek.com
+coinmarketcap.com
 community.kaspersky.com
 connectivitycheck.gstatic.com
 couponxoo.com
@@ -283,6 +284,7 @@ www.avantlink.com
 www.ccleaner.com
 www.ccn.com
 www.coingeek.com
+www.coinmarketcap.com
 www.couponxoo.com
 www.digitaljournal.com
 www.ebates.com
