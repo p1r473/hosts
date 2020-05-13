@@ -29,6 +29,7 @@ assets.bwbx.io
 assets.guim.co.uk
 au.download.windowsupdate.com
 auth.samsungosp.com
+aweber.com
 bethesda.net
 bit.ly
 bitbucket.org
@@ -282,6 +283,7 @@ whatismyipaddress.com
 www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
+www.aweber.com
 www.ccleaner.com
 www.ccn.com
 www.coingeek.com
