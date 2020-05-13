@@ -22,6 +22,7 @@ api.locize.io
 api.videos.oovvuu.com
 api.yotpo.com
 apkpure.com
+app-ab27.marketo.com
 appuals.com
 archive.org
 asia.pool.ntp.org
