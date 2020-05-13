@@ -4,6 +4,7 @@ accounts.us1.gigya.com #Logging into iRobot app on Android
 ae01.alicdn.com #Images on AliExpress
 amzn.to #Amazon
 api.yotpo.com #Online store customer reviews
+app-ab27.marketo.com #Signing up for NitroPDF trial
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #The Guardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
