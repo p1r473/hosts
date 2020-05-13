@@ -55,6 +55,7 @@ checkip.us-east-1.prod.check-ip.aws.a2z.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io
+clicks.aweber.com
 clickserve.dartsearch.net
 client.wns.windows.com
 clients.l.google.com
