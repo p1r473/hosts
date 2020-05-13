@@ -192,7 +192,6 @@ https://raw.githubusercontent.com/hemiipatu/Blocklists/master/fraudulent.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
 https://raw.githubusercontent.com/jaykepeters/Blocklists/master/Ads/spotify.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/joeylane/hosts/master/hosts
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_badbait_th.txt
@@ -334,6 +333,7 @@ https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%
 #https:://adblock.mahakala.is blocks XXX
 #https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/canvas%20fingerprinting%20pages.txt too many false positives
 #https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/Canvas%20font%20fingerprinting.txt too many false positives
+#https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt blocks XXX
 #Redundant
 #https:://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-Clickbait-Blocklist.txt
 #https:://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/ABP-X-Files.txt
