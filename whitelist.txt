@@ -96,6 +96,7 @@ encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 etsy.com
+event.on24.com
 experian.com
 fast.wistia.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
