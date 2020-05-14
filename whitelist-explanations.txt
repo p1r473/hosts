@@ -54,6 +54,7 @@ static.intercomassets.com #Website layouts that use Intercom help
 static.zdassets.com #Kobo/Rakuten "contact us" page
 static01.nyt.com #New York Times
 t.co #Twitter
+trk.klclick2.com #Email unsubscribe
 unpkg.com #flatten.ca map
 us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 v2assets.zopim.io #Support avatar on Reship chat
