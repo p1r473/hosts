@@ -1,6 +1,5 @@
 2.android.pool.ntp.org
 3p.ampproject.net
-a1089.dscd.akamai.net
 abebooks.com
 accounts.google.com
 accounts.nvgs.nvidia.com
@@ -30,12 +29,12 @@ assets.bwbx.io
 assets.guim.co.uk
 au.download.windowsupdate.com
 auth.samsungosp.com
-aweber.com
 bethesda.net
 bit.ly
 bitbucket.org
 bnc.lt
 boardgamegeek.com
+bountysource.com
 c0.wp.com
 calendarsync-pa.googleapis.com
 cdn.ampproject.org
@@ -52,12 +51,8 @@ cdnjs.cloudflare.com
 cdns.gigya.com
 cds.j3z9t3p6.hwcdn.net
 change.org
-checkip.us-east-1.prod.check-ip.aws.a2z.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
-click.appcast.io
-clicks.aweber.com
-clickserve.dartsearch.net
 client.wns.windows.com
 clients.l.google.com
 clients1.google.com
@@ -87,7 +82,6 @@ drive.google.com
 dualstack.brightcove.map.fastly.net
 dualstack.com.imgix.map.fastly.net
 dualstack.us-eu.brightcove.map.fastly.net
-dyjpb62732.i.lithium.com
 ebates.com
 edge-chat.facebook.com
 edge-mqtt.facebook.com
@@ -108,7 +102,6 @@ fe3cr.delivery.mp.microsoft.com
 firebaseinstallations.googleapis.com
 flic.kr
 fonts.gstatic.com
-fonts.intercomcdn.com
 forms.gle
 forum.kaspersky.com
 funk.eu
@@ -157,7 +150,6 @@ js.braintreegateway.com
 js.gleam.io
 js.hsforms.net
 js.stripe.com
-kaymo75663.lithium.com
 kitco.com
 koho.onelink.me
 kotaku.com
@@ -207,7 +199,6 @@ play.googleapis.com
 players.brightcove.net
 pmd.cdn.turner.com
 pool.ntp.org
-ppl.i.lithium.com
 privateinternetaccess.com
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
@@ -216,7 +207,6 @@ raw.githubusercontent.com
 rds-assets.nvidia.com
 reddit.app.link
 redirector.googlevideo.com
-rogers.lithium.com
 s.marketwatch.com
 s.w.org
 s.ytimg.com
@@ -288,6 +278,7 @@ www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
 www.aweber.com
+www.bountysource.com
 www.ccleaner.com
 www.ccn.com
 www.coingeek.com
