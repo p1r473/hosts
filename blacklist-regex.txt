@@ -103,7 +103,6 @@
 ^(stat\.)
 ^(stats\.)
 ^(track\.)
-^(tracker\.)
 ^(tracking\.)
 ^(www[0-9]*\.)?xn--
 ^ad[0-9.-]*\..*\.(com|net|org)$
