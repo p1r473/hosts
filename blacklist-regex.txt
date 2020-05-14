@@ -137,6 +137,5 @@
 ^stat(s|istics)?[0-9]*[_.-]
 ^telemetry[-.]
 ^track(ing)?[0-9]*[_.-]
-^track.*[-.]
 ^traff(ic)?[-.]
 r(\[0-9\]+)---sn(\[a-z-0-9\])+\\.googlevideo.com
