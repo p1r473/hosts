@@ -246,6 +246,7 @@ https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/blacklist.txt
+https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analytics.txt
