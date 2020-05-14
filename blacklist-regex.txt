@@ -106,13 +106,6 @@
 ^(tracker\.)
 ^(tracking\.)
 ^(www[0-9]*\.)?xn--
-^.+\.(accountant|biz|bid|christmas|click|country|cricket|date|download)$
-^.+\.(faith|gdn|gq|kim|life|loan|world|xin|xyz|zip|link)$
-^.+\.(id|cash|za|red|ltd|cloud|ae|trade|name|store)$
-^.+\.(in|hosting|online|cc|sh|pl|network|la|me|bg|br|website|live)$
-^.+\.(love|luxe|realestate)$
-^.+\.(men|mom|ninja|pro|racing|realtor|science|space|stream|top|win|work)$
-^.+\.(ru|cn|ro|ml|ga|gq|cf|tk|pw|ua|ug|ve|site|club|host|party)$
 ^ad[0-9.-]*\..*\.(com|net|org)$
 ^adim(age|g)s?[0-9]*[-_.]
 ^adim(age|g)s?[0-9]*[_.-]
