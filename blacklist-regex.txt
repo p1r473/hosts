@@ -56,7 +56,7 @@
 ^(.+[_.-])?surveylink\..*
 ^(.+[_.-])?telemetry[_.-]
 ^(.+[_.-])?telemetry\..*
-^(.+[_.-])?track(ing)?\..*
+^(.+[_.-])?track(ers|ing)?\..*
 ^(.+[_.-])?treasuredata\.com$
 ^(.+[_.-])?unity(|3d)\.com$
 ^(.+[_.-])?unityads(|\.co)\.com$
@@ -102,9 +102,8 @@
 ^(scrooge\.)
 ^(stat\.)
 ^(stats\.)
-^(track\.)
-^(trackers|tracking)[0-9]*[-.]
-^(tracking\.)
+^(track(ers|ing)?[0-9]*[-.]
+^(track(ers|ing)?\.)
 ^(www[0-9]*\.)?xn--
 ^ad[0-9.-]*\..*\.(com|net|org)$
 ^adim(age|g)s?[0-9]*[-_.]
@@ -136,6 +135,6 @@
 ^stat(s|istics)?[0-9]*[-.]
 ^stat(s|istics)?[0-9]*[_.-]
 ^telemetry[-.]
-^track(ing)?[0-9]*[_.-]
+^track(ers|ing)?[0-9]*[_.-]
 ^traff(ic)?[-.]
 r(\[0-9\]+)---sn(\[a-z-0-9\])+\\.googlevideo.com
