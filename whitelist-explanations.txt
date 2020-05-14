@@ -1,4 +1,7 @@
+2.android.pool.ntp.org #NTP server
+3p.ampproject.net #AMP Server
 3p.ampproject.net #Google News articles
+a1089.dscd.akamai.net #Blocked by RhyS
 accounts.nvgs.nvidia.com #Logging into Nvidia on the Shield
 accounts.us1.gigya.com #Logging into iRobot app on Android
 ae01.alicdn.com #Images on AliExpress
@@ -12,6 +15,7 @@ cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.jsdelivr.net #Breaks images on several sites
 cdnjs.cloudflare.com #Javascript on websites
 cdns.gigya.com #Embedded CTV News videos
+cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
 clients1.google.com #Chrome auto fill and search results
 clients6.google.com #Google Drive
 code.jquery.com #Website layouts
