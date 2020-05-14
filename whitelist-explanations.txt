@@ -1,16 +1,27 @@
+1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
-3p.ampproject.net #AMP Server
 3p.ampproject.net #Google News articles
 a1089.dscd.akamai.net #Blocked by RhyS
+abebooks.com #Book store
 accounts.nvgs.nvidia.com #Logging into Nvidia on the Shield
 accounts.us1.gigya.com #Logging into iRobot app on Android
 ae01.alicdn.com #Images on AliExpress
-amzn.to #Amazon
+ajax.cloudflare.com #Cloudflare
+ajax.googleapis.com #Required for WowHead
+amzn.to #Amazon URL shortener
+angryip.org #Network scanner software
+api.locize.io #Bethesda.net
+api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 api.yotpo.com #Online store customer reviews
 app-ab27.marketo.com #Signing up for NitroPDF trial
+appuals.com #News site
+asia.pool.ntp.org #NTP Server
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #The Guardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
+aweber.com #Email marketing ubsubscribe
+bit.ly #URL SHortener
+bitbucket.org #hosting an adlist
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.jsdelivr.net #Breaks images on several sites
 cdnjs.cloudflare.com #Javascript on websites
