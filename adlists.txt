@@ -1,7 +1,6 @@
 http://abpvn.com/android/abpvn.txt
 http://malwaredomains.lehigh.edu/files/immortal_domains.txt
-http://malwaredomains.lehigh.edu/files/justdomains
-http://mirror1.malwaredomains.com/files/justdomains
+http://malwaredomains.lehigh.edu/files/domains.txt
 http://sbc.io/hosts/hosts
 http://someonewhocares.org/hosts/zero/hosts
 http://sysctl.org/cameleon/hosts
