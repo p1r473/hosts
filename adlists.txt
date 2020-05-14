@@ -7,7 +7,6 @@ http://someonewhocares.org/hosts/zero/hosts
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
 http://www.botvrij.eu/data/ioclist.hostname.raw
-http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://www.taz.net.au/Mail/SpamDomains
 http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
 https://abpvn.com/android/abpvn.txt
@@ -83,7 +82,6 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
-https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28Hosts%29.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28iPv4%29.txt
@@ -158,11 +156,16 @@ https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt
+https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
@@ -321,20 +324,18 @@ https://warui.intaa.net/adhosts/hosts.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.bentasker.co.uk/adblock/blocked_domains_with_sm.txt
 https://www.bentasker.co.uk/adblock/blockeddomains.txt
-https://www.bentasker.co.uk/adblock/config/manualblock.txt
 https://www.bentasker.co.uk/adblock/config/manualzones.txt
 https://www.dshield.org/feeds/suspiciousdomains_High.txt
 https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
-#https://www.joewein.net/dl/bl/dom-bl-base.txt
-#https://www.joewein.net/dl/bl/dom-bl.txt
+https://www.joewein.net/dl/bl/dom-bl-base.txt
+https://www.joewein.net/dl/bl/dom-bl.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.threatcrowd.org/feeds/domains.txt
 https://zonefiles.io/f/compromised/domains/live
-
 #My Blacklist
 #http://localhost:81/others.txt
 #http://mydomain.myhost.com:4444/others.txt
