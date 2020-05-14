@@ -145,6 +145,7 @@ instagram.c10r.facebook.com
 instagram.com
 instantmessaging-pa.googleapis.com
 iob.imgur.com
+ip-tracker.org
 ipchicken.com
 jouw.postnl.nl
 js.braintreegateway.com
@@ -302,6 +303,7 @@ www.google.com
 www.googleadservices.com
 www.googletagmanager.com
 www.gstatic.com
+www.ip-tracker.org
 www.ipchicken.com
 www.mediafire.com
 www.msftconnecttest.com
