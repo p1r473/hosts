@@ -1,7 +1,6 @@
 1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
-a1089.dscd.akamai.net #Blocked by RhyS
 abebooks.com #Book store
 accounts.nvgs.nvidia.com #Logging into Nvidia on the Shield
 accounts.us1.gigya.com #Logging into iRobot app on Android
@@ -19,18 +18,22 @@ asia.pool.ntp.org #NTP Server
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #The Guardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
-aweber.com #Email marketing ubsubscribe
 bit.ly #URL SHortener
 bitbucket.org #hosting an adlist
+bnc.lt #Downloading game from GamerLink
+c0.wp.com #Wordpress
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.jsdelivr.net #Breaks images on several sites
 cdnjs.cloudflare.com #Javascript on websites
 cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
+clicks.aweber.com #Subscribe to mailing list
 clients1.google.com #Chrome auto fill and search results
 clients6.google.com #Google Drive
 code.jquery.com #Website layouts
 cs45.wac.edgecastcdn.net #Embedded images in Twitter feed
+cs9.wac.phicdn.net #PornHub
+cta-redirect.hubspot.com #Redirection
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 dashboard-06.braze.com #Unsubscribe from Mailing Lists
 dmd.metaservices.microsoft.com #device metadata: https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
@@ -39,40 +42,75 @@ dualstack.brightcove.map.fastly.net #New York Post embedded videos
 dualstack.com.imgix.map.fastly.net #Kickstarter images
 dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos		
 edge.api.brightcove.com #City News 1130 videos
-encrypted-tbn1.gstatic.com #Gstatic is a service used by Google to hold static content and reduce bandwidth usage.
-encrypted-tbn3.gstatic.com 
+encrypted-tbn*.gstatic.com #Gstatic is a service used by Google to hold static content and reduce bandwidth usage.
+event.on24.com #Isaca webinars
 events.gfe.nvidia.com #Nvidia
+fast.wistia.com #Embedded videos on PurposeInvest
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 fonts.intercomcdn.com #Website layouts that use Intercom help
+forms.gle #Google Forms
+go.redirectingat.com #Link redirection
+ht.cdn.turner.com #CNN Videos
+i.gyazo.com #Screenshot sharing service
 i.ytimg.com #YouTube thumbnails
+i0.wp.com #WordPress
+i2.wp.com #WordPress
+images.gounlimited.to #Image hosring
 imapi-mu.isnssdk.com #TikTok DMs
 img-prod-cms-rt-microsoft-com.akamaized.net #Microsoft.com images
 img-s-msn-com.akamaized.net #Images hosts on Akamai for MSN.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
+jouw.postnl.nl #European mail courier
+js.braintreegateway.com #Credit card entry using Braintree
+js.gleam.io #Gleam Javascript
+js.hsforms.net #Form content on PurposeInvest and Forbes Real Estate Council
 js.stripe.com #Stripe payments
 koho.onelink.me #Koho appstore link
+lnkd.in #LinkedIn URL shortener
 login.live.com #Microsoft OAUTH sign in
 maxcdn.bootstrapcdn.com #Digital Journal layout
+media0.giphy.com #Giphy app
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
 no-cache.hubspot.com #Ycharts images
+north-america.pool.ntp.org #NTP Server
+ntp.nict.jp #NTP Server
 players.brightcove.net #City News 1130 videos
 pmd.cdn.turner.com #CNN videos
+pool.ntp.org #NTP Server
+qvay.app.link #Texts you link to download an app
 redirector.googlevideo.com #Google Play Movies
 s.marketwatch.com #MarketWatch images
+s.w.org #WordPress
 s.ytimg.com #Embedded YouTube videos
+s0.wp.com #WordPress
 s1.twnmm.com #The Weather Network website layout
+s1.twnmm.com #WordPress
+s1.wp.com #WordPress
+s2.wp.com #WordPress
+s3.tradingview.com #Assets on TradingView
 secure.brightcove.com #City News 1130 videos
 socialize.us1.gigya.com #Logging into iRobot app on Android
+ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 ssl.p.jwpcdn.com #GlobalNews embedded video
+ssl.p.jwpcdn.com #JWPlayer
 static-cdn.jtvnw.net #Twitch
 static.intercomassets.com #Website layouts that use Intercom help
+static.makeuseof.com #Breaks MakeUseOf
 static.zdassets.com #Kobo/Rakuten "contact us" page
 static01.nyt.com #New York Times
+statics-www-ssl.gingersoftware.com #Assets hosts on Ginger Software
+stripecdn.map.fastly.net #Checkout with Stripe
 t.co #Twitter
+t.me #Telegram
+todo-ta-g7g.amazon.com #Kindle
+trk.klclick.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
+turner-tls.map.fastly.net #CNN
 unpkg.com #flatten.ca map
 us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 v2assets.zopim.io #Support avatar on Reship chat
+vignette.wikia.nocookie.net #wiki icons
 widget-mediator.zopim.com #Support chat on Reship
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
