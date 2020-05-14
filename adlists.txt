@@ -265,7 +265,7 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.t
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt
-https://raw.githubusercontent.com/p1r473/PiHoleBlocklist/patch-1/SessionReplay.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
 https://raw.githubusercontent.com/p1r473/samsungnosnooping/master/Samsungnosnooping.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt
