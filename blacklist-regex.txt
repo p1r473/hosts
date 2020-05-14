@@ -9,7 +9,7 @@
 ((^)|(.))tracking.
 (.*)\.g00\.(.*)
 (.*)\.g0[0-9]\.(.*)
-(.*\.|^)((think)?with)?google($|((adservices|apis|mail|static|syndication|tagmanager|tagservices|usercontent|zip|-analytics)($|\..+)))
+(.*\.|^)((think)?with)?google($|((adservices|syndication|-analytics)($|\..+)))
 .*\.g00\..*
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 ^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
