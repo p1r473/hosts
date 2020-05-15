@@ -132,6 +132,7 @@ hosts-file.net
 ht.cdn.turner.com
 i.gyazo.com
 i.imgur.com
+i.instagram.com
 i.ytimg.com
 i0.wp.com
 i2.wp.com

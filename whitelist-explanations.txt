@@ -52,6 +52,7 @@ forms.gle #Google Forms
 go.redirectingat.com #Link redirection
 ht.cdn.turner.com #CNN Videos
 i.gyazo.com #Screenshot sharing service
+i.instagram.com #Instagram feed and highlights
 i.ytimg.com #YouTube thumbnails
 i0.wp.com #WordPress
 i2.wp.com #WordPress
