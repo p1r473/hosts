@@ -1,8 +1,9 @@
-(\.|^)abg-analytics\.com$
-(\.|^)cloudfront\.net$
-(\.|^)googleapis\.com$
-(\.|^)gravatar\.com$
-(\.|^)intercom\.io$
-(\.|^)intercomcdn\.com$
-(\.|^)lametric\.com$
-(\.|^)maxmind\.com$
+(.*\.|^)abg-analytics\.com$
+(.*\.|^)cloudfront\.net$
+(.*\.|^)googleapis\.com$
+(.*\.|^)gravatar\.com$
+(.*\.|^)intercom\.io$
+(.*\.|^)intercomcdn\.com$
+(.*\.|^)lametric\.com$
+(.*\.|^)maxmind\.com$
+(.*\.|^)wide.ad.jp$
