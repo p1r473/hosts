@@ -1,5 +1,6 @@
 2.android.pool.ntp.org
 3p.ampproject.net
+a771.dscq.akamai.net
 abebooks.com
 accounts.google.com
 accounts.nvgs.nvidia.com
@@ -124,7 +125,6 @@ google.com
 googlehosted.l.googleusercontent.com
 gounlimited.to
 gql.reddit.com
-graph.facebook.com
 gumroad.com
 hackerone.com
 heavy.com
