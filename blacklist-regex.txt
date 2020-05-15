@@ -1,5 +1,5 @@
 ^((.)+[_.-])?(double)?click(s)?[0-9]*[_.-]+(.)+
-^((.)+[_.-])?(m)?ad(s)?((s(e)?r(v(e|er|ice)?)?)?)?(choice)?(vert(is(e|ing|ement))?)?(tr(k|(ack(er|ing)?)?)?)?(sdk)?(im(g|age)?)?([sxv])?[0-9]*[_.-]+(.)+
+^((.)+[_.-])?(m)?ad(s)?(((s(e)?r(v(e|er|ice)?)?)?)?|(vert(is(e|ing|ement))?)?|(tr(k|(ack(er|ing)?)?)?)?|(im(g|age)?)?|sdk|choice)?([sxv])?[0-9]*[_.-]+(.)+
 ^((.)+[_.-])?aff(iliat(e(s)?)?(ion)?)?[0-9]*[_.-]+(.)+
 ^((.)+[_.-])?analytic(s)?[0-9]*[_.-]+(.)+
 ^((.)+[_.-])?banner(s)?[0-9]*[_.-]+(.)+
