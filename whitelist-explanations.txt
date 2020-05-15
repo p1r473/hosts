@@ -1,6 +1,7 @@
 1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
+a771.dscq.akamai.net #LetsEncrypt certs
 abebooks.com #Book store
 accounts.nvgs.nvidia.com #Logging into Nvidia on the Shield
 accounts.us1.gigya.com #Logging into iRobot app on Android
