@@ -64,8 +64,6 @@ https://hosts.nfz.moe/basic/hosts
 https://hosts.nfz.moe/full/hosts
 https://hosts.oisd.nl
 https://hosts.ubuntu101.co.za/domains.list
-https://hosts.ubuntu101.co.za/hosts
-https://hosts.ubuntu101.co.za/hosts.windows
 https://hostsfile.mine.nu/hosts0.txt
 https://hostsmobile.oisd.nl
 https://in0de.synology.me/own.txt
@@ -76,7 +74,6 @@ https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/domains.hosts
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
 https://mirror1.malwaredomains.com/files/justdomains
-https://pastebin.com/raw/UP3s7pEB
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
