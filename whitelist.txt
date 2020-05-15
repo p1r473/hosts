@@ -125,6 +125,7 @@ google.com
 googlehosted.l.googleusercontent.com
 gounlimited.to
 gql.reddit.com
+graph.facebook.com
 gumroad.com
 hackerone.com
 heavy.com
