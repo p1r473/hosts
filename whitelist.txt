@@ -1,5 +1,6 @@
 2.android.pool.ntp.org
 3p.ampproject.net
+a1467.g.akamai.net
 a771.dscq.akamai.net
 abebooks.com
 accounts.google.com
