@@ -33,6 +33,7 @@ clients1.google.com #Chrome auto fill and search results
 clients6.google.com #Google Drive
 code.jquery.com #Website layouts
 cs45.wac.edgecastcdn.net #Embedded images in Twitter feed
+cs531.wpc.edgecastcdn.net #Embedded Twitter videos
 cs9.wac.phicdn.net #PornHub
 cta-redirect.hubspot.com #Redirection
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images

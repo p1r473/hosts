@@ -17,6 +17,7 @@
 #https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/canvas%20fingerprinting%20pages.txt too many false positives
 #https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/Canvas%20font%20fingerprinting.txt too many false positives
 #https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/Canvas.txt
+
 #https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt blocks XXX
 #Retired
 #https:://hosts-file.net/ad_servers.txt
