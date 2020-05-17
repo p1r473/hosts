@@ -28,6 +28,8 @@ https://blocklist.site/app/dl/spam
 https://cdn.andryou.com/oisddbl.txt
 https://cdn.andryou.com/oisdhosts.txt
 https://cdn.andryou.com/oisdmobilehosts.txt
+https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts
+https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts
 https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://energized.pro/mirror/gasb-pe.txt
@@ -252,11 +254,14 @@ https://raw.githubusercontent.com/mkb2091/blockconvert/master/blacklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analytics.txt
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analyticsparsed
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclick.txt
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclickparsed
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/custom-list.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt
@@ -270,6 +275,7 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt

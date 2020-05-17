@@ -75,11 +75,13 @@ lnkd.in #LinkedIn URL shortener
 login.live.com #Microsoft OAUTH sign in
 maxcdn.bootstrapcdn.com #Digital Journal layout
 media0.giphy.com #Giphy app
+mesu.apple.com #macOS hosts software update catalogues
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ntp.nict.jp #NTP Server
+ocsp.apple.com #Apple certificate validation
 players.brightcove.net #City News 1130 videos
 pmd.cdn.turner.com #CNN videos
 pool.ntp.org #NTP Server
@@ -108,6 +110,7 @@ statics-www-ssl.gingersoftware.com #Assets hosts on Ginger Software
 stripecdn.map.fastly.net #Checkout with Stripe
 t.co #Twitter
 t.me #Telegram
+time-ios.g.aaplimg.com #Apple device set date/time (CNAME for time-ios.g.aaplimg.com)
 todo-ta-g7g.amazon.com #Kindle
 trk.klclick.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
