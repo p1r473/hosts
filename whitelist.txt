@@ -176,6 +176,7 @@ media0.giphy.com
 mediafire.com
 medium.com
 mene.com
+mesu.apple.com
 mingle.kijiji.ca
 mint.finance.intuit.com
 mobile.twitter.com
@@ -190,6 +191,7 @@ north-america.pool.ntp.org
 nsanedown.com
 ntp.nict.jp
 nypost.com
+ocsp.apple.com
 openload.co
 out.reddit.com
 outlook.office365.com
@@ -257,6 +259,7 @@ telephonyspamprotect-pa.googleapis.com
 the.earth.li
 thenextweb.com
 thepiratebay.org
+time-ios.g.aaplimg.com
 tlu.dl.delivery.mp.microsoft.com
 todayonline.com
 todo-ta-g7g.amazon.com
