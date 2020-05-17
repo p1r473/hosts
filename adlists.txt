@@ -167,7 +167,10 @@ https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblo
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualzones.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adservers-all.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS
 https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 https://raw.githubusercontent.com/blocktastic/pihole/master/blocktastic.txt
@@ -230,10 +233,8 @@ https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover_aggressive.txt
-https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking.txt
-https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive-extended.txt
-https://raw.githubusercontent.com/lightswitch05/hosts/master/tracking-aggressive.txt
+https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt
+https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts
