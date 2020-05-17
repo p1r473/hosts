@@ -88,9 +88,6 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28Hosts%29.txt
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Miscellaneous%28iPv4%29.txt
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/audio%20fingerprinting%20pages.txt
