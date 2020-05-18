@@ -34,6 +34,7 @@ auth.samsungosp.com
 bethesda.net
 bit.ly
 bitbucket.org
+blog.hubspot.com
 bnc.lt
 boardgamegeek.com
 bountysource.com
