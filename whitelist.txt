@@ -39,6 +39,7 @@ boardgamegeek.com
 bountysource.com
 c0.wp.com
 calendarsync-pa.googleapis.com
+cdn-content.ampproject.org
 cdn.ampproject.org
 cdn.contentful.com
 cdn.discordapp.com

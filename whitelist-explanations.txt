@@ -24,6 +24,7 @@ bit.ly #URL SHortener
 bitbucket.org #hosting an adlist
 bnc.lt #Downloading game from GamerLink
 c0.wp.com #Wordpress
+cdn-content.ampproject.org #Amp CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.jsdelivr.net #Breaks images on several sites
 cdnjs.cloudflare.com #Javascript on websites
