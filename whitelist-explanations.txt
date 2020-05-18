@@ -1,3 +1,13 @@
+(.*\.|^)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
+(.*\.|^)cloudfront\.net$ #Amazon service, sometimes does serve ads
+(.*\.|^)googleapis\.com$
+(.*\.|^)gravatar\.com$ #Though does tracking, does not serve ads. An avatar system
+(.*\.|^)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
+(.*\.|^)intercomcdn\.com$ #Provides customer support for vendors  Entire domain in a blocklist
+(.*\.|^)lametric\.com$ #Nonmalicious but has metric in the URL
+(.*\.|^)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
+(.*\.|^)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
+(.*\.|^)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
 1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
