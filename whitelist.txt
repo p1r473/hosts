@@ -236,6 +236,7 @@ sls.update.microsoft.com
 slscr.update.microsoft.com
 smallbusiness.chron.com
 smartlinks.intuit.com
+smtp.mail.yahoo.com
 socialize.us1.gigya.com
 sputniknews.com
 ssl.marfeelcdn.com
