@@ -108,6 +108,7 @@ static.makeuseof.com #Breaks MakeUseOf
 static.zdassets.com #Kobo/Rakuten "contact us" page
 static01.nyt.com #New York Times
 statics-www-ssl.gingersoftware.com #Assets hosts on Ginger Software
+staticxx.facebook.com #Serves static Facebook content
 stripecdn.map.fastly.net #Checkout with Stripe
 t.co #Twitter
 t.me #Telegram
