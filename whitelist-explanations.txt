@@ -125,6 +125,7 @@ widget-mediator.zopim.com #Support chat on Reship
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google
+www.ocsp.apple.com #Apple certificate validation
 x.kinja-static.com #Gizmodo news pictures
 youtu.be #YouTube
 youtube-nocookie.com #Youtube
