@@ -171,6 +171,11 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/domain-adserv
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-iOS
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/adservers-all.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/adservers-extra.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts-extra.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts-group.txt
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/source/hosts.txt
 https://raw.githubusercontent.com/biroloter/Mobile-Ad-Hosts/master/hosts
 https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 https://raw.githubusercontent.com/blocktastic/pihole/master/blocktastic.txt
@@ -280,8 +285,10 @@ https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admaven.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admeasures.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/assorted.txt
+https://raw.githubusercontent.com/smed79/blacklist/master/hosts/cloudfront.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/doublepimp.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/hilltopads.txt
+https://raw.githubusercontent.com/smed79/blacklist/master/hosts/mining.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/mobileoffers.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/popads.txt
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/propellerads.txt

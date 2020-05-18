@@ -318,6 +318,7 @@ www.ipchicken.com
 www.mediafire.com
 www.msftconnecttest.com
 www.nsanedown.com
+www.ocsp.apple.com
 www.phishtank.com
 www.pinterest.com
 www.privateinternetaccess.com
