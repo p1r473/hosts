@@ -28,8 +28,8 @@ https://blocklist.site/app/dl/spam
 https://cdn.andryou.com/oisddbl.txt
 https://cdn.andryou.com/oisdhosts.txt
 https://cdn.andryou.com/oisdmobilehosts.txt
-https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts
-https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts
+https://cdn.jsdelivr.net/gh/neoFelhz/neohosts%40gh-pages/basic/hosts
+https://cdn.jsdelivr.net/gh/neoFelhz/neohosts%40gh-pages/full/hosts
 https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://energized.pro/mirror/gasb-pe.txt
