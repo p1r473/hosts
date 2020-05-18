@@ -8,6 +8,7 @@
 (.*\.|^)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
 (.*\.|^)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
 (.*\.|^)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
+1030z2bnst92zo6j523feq9e-wpengine.netdna-ssl.com #moosend blog
 1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
@@ -137,6 +138,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google
 www.ocsp.apple.com #Apple certificate validation
 x.kinja-static.com #Gizmodo news pictures
+yastatic.net #Yandex.Mail
 youtu.be #YouTube
 youtube-nocookie.com #Youtube
 youtube-ui.l.google.com #Youtube
