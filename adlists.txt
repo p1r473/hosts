@@ -28,8 +28,6 @@ https://blocklist.site/app/dl/spam
 https://cdn.andryou.com/oisddbl.txt
 https://cdn.andryou.com/oisdhosts.txt
 https://cdn.andryou.com/oisdmobilehosts.txt
-https://cdn.jsdelivr.net/gh/neoFelhz/neohosts%40gh-pages/basic/hosts
-https://cdn.jsdelivr.net/gh/neoFelhz/neohosts%40gh-pages/full/hosts
 https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://energized.pro/mirror/gasb-pe.txt
@@ -257,6 +255,15 @@ https://raw.githubusercontent.com/mkb2091/blockconvert/master/blacklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/hijack/others.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/2345.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/analytics.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/coinhave.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/imrworldwide.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/1.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/2.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/3.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/common.txt
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analytics.txt
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analyticsparsed
