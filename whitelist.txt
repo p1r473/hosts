@@ -246,6 +246,7 @@ static.makeuseof.com
 static.zdassets.com
 static01.nyt.com
 statics-www-ssl.gingersoftware.com
+staticxx.facebook.com
 steamcommunity.com
 stockhouse.com
 storage.googleapis.com
