@@ -39,7 +39,6 @@ blog.hubspot.com
 bnc.lt
 boardgamegeek.com
 bountysource.com
-c.paypal.com
 c0.wp.com
 calendarsync-pa.googleapis.com
 cdn-content.ampproject.org
