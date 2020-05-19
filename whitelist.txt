@@ -39,6 +39,7 @@ blog.hubspot.com
 bnc.lt
 boardgamegeek.com
 bountysource.com
+c.paypal.com
 c0.wp.com
 calendarsync-pa.googleapis.com
 cdn-content.ampproject.org
@@ -154,6 +155,7 @@ instantmessaging-pa.googleapis.com
 iob.imgur.com
 ip-tracker.org
 ipchicken.com
+j.mp
 jouw.postnl.nl
 js.braintreegateway.com
 js.gleam.io
@@ -267,6 +269,7 @@ the.earth.li
 thenextweb.com
 thepiratebay.org
 time-ios.g.aaplimg.com
+tinyurl.com
 tlu.dl.delivery.mp.microsoft.com
 todayonline.com
 todo-ta-g7g.amazon.com
@@ -294,6 +297,7 @@ www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
 www.aweber.com
+www.bit.ly
 www.bountysource.com
 www.ccleaner.com
 www.ccn.com
