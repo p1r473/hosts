@@ -34,6 +34,7 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 bit.ly #URL SHortener
 bitbucket.org #hosting an adlist
 bnc.lt #Downloading game from GamerLink
+c.paypal.com #PayPal app
 c0.wp.com #Wordpress
 cdn-content.ampproject.org #Amp CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app

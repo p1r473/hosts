@@ -337,6 +337,7 @@ https://v.firebog.net/hosts/Easylist.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Openphish.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
+https://v.firebog.net/hosts/Prigent-Crypto.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
 https://v.firebog.net/hosts/Prigent-Phishing.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
