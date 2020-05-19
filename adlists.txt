@@ -17,6 +17,11 @@ https://any.andryou.com/oisdmobilehosts.txt
 https://asc.hk/adplus.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+https://block.energized.pro/basic/formats/domains.txt
+https://block.energized.pro/blu/formats/domains.txt
+https://block.energized.pro/bluGo/formats/domains.txt
+https://block.energized.pro/spark/formats/domains.txt
+https://block.energized.pro/ultimate/formats/domains.txt
 https://blocklist.site/app/dl/ads
 https://blocklist.site/app/dl/fakenews
 https://blocklist.site/app/dl/fraud
@@ -100,12 +105,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20%28Hosts%29.txt
 https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats/domains.txt
-https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/domains.txt
-https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/domains.txt
-https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/domains.txt
-https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/domains.txt
-https://raw.githubusercontent.com/EnergizedProtection/block/master/ultimate/formats/domains.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
