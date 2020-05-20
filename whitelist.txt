@@ -236,6 +236,7 @@ scontent.xx.fbcdn.net
 script.google.com
 secure.brightcove.com
 seekingalpha.com
+sendgrid.net
 sls.update.microsoft.com
 slscr.update.microsoft.com
 smallbusiness.chron.com

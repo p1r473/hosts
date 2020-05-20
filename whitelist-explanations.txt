@@ -109,6 +109,7 @@ s1.wp.com #WordPress
 s2.wp.com #WordPress
 s3.tradingview.com #Assets on TradingView
 secure.brightcove.com #City News 1130 videos
+sendgrid.net #Email subscription
 socialize.us1.gigya.com #Logging into iRobot app on Android
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 ssl.p.jwpcdn.com #GlobalNews embedded video
