@@ -173,6 +173,7 @@ login.live.com
 login.microsoftonline.com
 m.media-amazon.com
 mail.google.com
+mailchi.mp
 mandrillapp.com
 maps.googleapis.com
 maps.gstatic.com
