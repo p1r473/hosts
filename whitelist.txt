@@ -118,6 +118,7 @@ gcp.api.snapchat.com
 getpocket.com
 getsatisfaction.com
 ghostery.com
+ghs.googlehosted.com
 giphy.com
 gist.githubusercontent.com
 gitlab.com

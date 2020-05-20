@@ -64,6 +64,7 @@ fast.wistia.com #Embedded videos on PurposeInvest
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
+ghs.googlehosted.com #Humblebundle
 go.redirectingat.com #Link redirection
 graph.facebook.com #Viewing own wall
 ht.cdn.turner.com #CNN Videos
