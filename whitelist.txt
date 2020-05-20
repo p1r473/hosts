@@ -136,6 +136,7 @@ hackerone.com
 heavy.com
 hosts-file.net
 ht.cdn.turner.com
+humblebundle.com
 i.gyazo.com
 i.imgur.com
 i.instagram.com
