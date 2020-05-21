@@ -215,6 +215,7 @@ play.googleapis.com
 players.brightcove.net
 pmd.cdn.turner.com
 pool.ntp.org
+prism.app-us1.com
 privateinternetaccess.com
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com

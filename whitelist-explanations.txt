@@ -98,6 +98,7 @@ ocsp.apple.com #Apple certificate validation
 players.brightcove.net #City News 1130 videos
 pmd.cdn.turner.com #CNN videos
 pool.ntp.org #NTP Server
+prism.app-us1.com #Email newsletter unsubscribe
 qvay.app.link #Texts you link to download an app
 redirector.googlevideo.com #Google Play Movies
 s.marketwatch.com #MarketWatch images
