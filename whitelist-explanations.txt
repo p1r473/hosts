@@ -24,6 +24,7 @@ ajax.googleapis.com #Required for WowHead
 amzn.to #Amazon URL shortener
 angryip.org #Network scanner software
 api.locize.io #Bethesda.net
+api.pinterest.com #CNAME for accounts.pinterest.com
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 api.yotpo.com #Online store customer reviews
 app-ab27.marketo.com #Signing up for NitroPDF trial
