@@ -22,6 +22,7 @@ answers.microsoft.com
 api.fing.io
 api.github.com
 api.locize.io
+api.pinterest.com
 api.videos.oovvuu.com
 api.yotpo.com
 apkpure.com
@@ -189,6 +190,7 @@ media0.giphy.com
 mediafire.com
 medium.com
 mene.com
+messenger.com
 mesu.apple.com
 mingle.kijiji.ca
 mint.finance.intuit.com
