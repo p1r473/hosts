@@ -359,3 +359,4 @@ youtube-ui.l.google.com
 youtube.com
 yt3.ggpht.com
 z-p42-instagram.c10r.facebook.com
+zoom.com
