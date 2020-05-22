@@ -278,6 +278,7 @@ the.earth.li
 thenextweb.com
 thepiratebay.org
 time-ios.g.aaplimg.com
+time-osx.g.aaplimg.com
 tinyurl.com
 tlu.dl.delivery.mp.microsoft.com
 todayonline.com
