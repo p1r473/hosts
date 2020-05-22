@@ -131,6 +131,7 @@ staticxx.facebook.com #Serves static Facebook content
 stripecdn.map.fastly.net #Checkout with Stripe
 t.co #Twitter
 t.me #Telegram
+time-osx.g.aaplimg.com #Apple time sync
 todo-ta-g7g.amazon.com #Kindle
 trk.klclick.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
@@ -140,6 +141,7 @@ us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 v2assets.zopim.io #Support avatar on Reship chat
 vignette.wikia.nocookie.net #wiki icons
 widget-mediator.zopim.com #Support chat on Reship
+world-gen.g.aaplimg.com #CNAME for ocsp.apple.com
 www-cdn.icloud.com.akadns.net #CNAME for www.icloud.com
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
