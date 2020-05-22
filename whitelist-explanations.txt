@@ -141,6 +141,7 @@ v2assets.zopim.io #Support avatar on Reship chat
 vignette.wikia.nocookie.net #wiki icons
 widget-mediator.zopim.com #Support chat on Reship
 world-gen.g.aaplimg.com #CNAME for developer.apple.com
+www-cdn.icloud.com.akadns.net #CNAME for www.icloud.com
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google
