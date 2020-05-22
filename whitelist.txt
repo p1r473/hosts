@@ -114,6 +114,7 @@ forms.gle
 forum.kaspersky.com
 funk.eu
 gamecopyworld.com
+gateway.icloud.com
 gateway.reddit.com
 gcp.api.snapchat.com
 getpocket.com
@@ -163,6 +164,8 @@ js.braintreegateway.com
 js.gleam.io
 js.hsforms.net
 js.stripe.com
+keyvalueservice.fe.apple-dns.net
+keyvalueservice.icloud.com
 kitco.com
 koho.onelink.me
 kotaku.com
@@ -174,6 +177,7 @@ livestream.com
 lnkd.in
 login.live.com
 login.microsoftonline.com
+m.me
 m.media-amazon.com
 mail.google.com
 mailchi.mp
@@ -185,6 +189,7 @@ media0.giphy.com
 mediafire.com
 medium.com
 mene.com
+mesu.apple.com
 mingle.kijiji.ca
 mint.finance.intuit.com
 mobile.twitter.com
@@ -298,6 +303,7 @@ vignette.wikia.nocookie.net
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 world-gen.g.aaplimg.com
+www-cdn.icloud.com.akadns.net
 www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
@@ -329,6 +335,7 @@ www.googletagmanager.com
 www.gstatic.com
 www.ip-tracker.org
 www.ipchicken.com
+www.m.me
 www.mediafire.com
 www.msftconnecttest.com
 www.nsanedown.com
@@ -347,6 +354,7 @@ www.zerohedge.com
 www.ziprecruiter.com
 www3.l.google.com
 x.kinja-static.com
+xp.apple.com
 yastatic.net
 youtu.be
 youtube-nocookie.com
