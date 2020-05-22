@@ -138,6 +138,7 @@ trk.klclick2.com #Email unsubscribe
 turner-tls.map.fastly.net #CNN
 unpkg.com #flatten.ca map
 us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
+us-east-1-dynamic.meta-weights.apple-dns.net #Apple Photos. CNAME for us-east-1.blobstore.apple.com
 v2assets.zopim.io #Support avatar on Reship chat
 vignette.wikia.nocookie.net #wiki icons
 widget-mediator.zopim.com #Support chat on Reship
