@@ -295,6 +295,7 @@ unsubscribe.mailerlite.com
 uptimerobot.com
 urlscan.io
 us-central1-gcp.api.snapchat.com
+us-east-1-dynamic.meta-weights.apple-dns.net 
 usa.kaspersky.com
 use.fontawesome.com
 v2assets.zopim.io
