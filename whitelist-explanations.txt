@@ -12,6 +12,7 @@
 1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
+a1051.b.akamai.net #CNAME for init-p01st.push.apple.com
 a1467.g.akamai.net #Required for Battle.net (CNAME for bnetus-a.akamaihd.net)
 a771.dscq.akamai.net #LetsEncrypt certs (CNAME for ocsp.int-x3.letsencrypt.org)
 abebooks.com #Book store
@@ -64,6 +65,7 @@ fast.wistia.com #Embedded videos on PurposeInvest
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
+gateway.icloud.com #Apple iCloud
 ghs.googlehosted.com #Humblebundle
 go.redirectingat.com #Link redirection
 graph.facebook.com #Viewing own wall
@@ -83,11 +85,15 @@ js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #Gleam Javascript
 js.hsforms.net #Form content on PurposeInvest and Forbes Real Estate Council
 js.stripe.com #Stripe payments
+keyvalueservice.fe.apple-dns.net #Apple Keychain
+keyvalueservice.icloud.com #Apple Keychain
 koho.onelink.me #Koho appstore link
 lnkd.in #LinkedIn URL shortener
 login.live.com #Microsoft OAUTH sign in
+m.me #Facebook Messenger URL shortener
 maxcdn.bootstrapcdn.com #Digital Journal layout
 media0.giphy.com #Giphy app
+mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
 no-cache.hubspot.com #Ycharts images
@@ -134,11 +140,14 @@ us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 v2assets.zopim.io #Support avatar on Reship chat
 vignette.wikia.nocookie.net #wiki icons
 widget-mediator.zopim.com #Support chat on Reship
+www-cdn.icloud.com.akadns.net #CNAME for www.icloud.com
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google
+www.m.me #Facebook Messenger URL shortener
 www.ocsp.apple.com #Apple certificate validation
 x.kinja-static.com #Gizmodo news pictures
+xp.apple.com #Apple Music or Updates
 yastatic.net #Yandex.Mail
 youtu.be #YouTube
 youtube-nocookie.com #Youtube
