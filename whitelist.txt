@@ -45,7 +45,6 @@ calendarsync-pa.googleapis.com
 cdn-content.ampproject.org
 cdn.ampproject.org
 cdn.contentful.com
-cdn.cvws.apple-dns.net
 cdn.discordapp.com
 cdn.embedly.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
@@ -115,7 +114,6 @@ forms.gle
 forum.kaspersky.com
 funk.eu
 gamecopyworld.com
-gateway.icloud.com
 gateway.reddit.com
 gcp.api.snapchat.com
 getpocket.com
@@ -165,7 +163,6 @@ js.braintreegateway.com
 js.gleam.io
 js.hsforms.net
 js.stripe.com
-keyvalueservice.fe.apple-dns.net
 kitco.com
 koho.onelink.me
 kotaku.com
@@ -188,7 +185,6 @@ media0.giphy.com
 mediafire.com
 medium.com
 mene.com
-mesu.apple.com
 mingle.kijiji.ca
 mint.finance.intuit.com
 mobile.twitter.com
@@ -302,7 +298,6 @@ vignette.wikia.nocookie.net
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 world-gen.g.aaplimg.com
-www-cdn.icloud.com.akadns.net
 www.abebooks.com
 www.aliexpress.com
 www.avantlink.com
@@ -352,7 +347,6 @@ www.zerohedge.com
 www.ziprecruiter.com
 www3.l.google.com
 x.kinja-static.com
-xp.apple.com
 yastatic.net
 youtu.be
 youtube-nocookie.com
