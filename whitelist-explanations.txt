@@ -8,7 +8,6 @@
 (.*\.|^)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
 (.*\.|^)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
 (.*\.|^)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
-1030z2bnst92zo6j523feq9e-wpengine.netdna-ssl.com #moosend blog
 1hos.cf #Hosting adlists
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
@@ -18,7 +17,6 @@ a771.dscq.akamai.net #LetsEncrypt certs (CNAME for ocsp.int-x3.letsencrypt.org)
 abebooks.com #Book store
 accounts.nvgs.nvidia.com #Logging into Nvidia on the Shield
 accounts.us1.gigya.com #Logging into iRobot app on Android
-ae01.alicdn.com #Images on AliExpress
 ajax.cloudflare.com #Cloudflare
 ajax.googleapis.com #Required for WowHead
 amzn.to #Amazon URL shortener
@@ -28,7 +26,6 @@ api.pinterest.com #CNAME for accounts.pinterest.com
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 api.yotpo.com #Online store customer reviews
 app-ab27.marketo.com #Signing up for NitroPDF trial
-appuals.com #News site
 asia.pool.ntp.org #NTP Server
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #The Guardian videos
@@ -36,28 +33,21 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 bit.ly #URL SHortener
 bitbucket.org #hosting an adlist
 bnc.lt #Downloading game from GamerLink
-c0.wp.com #Wordpress
 cdn-content.ampproject.org #Amp CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
-cdn.jsdelivr.net #Breaks images on several sites
-cdnjs.cloudflare.com #Javascript on websites
+cdn.jsdelivr.net #CDN for images across websites
 cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
-clicks.aweber.com #Subscribe to mailing list
 clients1.google.com #Chrome auto fill and search results
 clients6.google.com #Google Drive
-code.jquery.com #Website layouts
 cs45.wac.edgecastcdn.net #Embedded images in Twitter feed
 cs531.wpc.edgecastcdn.net #Embedded Twitter videos
 cs837.wac.edgecastcdn.net #CNAME for www.w3schools.com
-cs9.wac.phicdn.net #PornHub
 cta-redirect.hubspot.com #Redirection
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
-dashboard-06.braze.com #Unsubscribe from Mailing Lists
 dmd.metaservices.microsoft.com #device metadata: https://docs.microsoft.com/en-us/windows/privacy/manage-windows-1809-endpoints
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #New York Post embedded videos
-dualstack.com.imgix.map.fastly.net #Kickstarter images
 dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos		
 edge.api.brightcove.com #City News 1130 videos
 encrypted-tbn*.gstatic.com #Gstatic is a service used by Google to hold static content and reduce bandwidth usage.
@@ -75,8 +65,6 @@ ht.cdn.turner.com #CNN Videos
 i.gyazo.com #Screenshot sharing service
 i.instagram.com #Instagram feed and highlights
 i.ytimg.com #YouTube thumbnails
-i0.wp.com #WordPress
-i2.wp.com #WordPress
 images.gounlimited.to #Image hosring
 imapi-mu.isnssdk.com #TikTok DMs
 img-prod-cms-rt-microsoft-com.akamaized.net #Microsoft.com images
@@ -100,16 +88,14 @@ mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
-ntp.nict.jp #NTP Server
 ocsp.apple.com #Apple certificate validation
 players.brightcove.net #City News 1130 videos
 pmd.cdn.turner.com #CNN videos
 pool.ntp.org #NTP Server
-prism.app-us1.com #Email newsletter unsubscribe
 qvay.app.link #Texts you link to download an app
+rds-assets.nvidia.com #Logging into Geforce Experience
 redirector.googlevideo.com #Google Play Movies
 s.marketwatch.com #MarketWatch images
-s.w.org #WordPress
 s.ytimg.com #Embedded YouTube videos
 s0.wp.com #WordPress
 s1.twnmm.com #The Weather Network website layout
@@ -118,12 +104,10 @@ s1.wp.com #WordPress
 s2.wp.com #WordPress
 s3.tradingview.com #Assets on TradingView
 secure.brightcove.com #City News 1130 videos
-sendgrid.net #Email subscription
 socialize.us1.gigya.com #Logging into iRobot app on Android
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 ssl.p.jwpcdn.com #GlobalNews embedded video
 ssl.p.jwpcdn.com #JWPlayer
-static-cdn.jtvnw.net #Twitch
 static.intercomassets.com #Website layouts that use Intercom help
 static.makeuseof.com #Breaks MakeUseOf
 static.zdassets.com #Kobo/Rakuten "contact us" page
@@ -134,11 +118,7 @@ stripecdn.map.fastly.net #Checkout with Stripe
 t.co #Twitter
 t.me #Telegram
 time-osx.g.aaplimg.com #Apple time sync
-todo-ta-g7g.amazon.com #Kindle
-trk.klclick.com #Email unsubscribe
-trk.klclick2.com #Email unsubscribe
 turner-tls.map.fastly.net #CNN
-unpkg.com #flatten.ca map
 us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 us-east-1-dynamic.meta-weights.apple-dns.net #Apple Photos. CNAME for us-east-1.blobstore.apple.com
 v2assets.zopim.io #Support avatar on Reship chat
