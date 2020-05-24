@@ -23,7 +23,7 @@ Excluded domains
 Regex whitelist
 
 
-**hosts**
+**hosts + explanations**
 
 Hosts in which I have found, that contain ads, that may not be on (many) other lists
 
