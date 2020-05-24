@@ -1,6 +1,4 @@
-#file:////var/www/apache/public/others.txt
-#http://localhost:81/others.txt
-#http://mydomain.myhost.com:4444/others.txt
+#file:////var/www/apache/public/adlist.txt
 #http://phishing.mailscanner.info/phishing.bad.sites.conf blocks play.google.com / not possible to report
 #http://www.taz.net.au/Mail/SpamDomains too many false positives
 #https://blocklist.site/app/dl/fakenews blocks some real news
