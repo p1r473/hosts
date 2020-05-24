@@ -25,6 +25,7 @@ cdn2.editmysite.com
 cdns.gigya.com
 cds.j3z9t3p6.hwcdn.net
 change.org
+checkip.amazonaws.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 clients1.google.com
