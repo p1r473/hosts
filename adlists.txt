@@ -139,7 +139,6 @@ https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Cerber_Ransomware.
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Quad9.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.txt
-https://raw.githubusercontent.com/YAMA-EDV/pi-hole-blacklist-development/master/yama_blacklist-FSA.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
 https://raw.githubusercontent.com/abc45628/hosts/master/hosts
