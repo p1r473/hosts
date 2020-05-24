@@ -64,6 +64,7 @@ goldmoney.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com
+gstaticadssl.l.google.com
 gumroad.com
 hackerone.com
 i.instagram.com
