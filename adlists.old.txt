@@ -29,6 +29,8 @@
 #https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt too many false positives
 #https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt blocks XXX
 #https://blocklist.site/app/dl/fakenews blocks some real news
+#https://www.joewein.net/dl/bl/dom-bl-base.txt many invalid domains
+#https://www.joewein.net/dl/bl/dom-bl.txt many invalid domains
 #Retired
 #https:://hosts-file.net/ad_servers.txt
 #https:://hosts-file.net/download/hosts.txt

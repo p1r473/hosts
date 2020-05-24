@@ -56,7 +56,6 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/tracking/domains.list
-https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
 https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dblzero.txt
 https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/hostsmobile.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -352,8 +351,6 @@ https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
-https://www.joewein.net/dl/bl/dom-bl-base.txt
-https://www.joewein.net/dl/bl/dom-bl.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.threatcrowd.org/feeds/domains.txt
