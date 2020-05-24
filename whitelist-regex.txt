@@ -8,4 +8,3 @@
 (.*\.|^)lithium.com$
 (.*\.|^)maxmind\.com$
 (.*\.|^)wide.ad.jp$
-^p[0-9]*-content[.]icloud[.]com$

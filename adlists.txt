@@ -7,7 +7,6 @@ http://someonewhocares.org/hosts/zero/hosts
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
 http://www.botvrij.eu/data/ioclist.hostname.raw
-http://www.taz.net.au/Mail/SpamDomains
 http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
@@ -23,7 +22,6 @@ https://block.energized.pro/bluGo/formats/domains.txt
 https://block.energized.pro/spark/formats/domains.txt
 https://block.energized.pro/ultimate/formats/domains.txt
 https://blocklist.site/app/dl/ads
-https://blocklist.site/app/dl/fakenews
 https://blocklist.site/app/dl/fraud
 https://blocklist.site/app/dl/malware
 https://blocklist.site/app/dl/phishing
@@ -92,10 +90,6 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/audio%20fingerprinting%20pages.txt
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/trackers.txt
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/Trackers/webrtc%20tracking.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
 https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
@@ -127,7 +121,6 @@ https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/steamscamsite.txt
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
-https://raw.githubusercontent.com/Rhys-H/hosts-list/master/HostsList.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
@@ -217,10 +210,6 @@ https://raw.githubusercontent.com/hemiipatu/Blocklists/master/ransomware.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/scam.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/spam.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
-https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/block_list.txt
-https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/custom_blocklist.txt
-https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
-https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 https://raw.githubusercontent.com/jaykepeters/Blocklists/master/Ads/spotify.txt
@@ -263,6 +252,8 @@ https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/1.txt
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/2.txt
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/3.txt
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/common.txt
+https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts
+https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analytics.txt
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analyticsparsed
