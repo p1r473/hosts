@@ -62,6 +62,7 @@ gateway.icloud.com #Apple iCloud
 ghs.googlehosted.com #Humblebundle
 go.redirectingat.com #Link redirection
 graph.facebook.com #Viewing own wall
+gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 ht.cdn.turner.com #CNN Videos
 i.gyazo.com #Screenshot sharing service
 i.instagram.com #Instagram feed and highlights
