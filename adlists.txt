@@ -7,6 +7,8 @@ http://someonewhocares.org/hosts/zero/hosts
 http://sysctl.org/cameleon/hosts
 http://winhelp2002.mvps.org/hosts.txt
 http://www.botvrij.eu/data/ioclist.hostname.raw
+https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt
+https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
 http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
@@ -19,9 +21,14 @@ https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d
 https://block.energized.pro/basic/formats/domains.txt
 https://block.energized.pro/blu/formats/domains.txt
 https://block.energized.pro/bluGo/formats/domains.txt
+https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 https://block.energized.pro/spark/formats/domains.txt
 https://block.energized.pro/ultimate/formats/domains.txt
 https://blocklist.site/app/dl/ads
+https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
+https://raw.githubusercontent.com/infinitytec/blocklists/master/possibilities.txt
+https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
+https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://blocklist.site/app/dl/fraud
 https://blocklist.site/app/dl/malware
 https://blocklist.site/app/dl/phishing
@@ -121,6 +128,7 @@ https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/steamscamsite.txt
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
+https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
@@ -142,9 +150,11 @@ https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.t
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
 https://raw.githubusercontent.com/abc45628/hosts/master/hosts
+https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
 https://raw.githubusercontent.com/adroitadorkhan/energized/master/core/hosts
 https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts
@@ -152,6 +162,7 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/coinbl
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/JoseGalRe/Hosty/master/bits/hosty.blacklist
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt
@@ -236,6 +247,9 @@ https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/H
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
+https://raw.githubusercontent.com/cb-software/CB-Malicious-Domains/master/block_lists/domains_only.txt
+https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/ACTIVE/list
+https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/blacklist.txt
