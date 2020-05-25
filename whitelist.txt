@@ -17,7 +17,6 @@ bountysource.com
 cdn.ampproject.org
 cdn.contentful.com
 cdn.embedly.com
-cdn.jsdelivr.net
 cdn.shopify.com
 cdn.syndication.twimg.com
 cdn2.editmysite.com
@@ -56,7 +55,6 @@ getsatisfaction.com
 ghostery.com
 glassdoor.ca
 gleam.io
-go.skimresources.com
 goldmoney.com
 googleadapis.l.google.com
 gounlimited.to
