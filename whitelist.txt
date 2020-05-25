@@ -35,6 +35,7 @@ content-autofill.googleapis.com
 cta-redirect.hubspot.com
 downloads.intercomcdn.com
 dualstack.brightcove.map.fastly.net
+dualstack.us-eu.brightcove.map.fastly.net
 ebates.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com

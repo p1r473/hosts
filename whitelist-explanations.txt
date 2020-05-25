@@ -30,7 +30,8 @@ clients1.google.com #Chrome auto fill and search results
 cta-redirect.hubspot.com #Redirection
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 downloads.intercomcdn.com #Website layouts that use Intercom help		
-dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos	
+dualstack.brightcove.map.fastly.net #New York Post embedded videos
+dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos
 edge.api.brightcove.com #City News 1130 videos
 fast.wistia.com #Embedded videos on PurposeInvest
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
