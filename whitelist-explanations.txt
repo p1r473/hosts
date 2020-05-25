@@ -16,6 +16,7 @@ android.clients.google.com #Google Play store
 angryip.org #Network scanner software
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 api.yotpo.com #Online store customer reviews
+appleid.apple.com.akadns.net #CNAME for appleid.apple.com
 asia.pool.ntp.org #NTP Server
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #The Guardian videos
