@@ -22,7 +22,6 @@ assets.guim.co.uk #The Guardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
 bit.ly #URL SHortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
-cdn.jsdelivr.net #CDN for images across websites
 cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
 checkip.amazonaws.com #AWS Get public IP
