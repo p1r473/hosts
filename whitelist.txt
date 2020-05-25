@@ -43,6 +43,7 @@ edge-mqtt.facebook.com
 edge.api.brightcove.com
 etsy.com
 experian.com
+external.xx.fbcdn.net
 fast.wistia.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 firebaseinstallations.googleapis.com
