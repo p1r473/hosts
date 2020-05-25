@@ -20,7 +20,7 @@ asia.pool.ntp.org #NTP Server
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #The Guardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
-bit.ly #URL SHortener
+bit.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
