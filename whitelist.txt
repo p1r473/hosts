@@ -79,7 +79,6 @@ js.stripe.com
 koho.onelink.me
 kotaku.com
 l.facebook.com
-linktr.ee
 lnkd.in
 m.me
 mailchi.mp
