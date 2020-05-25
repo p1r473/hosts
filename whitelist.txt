@@ -4,7 +4,6 @@ accounts.us1.gigya.com
 amzn.to
 android.clients.google.com
 angryip.org
-api.videos.oovvuu.com
 api.yotpo.com
 apkpure.com
 asia.pool.ntp.org
@@ -18,7 +17,6 @@ cdn.ampproject.org
 cdn.contentful.com
 cdn.embedly.com
 cdn.jsdelivr.net
-cdn.registerdisney.go.com
 cdn.shopify.com
 cdn.syndication.twimg.com
 cdn2.editmysite.com
@@ -32,12 +30,8 @@ clients1.google.com
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
-connectivitycheck.gstatic.com
 cta-redirect.hubspot.com
-ctldl.windowsupdate.com
 downloads.intercomcdn.com
-dualstack.brightcove.map.fastly.net
-dualstack.us-eu.brightcove.map.fastly.net
 ebates.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
@@ -47,6 +41,7 @@ fast.wistia.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 firebaseinstallations.googleapis.com
 flic.kr
+fonts.intercomcdn.com
 forms.gle
 forum.kaspersky.com
 funk.eu
@@ -55,12 +50,11 @@ gcp.api.snapchat.com
 getpocket.com
 getsatisfaction.com
 ghostery.com
-ghs.googlehosted.com
 glassdoor.ca
 gleam.io
-go.redirectingat.com
 go.skimresources.com
 goldmoney.com
+googleadapis.l.google.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com
@@ -100,6 +94,7 @@ mesu.apple.com
 mint.finance.intuit.com
 mobile.twitter.com
 mobilenetworkscoring-pa.googleapis.com
+mtalk.google.com
 netdna.bootstrapcdn.com
 news.bitcoin.com
 no-cache.hubspot.com
@@ -120,7 +115,6 @@ reddit.app.link
 redirector.googlevideo.com
 s.marketwatch.com
 s.w.org
-s.ytimg.com
 s0.wp.com
 s1.wp.com
 s3.amazonaws.com
@@ -129,12 +123,9 @@ smallbusiness.chron.com
 smartlinks.intuit.com
 socialize.us1.gigya.com
 sputniknews.com
-ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
 star.c10r.facebook.com
 static.intercomassets.com
-static.makeuseof.com
-static.zdassets.com
 statics-www-ssl.gingersoftware.com
 storage.googleapis.com
 storage.live.com
@@ -159,8 +150,8 @@ v2assets.zopim.io
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
+widget-mediator.zopim.com
 www.aliexpress.com
-www.avantlink.com
 www.bit.ly
 www.bountysource.com
 www.ccn.com
@@ -171,7 +162,6 @@ www.e-junkie.com
 www.ebates.com
 www.ecdinterface.philips.com
 www.etsy.com
-www.facebook.com
 www.funk.eu
 www.gamecopyworld.com
 www.getpocket.com
@@ -184,13 +174,11 @@ www.ip-tracker.org
 www.ipchicken.com
 www.m.me
 www.msftconnecttest.com
-www.nsanedown.com
 www.ocsp.apple.com
 www.phishtank.com
 www.techrepublic.com
 www.uptimerobot.com
 www.worldometers.info
 www3.l.google.com
-xp.apple.com
 yastatic.net
 yt3.ggpht.com
