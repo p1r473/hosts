@@ -14,6 +14,7 @@ accounts.us1.gigya.com #Logging into iRobot app on Android
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
+api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 api.yotpo.com #Online store customer reviews
 asia.pool.ntp.org #NTP Server
 assets.bwbx.io #Bloomberg website layout
@@ -29,6 +30,7 @@ clients1.google.com #Chrome auto fill and search results
 cta-redirect.hubspot.com #Redirection
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 downloads.intercomcdn.com #Website layouts that use Intercom help		
+dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos	
 edge.api.brightcove.com #City News 1130 videos
 fast.wistia.com #Embedded videos on PurposeInvest
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
@@ -65,6 +67,7 @@ s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.tradingview.com #Assets on TradingView
 socialize.us1.gigya.com #Logging into iRobot app on Android
+ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 ssl.p.jwpcdn.com #GlobalNews embedded video
 static.intercomassets.com #Website layouts that use Intercom help
 statics-www-ssl.gingersoftware.com #Assets hosts on Ginger Software
