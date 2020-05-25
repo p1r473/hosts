@@ -34,6 +34,7 @@ downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #New York Post embedded videos
 dualstack.us-eu.brightcove.map.fastly.net #New York Post embedded videos
 edge.api.brightcove.com #City News 1130 videos
+external.xx.fbcdn.net #Facebook Messenger external link thumbnails
 fast.wistia.com #Embedded videos on PurposeInvest
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 fonts.intercomcdn.com #Website layouts that use Intercom help
