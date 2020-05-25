@@ -113,7 +113,6 @@ https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-list
 https://raw.githubusercontent.com/JoseGalRe/Hosty/master/bits/hosty.blacklist
 https://raw.githubusercontent.com/KurzGedanke/kurzBlock/master/kurzBlock.txt
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
-https://raw.githubusercontent.com/Marfjeh/coinhive-block/master/domains
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
@@ -270,7 +269,6 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/custom-list.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt
 https://raw.githubusercontent.com/p1r473/hosts/master/hosts.txt
