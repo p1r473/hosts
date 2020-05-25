@@ -4,6 +4,7 @@ accounts.us1.gigya.com
 amzn.to
 android.clients.google.com
 angryip.org
+api.videos.oovvuu.com
 api.yotpo.com
 apkpure.com
 asia.pool.ntp.org
@@ -33,6 +34,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 cta-redirect.hubspot.com
 downloads.intercomcdn.com
+dualstack.brightcove.map.fastly.net
 ebates.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
@@ -123,6 +125,7 @@ smallbusiness.chron.com
 smartlinks.intuit.com
 socialize.us1.gigya.com
 sputniknews.com
+ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
 star.c10r.facebook.com
 static.intercomassets.com
