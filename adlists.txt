@@ -266,7 +266,6 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/analyticsparsed
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclick.txt
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclickparsed
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/custom-list.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
