@@ -25,6 +25,7 @@ bit.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
+cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Get public IP
 clients1.google.com #Chrome auto fill and search results
 cta-redirect.hubspot.com #Redirection
