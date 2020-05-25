@@ -30,6 +30,7 @@ clients1.google.com
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
+content-autofill.googleapis.com
 cta-redirect.hubspot.com
 downloads.intercomcdn.com
 ebates.com
@@ -180,4 +181,5 @@ www.uptimerobot.com
 www.worldometers.info
 www3.l.google.com
 yastatic.net
+youtube-nocookie.com
 yt3.ggpht.com
