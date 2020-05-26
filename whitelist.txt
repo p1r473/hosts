@@ -54,6 +54,7 @@ forum.kaspersky.com
 funk.eu
 gamecopyworld.com
 gcp.api.snapchat.com
+getpocket.cdn.mozilla.net
 getpocket.com
 getsatisfaction.com
 glassdoor.ca

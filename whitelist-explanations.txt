@@ -41,6 +41,7 @@ fast.wistia.com #Embedded videos on PurposeInvest
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
+getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 googleadapis.l.google.com #CNAME for fonts.gstatic.com
 graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
