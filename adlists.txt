@@ -34,7 +34,6 @@ https://cdn.andryou.com/oisdmobilehosts.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
-https://energized.pro/mirror/gasb-pe.txt
 https://filtri-dns.ga/filtri.txt
 https://gameindustry.de/files/staedte/hosts
 https://getadhell.com/standard-package.txt
