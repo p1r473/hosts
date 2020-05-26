@@ -1,3 +1,6 @@
-trk.klclick2.com
 dianomi.com
 pagead.l.doubleclick.net
+river.data.ea.com
+settings-win.data.microsoft.com
+trk.klclick2.com
+vortex-win.data.microsoft.com

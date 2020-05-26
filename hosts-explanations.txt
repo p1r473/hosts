@@ -1,2 +1,5 @@
-vortex-win.data.microsoft.com #Microsoft telemetry
+dianomi.com #Ads
+pagead.l.doubleclick.net #Ads
+river.data.ea.com #Origin telemetry
 settings-win.data.microsoft.com #Microsoft telemetry
+vortex-win.data.microsoft.com #Microsoft telemetry
