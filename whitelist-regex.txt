@@ -2,9 +2,11 @@
 (.*\.|^)cloudfront\.net$
 (.*\.|^)googleapis\.com$
 (.*\.|^)gravatar\.com$
+(.*\.|^)hwcdn.net$
 (.*\.|^)intercom\.io$
 (.*\.|^)intercomcdn\.com$
 (.*\.|^)lametric\.com$
 (.*\.|^)lithium.com$
 (.*\.|^)maxmind\.com$
+(.*\.|^)v0cdn.net$
 (.*\.|^)wide.ad.jp$
