@@ -56,7 +56,6 @@ gamecopyworld.com
 gcp.api.snapchat.com
 getpocket.com
 getsatisfaction.com
-ghostery.com
 glassdoor.ca
 gleam.io
 goldmoney.com
@@ -144,6 +143,7 @@ telephonyspamprotect-pa.googleapis.com
 thenextweb.com
 thepiratebay.org
 tinyurl.com
+token.services.mozilla.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 transactions.sendowl.com
