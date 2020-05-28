@@ -34,6 +34,7 @@ coingeek.com
 coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
+cs593.adn.mucdn.net
 cta-redirect.hubspot.com
 downloads.intercomcdn.com
 dualstack.brightcove.map.fastly.net
