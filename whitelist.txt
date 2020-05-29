@@ -35,7 +35,6 @@ coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
 cs593.adn.mucdn.net
-cta-redirect.hubspot.com
 downloads.intercomcdn.com
 dualstack.brightcove.map.fastly.net
 dualstack.us-eu.brightcove.map.fastly.net
@@ -119,6 +118,7 @@ qvay.app.link
 rds-assets.nvidia.com
 reddit.app.link
 redirector.googlevideo.com
+res.cloudinary.com
 s.marketwatch.com
 s.w.org
 s0.wp.com
