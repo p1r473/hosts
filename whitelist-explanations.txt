@@ -31,7 +31,6 @@ cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Get public IP
 clients1.google.com #Chrome auto fill and search results
 cs593.adn.mucdn.net #CNAME for huffingtonpost.ca
-cta-redirect.hubspot.com #Redirection
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 downloads.intercomcdn.com #Website layouts that use Intercom help		
 dualstack.brightcove.map.fastly.net #New York Post embedded videos
@@ -69,6 +68,7 @@ pool.ntp.org #NTP Server
 qvay.app.link #Texts you link to download an app
 rds-assets.nvidia.com #Logging into Geforce Experience
 redirector.googlevideo.com #Google Play Movies
+res.cloudinary.com #Cloud CDN
 s.marketwatch.com #MarketWatch images
 s0.wp.com #WordPress
 s1.wp.com #WordPress
