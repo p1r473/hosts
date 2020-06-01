@@ -187,6 +187,7 @@ www.phishtank.com
 www.techrepublic.com
 www.uptimerobot.com
 www.worldometers.info
+www.youtube-nocookie.com
 www3.l.google.com
 yastatic.net
 youtube-nocookie.com
