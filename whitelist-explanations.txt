@@ -12,6 +12,7 @@
 (.*\.|^)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
+a-000*.a-msedge.net #CNAME for www.msn.com
 accounts.us1.gigya.com #Logging into iRobot app on Android
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
