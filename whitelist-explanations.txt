@@ -57,7 +57,7 @@ js.stripe.com #Stripe payments
 koho.onelink.me #Koho appstore link
 lnkd.in #LinkedIn URL shortener
 m.me #Facebook Messenger URL shortener
-mailgun.org #required for email.survey.pledgebox.com
+mailgun.org #CNAME for email.survey.pledgebox.com
 maxcdn.bootstrapcdn.com #Digital Journal layout
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
