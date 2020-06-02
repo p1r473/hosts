@@ -41,6 +41,7 @@ dualstack.us-eu.brightcove.map.fastly.net
 ebates.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
+emails.kickstarter.com
 etsy.com
 experian.com
 external.xx.fbcdn.net
@@ -88,6 +89,7 @@ l.facebook.com
 lnkd.in
 m.me
 mailchi.mp
+mailgun.org
 mandrillapp.com
 maps.googleapis.com
 maps.gstatic.com
