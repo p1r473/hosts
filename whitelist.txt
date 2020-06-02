@@ -26,7 +26,6 @@ cdn2.editmysite.com
 cdns.gigya.com
 cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
-change.org
 checkip.amazonaws.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
@@ -88,7 +87,6 @@ koho.onelink.me
 kotaku.com
 l.facebook.com
 lnkd.in
-m.me
 mailchi.mp
 mailgun.org
 mandrillapp.com
@@ -166,7 +164,6 @@ www.aliexpress.com
 www.bit.ly
 www.bountysource.com
 www.ccn.com
-www.change.org
 www.coingeek.com
 www.coinmarketcap.com
 www.e-junkie.com
