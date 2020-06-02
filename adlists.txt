@@ -80,13 +80,6 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mime
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
