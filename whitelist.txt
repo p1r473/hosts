@@ -104,6 +104,7 @@ mtalk.google.com
 netdna.bootstrapcdn.com
 news.bitcoin.com
 no-cache.hubspot.com
+no-ip.org
 north-america.pool.ntp.org
 ocsp.apple.com
 openload.co
