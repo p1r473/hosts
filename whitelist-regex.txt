@@ -1,3 +1,4 @@
+(.*\.|^)a-000.\.a-msedge\.net$
 (.*\.|^)abg-analytics\.com$
 (.*\.|^)cloudfront\.net$
 (.*\.|^)googleapis\.com$
