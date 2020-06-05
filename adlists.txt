@@ -1,6 +1,5 @@
 http://abpvn.com/android/abpvn.txt
 http://malwaredomains.lehigh.edu/files/immortal_domains.txt
-http://malwaredomains.lehigh.edu/files/justdomains
 http://mirror1.malwaredomains.com/files/justdomains
 http://sbc.io/hosts/hosts
 http://someonewhocares.org/hosts/zero/hosts
@@ -68,7 +67,6 @@ https://hosts.oisd.nl
 https://hosts.ubuntu101.co.za/domains.list
 https://hostsfile.mine.nu/hosts0.txt
 https://hostsmobile.oisd.nl
-https://in0de.synology.me/own.txt
 https://infosec.cert-pa.it/analyze/listdomains.txt
 https://lists.hashdd.com/hashdd/vxvault-urllist/hosts
 https://malwaredomains.usu.edu/justdomains
@@ -80,7 +78,7 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mime
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
 https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
 https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
@@ -91,7 +89,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20%28Hosts%29.txt
 https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
-https://raw.githubusercontent.com/FadeMind/hosts.extras/master/StreamingAds/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts
