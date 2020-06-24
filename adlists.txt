@@ -58,6 +58,7 @@ https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dblzero.txt
 https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/hostsmobile.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+https://hastebin.com/raw/ilosayuxiv
 https://hblock.molinero.dev/hosts
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
