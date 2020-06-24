@@ -6,7 +6,6 @@ ae01.alicdn.com
 amzn.to
 android.clients.google.com
 angryip.org
-api.pushbullet.com
 api.videos.oovvuu.com
 api.yotpo.com
 apkpure.com
