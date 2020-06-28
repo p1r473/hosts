@@ -193,3 +193,4 @@ www3.l.google.com
 yastatic.net
 youtube-nocookie.com
 yt3.ggpht.com
+zd.map.fastly.net

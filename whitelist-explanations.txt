@@ -93,3 +93,4 @@ www.m.me #Facebook Messenger URL shortener
 www.ocsp.apple.com #Apple certificate validation
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
+zd.map.fastly.net #CNAME for www.speedtest.net
