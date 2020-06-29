@@ -157,6 +157,7 @@ urlscan.io
 us-central1-gcp.api.snapchat.com
 usa.kaspersky.com
 v2assets.zopim.io
+vanilla.futurecdn.net
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
