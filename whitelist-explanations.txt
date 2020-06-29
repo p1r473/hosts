@@ -86,6 +86,7 @@ t.me #Telegram
 token.services.mozilla.com #FireFox Sync
 us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 v2assets.zopim.io #Support avatar
+vanilla.futurecdn.net #CDN blocks YouTube videos on PCGamer blog
 widget-mediator.zopim.com #Support chat on Reship
 www.ecdinterface.philips.com #Philips and Google Home integration
 www.googletagmanager.com #Hearthstone login from iOS
