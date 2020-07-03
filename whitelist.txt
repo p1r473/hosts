@@ -108,6 +108,7 @@ no-ip.org
 north-america.pool.ntp.org
 ocsp.apple.com
 openload.co
+ow.ly
 passport.mobilenations.com
 people-pa.googleapis.com
 pinterest.com
