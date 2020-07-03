@@ -77,6 +77,7 @@ instantmessaging-pa.googleapis.com
 iob.imgur.com
 ip-tracker.org
 ipchicken.com
+ipv6.slot9428.ebay.com.edgekey.net
 j.mp
 jouw.postnl.nl
 js.braintreegateway.com
