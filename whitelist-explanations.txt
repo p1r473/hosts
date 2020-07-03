@@ -66,6 +66,7 @@ mtalk.google.com #Kijiji Android app notifications
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
+ow.ly #URLK shortener service
 pool.ntp.org #NTP Server
 qvay.app.link #Texts you link to download an app
 rds-assets.nvidia.com #Logging into Geforce Experience
