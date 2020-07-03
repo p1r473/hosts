@@ -50,6 +50,7 @@ i.instagram.com #Instagram feed and highlights
 images.gounlimited.to #Image hosring
 imapi-mu.isnssdk.com #TikTok DMs
 instantmessaging-pa.googleapis.com #Google Messages for Web
+ipv6.slot9428.ebay.com.edgekey.net #CName for i.ebayimg.com
 jouw.postnl.nl #European mail courier
 js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #Gleam Javascript
