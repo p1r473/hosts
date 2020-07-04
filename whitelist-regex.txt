@@ -1,4 +1,4 @@
-(.*\.|^)a-000.\.a-msedge\.net$ #CNAME for www.msn.com
+(.*\.|^)a-000.*\.a-msedge\.net$  #CNAME for www.msn.com
 (.*\.|^)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
 (.*\.|^)cloudfront\.net$ #Amazon service, sometimes does serve ads
 (.*\.|^)googleapis\.com$

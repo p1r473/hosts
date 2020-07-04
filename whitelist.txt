@@ -1,7 +1,6 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net
 3p.ampproject.net #Google News articles
-a-000*.a-msedge.net #CNAME for www.msn.com
 accounts.us1.gigya.com #Logging into iRobot app on Android
 ae01.alicdn.com
 amzn.to #Amazon URL shortener
