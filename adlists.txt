@@ -248,8 +248,6 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/custom-list.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt
 https://raw.githubusercontent.com/p1r473/hosts/master/hosts.txt
 https://raw.githubusercontent.com/p1r473/samsungnosnooping/master/Samsungnosnooping.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
