@@ -1,6 +1,5 @@
-dianomi.com
-pagead.l.doubleclick.net
-river.data.ea.com
-settings-win.data.microsoft.com
-trk.klclick2.com
-vortex-win.data.microsoft.com
+dianomi.com #Ads
+pagead.l.doubleclick.net #Ads
+river.data.ea.com #Origin telemetry
+settings-win.data.microsoft.com #Microsoft telemetry
+vortex-win.data.microsoft.com #Microsoft telemetry
