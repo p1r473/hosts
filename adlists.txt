@@ -322,9 +322,6 @@ https://winhelp2002.mvps.org/hosts.txt
 https://www.bentasker.co.uk/adblock/blocked_domains_with_sm.txt
 https://www.bentasker.co.uk/adblock/blockeddomains.txt
 https://www.bentasker.co.uk/adblock/config/manualzones.txt
-https://www.dshield.org/feeds/suspiciousdomains_High.txt
-https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
