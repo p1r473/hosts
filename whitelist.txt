@@ -102,7 +102,6 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
-qvay.app.link
 qvay.app.link #Texts you link to download an app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
