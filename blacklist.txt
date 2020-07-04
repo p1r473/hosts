@@ -1,10 +1,11 @@
-#activate.adobe.com
-#activation.acronis.com
-#activation.cyberlink.com
-#cap.cyberlink.com
-#lm.licenses.adobe.com
-#lmlicenses.wip4.adobe.com
-#practivate.adobe.com
-cdns.grindr.com
-chat.grindr.com
-grindr.mobi
+
+#activate.adobe.com #Photoshop Activation server
+#activation.acronis.com #Acronis Licensing server
+#activation.cyberlink.com #PowerDVD Licensing server
+#cap.cyberlink.com #PowerDVD Licensing server
+#lm.licenses.adobe.com #Photoshop Licensing server
+#lmlicenses.wip4.adobe.com #Photoshop Licensing server
+#practivate.adobe.com #Photoshop Licensing server
+cdns.grindr.com #Grindr
+chat.grindr.com #Grindr
+grindr.mobi #Grindr
