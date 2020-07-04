@@ -4,12 +4,12 @@ http://mirror1.malwaredomains.com/files/justdomains
 http://sbc.io/hosts/hosts
 http://someonewhocares.org/hosts/zero/hosts
 http://sysctl.org/cameleon/hosts
-http://winhelp2002.mvps.org/hosts.txt
+http://winhelp2002.mvps.org/hosts.txt#Test2
 http://www.botvrij.eu/data/ioclist.hostname.raw
 http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
-https://any.andryou.com/oisddbl.txt
+https://any.andryou.com/oisddbl.txt #Test 3
 https://any.andryou.com/oisdhosts.txt
 https://any.andryou.com/oisdmobilehosts.txt
 https://asc.hk/adplus.txt
