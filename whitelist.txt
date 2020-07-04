@@ -1,13 +1,10 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
-ae01.alicdn.com #AliExpress CDN
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
-api.yotpo.com #Online store customer reviews
-apkpure.com #APK download website
 appleid.apple.com.akadns.net #CNAMEforappleid.apple.com
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
@@ -18,11 +15,8 @@ blog.hubspot.com
 bountysource.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
-cdn.embedly.com
 cdn.shopify.com
-cdn.syndication.twimg.com
 cdn2.editmysite.com
-cdns.gigya.com
 cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
 cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
@@ -34,33 +28,26 @@ coingeek.com
 coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
-cs593.adn.mucdn.net #CNAME for huffingtonpost.ca
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embeddedimages
-downloads.intercomcdn.com #Website layouts thatus eInterco mhelp
-dualstack.brightcove.map.fastly.net #NewYorkPost embedded videos
-dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost embedded videos
+downloads.intercomcdn.com #Website layouts thatus eIntercom help
+dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
+dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
 edge-mqtt.facebook.com
-edge.api.brightcove.com #CityNews1130 videos
+edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 emails.kickstarter.com
-etsy.com
 experian.com
 external.xx.fbcdn.net #Facebook Messenger external link thumbnails
 fast.wistia.com #Embedded videos on PurposeInvest
-fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 firebaseinstallations.googleapis.com
 flic.kr
 fonts.intercomcdn.com #Website layouts that use Intercom help
-forms.gle
 forms.gle #Google Forms
 forum.kaspersky.com
-funk.eu
 gamecopyworld.com
-gcp.api.snapchat.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
-glassdoor.ca
 gleam.io
 goldmoney.com
 googleadapis.l.google.com #CNAME for fonts.gstatic.com
@@ -80,56 +67,46 @@ iob.imgur.com
 ip-tracker.org
 ipchicken.com
 ipv6.slot9428.ebay.com.edgekey.net #CName for i.ebayimg.com
-j.mp
-jouw.postnl.nl #Europeanmailcourier
+j.mp #URL shortener service
 js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #GleamJavascript
-js.hsforms.net #Form content on PurposeInvest and ForbesRealEstateCouncil
+js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 koho.onelink.me #Koho appstore link
 kotaku.com
 l.facebook.com
-lnkd.in
-lnkd.in #LinkedIn URL shortener
 m.me #FacebookMessenger URL shortener
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
 maps.googleapis.com
 maps.gstatic.com
-maxcdn.bootstrapcdn.com #DigitalJournal layout
 mediafire.com
 mene.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
-mobile.twitter.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
-netdna.bootstrapcdn.com
 news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
 no-ip.org
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
-openload.co
 ow.ly #URL shortener service
 passport.mobilenations.com
 people-pa.googleapis.com
 pinterest.com
 platform.twitter.com
-players.brightcove.net
+players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 qvay.app.link
 qvay.app.link #Texts you link to download an app
-rds-assets.nvidia.com #Logging into Geforce Experience
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
-res.cloudinary.com #CloudCDN
 s.marketwatch.com #MarketWatch images
-s.w.org #WordPress
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com
@@ -139,12 +116,10 @@ smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
-ssl.p.jwpcdn.com #GlobalNews embedded video
 star.c10r.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
-storage.live.com
 store-images.s-microsoft.com
 stripecdn.map.fastly.net #Checkout with Stripe
 support.kaspersky.com
@@ -154,52 +129,35 @@ telephonyspamprotect-pa.googleapis.com
 thenextweb.com
 thepiratebay.org
 tinyurl.com
-token.services.mozilla.com #FireFox Sync
 tracker.openbittorrent.com
 tracker.opentrackr.org
-transactions.sendowl.com
 unsubscribe.mailerlite.com
 uptimerobot.com
-urlscan.io
-us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 usa.kaspersky.com
-v2assets.zopim.io #Help/Support avatar
-vanilla.futurecdn.net #CDN, blocks YouTube videos on PCGamerblog
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
-www.aliexpress.com
 www.bit.ly
 www.bountysource.com
-www.ccn.com
 www.coingeek.com
 www.coinmarketcap.com
 www.e-junkie.com
 www.ebates.com
 www.ecdinterface.philips.com #Philips and GoogleHome integration
-www.etsy.com
-www.funk.eu
 www.gamecopyworld.com
 www.getpocket.com
 www.ghostery.com
-www.glassdoor.ca
 www.goldmoney.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ip-tracker.org
 www.ipchicken.com
-www.m.me #Facebook Messenger URL shortener
 www.msftconnecttest.com
-www.ocsp.apple.com #Apple certificate validation
-www.phishtank.com
 www.techrepublic.com
 www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
 www3.l.google.com
-yastatic.net
 yastatic.net #Yandex.Mail
-youtube-nocookie.com
 yt3.ggpht.com #YouTube comment avatars
-zd.map.fastly.net #CNAME fo rwww.speedtest.net
