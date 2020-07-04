@@ -1,153 +1,152 @@
 2.android.pool.ntp.org #NTP server
-3p.ampproject.net
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
-ae01.alicdn.com
+ae01.alicdn.com #AliExpress CDN
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 api.yotpo.com #Online store customer reviews
-apkpure.com
+apkpure.com #APK download website
 appleid.apple.com.akadns.net #CNAMEforappleid.apple.com
 asia.pool.ntp.org #NTPServer
-assets.bwbx.io #Bloombergwebsitelayout
-assets.guim.co.uk #TheGuardianvideos
-auth.samsungosp.com #LoggingintoSamsungonanAndroiddevice
+assets.bwbx.io #Bloomberg website layout
+assets.guim.co.uk #TheGuardian videos
+auth.samsungosp.com #Logging into Samsung on an Android device
 bit.ly #URLShortener
 blog.hubspot.com
 bountysource.com
-cdn.ampproject.org #YouTubeembeddedvideosintheGoogleNewsapp
+cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.embedly.com
 cdn.shopify.com
 cdn.syndication.twimg.com
 cdn2.editmysite.com
 cdns.gigya.com
-cdns.gigya.com #EmbeddedCTVNewsvideos
-cds.j3z9t3p6.hwcdn.net #Neededfordnschecker.org
-cds.s5x3j6q5.hwcdn.net #CNAMEforcode.jquery.com,neededforJScreenFix
-checkip.amazonaws.com #AWSGetpublicIP
+cdns.gigya.com #Embedded CTV News videos
+cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
+cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
+checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
-clients1.google.com #Chromeautofillandsearchresults
+clients1.google.com #Chrome autofill and search results
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
-cs593.adn.mucdn.net #CNAMEforhuffingtonpost.ca
-d36eyd5j1kt1m6.cloudfront.net #Gleam.ioembeddedimages
-downloads.intercomcdn.com #WebsitelayoutsthatuseIntercomhelp
-dualstack.brightcove.map.fastly.net #NewYorkPostembeddedvideos
-dualstack.us-eu.brightcove.map.fastly.net #NewYorkPostembeddedvideos
+cs593.adn.mucdn.net #CNAME for huffingtonpost.ca
+d36eyd5j1kt1m6.cloudfront.net #Gleam.io embeddedimages
+downloads.intercomcdn.com #Website layouts thatus eInterco mhelp
+dualstack.brightcove.map.fastly.net #NewYorkPost embedded videos
+dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost embedded videos
 ebates.com
 edge-mqtt.facebook.com
-edge.api.brightcove.com #CityNews1130videos
+edge.api.brightcove.com #CityNews1130 videos
 emails.kickstarter.com
 etsy.com
 experian.com
-external.xx.fbcdn.net #FacebookMessengerexternallinkthumbnails
-fast.wistia.com #EmbeddedvideosonPurposeInvest
-fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #YahooDNSserver
+external.xx.fbcdn.net #Facebook Messenger external link thumbnails
+fast.wistia.com #Embedded videos on PurposeInvest
+fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net #Yahoo DNS server
 firebaseinstallations.googleapis.com
 flic.kr
-fonts.intercomcdn.com #WebsitelayoutsthatuseIntercomhelp
+fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle
-forms.gle #GoogleForms
+forms.gle #Google Forms
 forum.kaspersky.com
 funk.eu
 gamecopyworld.com
 gcp.api.snapchat.com
-getpocket.cdn.mozilla.net #CDNforPocketinFireFox
+getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
 glassdoor.ca
 gleam.io
 goldmoney.com
-googleadapis.l.google.com #CNAMEforfonts.gstatic.com
+googleadapis.l.google.com #CNAME for fonts.gstatic.com
 gounlimited.to
 gql.reddit.com
-graph.facebook.com #ViewingownFacebookwall
-gstaticadssl.l.google.com #CNAMEforfonts.gstatic.com
+graph.facebook.com #Viewing own Facebook wall
+gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 gumroad.com
 hackerone.com
-i.instagram.com #Instagramfeedandhighlights
+i.instagram.com #Instagram feed and highlights
 ift.tt
 images.gounlimited.to #Imagehosting
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
-instantmessaging-pa.googleapis.com #GoogleMessagesforWeb
+instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ip-tracker.org
 ipchicken.com
-ipv6.slot9428.ebay.com.edgekey.net #CNamefori.ebayimg.com
+ipv6.slot9428.ebay.com.edgekey.net #CName for i.ebayimg.com
 j.mp
 jouw.postnl.nl #Europeanmailcourier
-js.braintreegateway.com #CreditcardentryusingBraintree
+js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #GleamJavascript
-js.hsforms.net #FormcontentonPurposeInvestandForbesRealEstateCouncil
-js.stripe.com #Stripepayments
-koho.onelink.me #Kohoappstorelink
+js.hsforms.net #Form content on PurposeInvest and ForbesRealEstateCouncil
+js.stripe.com #Stripe payments
+koho.onelink.me #Koho appstore link
 kotaku.com
 l.facebook.com
 lnkd.in
-lnkd.in #LinkedInURLshortener
-m.me #FacebookMessengerURLshortener
+lnkd.in #LinkedIn URL shortener
+m.me #FacebookMessenger URL shortener
 mailchi.mp
-mailgun.org #CNAMEforemail.survey.pledgebox.com
+mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
 maps.googleapis.com
 maps.gstatic.com
-maxcdn.bootstrapcdn.com #DigitalJournallayout
+maxcdn.bootstrapcdn.com #DigitalJournal layout
 mediafire.com
 mene.com
 messenger.com
-mesu.apple.com #Applehostssoftwareupdatecatalogs
+mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
 mobile.twitter.com
-mobilenetworkscoring-pa.googleapis.com #CanaryAndroidapppushnotifications
-mtalk.google.com #KijijiAndroidappnotifications
+mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
+mtalk.google.com #Kijiji Android app notifications
 netdna.bootstrapcdn.com
 news.bitcoin.com
-no-cache.hubspot.com #Ychartsimages
+no-cache.hubspot.com #Ycharts images
 no-ip.org
-north-america.pool.ntp.org #NTPServer
-ocsp.apple.com #Applecertificatevalidation
+north-america.pool.ntp.org #NTP Server
+ocsp.apple.com #Apple certificate validation
 openload.co
-ow.ly #URLKshortenerservice
+ow.ly #URL shortener service
 passport.mobilenations.com
 people-pa.googleapis.com
 pinterest.com
 platform.twitter.com
 players.brightcove.net
-pool.ntp.org #NTPServer
+pool.ntp.org #NTP Server
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 qvay.app.link
-qvay.app.link #Textsyoulinktodownloadanapp
-rds-assets.nvidia.com #LoggingintoGeforceExperience
+qvay.app.link #Texts you link to download an app
+rds-assets.nvidia.com #Logging into Geforce Experience
 reddit.app.link
-redirector.googlevideo.com #GooglePlayMovies
+redirector.googlevideo.com #Google Play Movies
 res.cloudinary.com #CloudCDN
-s.marketwatch.com #MarketWatchimages
+s.marketwatch.com #MarketWatch images
 s.w.org #WordPress
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com
-s3.tradingview.com #AssetsonTradingView
+s3.tradingview.com #Assets on TradingView
 smallbusiness.chron.com
 smartlinks.intuit.com
-socialize.us1.gigya.com #LoggingintoiRobotapponAndroid
+socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
-ssl.marfeelcdn.com #CDNusedbymultiplesitessuchasgHacks
-ssl.p.jwpcdn.com #GlobalNewsembeddedvideo
+ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
+ssl.p.jwpcdn.com #GlobalNews embedded video
 star.c10r.facebook.com
-static.intercomassets.com #WebsitelayoutsthatuseIntercomhelp
-statics-www-ssl.gingersoftware.com #AssetshostsonGingerSoftware
+static.intercomassets.com #Website layouts that use Intercomhelp
+statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 storage.live.com
 store-images.s-microsoft.com
-stripecdn.map.fastly.net #CheckoutwithStripe
+stripecdn.map.fastly.net #Checkout with Stripe
 support.kaspersky.com
 t.co #Twitter
 t.me #Telegram
@@ -155,21 +154,21 @@ telephonyspamprotect-pa.googleapis.com
 thenextweb.com
 thepiratebay.org
 tinyurl.com
-token.services.mozilla.com #FireFoxSync
+token.services.mozilla.com #FireFox Sync
 tracker.openbittorrent.com
 tracker.opentrackr.org
 transactions.sendowl.com
 unsubscribe.mailerlite.com
 uptimerobot.com
 urlscan.io
-us-central1-gcp.api.snapchat.com #SnapchatForYouandSubscriptions
+us-central1-gcp.api.snapchat.com #Snapchat For You and Subscriptions
 usa.kaspersky.com
-v2assets.zopim.io #Supportavatar
-vanilla.futurecdn.net #CDNblocksYouTubevideosonPCGamerblog
+v2assets.zopim.io #Help/Support avatar
+vanilla.futurecdn.net #CDN, blocks YouTube videos on PCGamerblog
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
-widget-mediator.zopim.com #SupportchatonReship
+widget-mediator.zopim.com #Help/Support chat on Reship
 www.aliexpress.com
 www.bit.ly
 www.bountysource.com
@@ -178,7 +177,7 @@ www.coingeek.com
 www.coinmarketcap.com
 www.e-junkie.com
 www.ebates.com
-www.ecdinterface.philips.com #PhilipsandGoogleHomeintegration
+www.ecdinterface.philips.com #Philips and GoogleHome integration
 www.etsy.com
 www.funk.eu
 www.gamecopyworld.com
@@ -187,12 +186,12 @@ www.ghostery.com
 www.glassdoor.ca
 www.goldmoney.com
 www.googleadservices.com
-www.googletagmanager.com #HearthstoneloginfromiOS
+www.googletagmanager.com #Hearthstone login from iOS
 www.ip-tracker.org
 www.ipchicken.com
-www.m.me #FacebookMessengerURLshortener
+www.m.me #Facebook Messenger URL shortener
 www.msftconnecttest.com
-www.ocsp.apple.com #Applecertificatevalidation
+www.ocsp.apple.com #Apple certificate validation
 www.phishtank.com
 www.techrepublic.com
 www.uptimerobot.com
@@ -202,5 +201,5 @@ www3.l.google.com
 yastatic.net
 yastatic.net #Yandex.Mail
 youtube-nocookie.com
-yt3.ggpht.com #YouTubecommentavatars
-zd.map.fastly.net #CNAMEforwww.speedtest.net
+yt3.ggpht.com #YouTube comment avatars
+zd.map.fastly.net #CNAME fo rwww.speedtest.net
