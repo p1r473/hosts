@@ -52,7 +52,6 @@ https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hosts.nfz.moe/basic/hosts
 https://hosts.nfz.moe/full/hosts
 https://hosts.ubuntu101.co.za/domains.list
-https://hostsfile.mine.nu/hosts0.txt
 https://hostsmobile.oisd.nl
 https://infosec.cert-pa.it/analyze/listdomains.txt
 https://lists.hashdd.com/hashdd/vxvault-urllist/hosts
