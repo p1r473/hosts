@@ -129,6 +129,7 @@ thenextweb.com
 thepiratebay.org
 tinyurl.com
 tipranks.com
+track-chinapost.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 unsubscribe.mailerlite.com
@@ -156,6 +157,7 @@ www.ipchicken.com
 www.msftconnecttest.com
 www.techrepublic.com
 www.tipranks.com
+www.track-chinapost.com
 www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
