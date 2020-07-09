@@ -128,6 +128,7 @@ telephonyspamprotect-pa.googleapis.com
 thenextweb.com
 thepiratebay.org
 tinyurl.com
+tipranks.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 unsubscribe.mailerlite.com
@@ -154,6 +155,7 @@ www.ip-tracker.org
 www.ipchicken.com
 www.msftconnecttest.com
 www.techrepublic.com
+www.tipranks.com
 www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
