@@ -212,6 +212,9 @@ https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST
+https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
+https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
+https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-blocklist.txt
