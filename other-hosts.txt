@@ -1,0 +1,3 @@
+cdns.grindr.com #Grindr
+chat.grindr.com #Grindr
+grindr.mobi #Grindr
