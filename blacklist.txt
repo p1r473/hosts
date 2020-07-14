@@ -5,9 +5,9 @@
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
 #practivate.adobe.com #Photoshop Licensing server
-cdns.grindr.com #Grindr
-chat.grindr.com #Grindr
-grindr.mobi #Grindr
+127.0.0.1 cdns.grindr.com #Grindr
+127.0.0.1 chat.grindr.com #Grindr
+127.0.0.1 grindr.mobi #Grindr
 mb.moatads.com #Quibi ads
 px.moatads.com #Quibi ads
 z.moatads.com #Quibi ads
