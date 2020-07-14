@@ -8,6 +8,3 @@
 cdns.grindr.com #Grindr
 chat.grindr.com #Grindr
 grindr.mobi #Grindr
-mb.moatads.com #Quibi ads
-px.moatads.com #Quibi ads
-z.moatads.com #Quibi ads
