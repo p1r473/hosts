@@ -28,6 +28,7 @@ coingeek.com
 coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
+countryflags.io
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embeddedimages
 downloads.intercomcdn.com #Website layouts thatus eIntercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
@@ -143,6 +144,7 @@ www.bit.ly
 www.bountysource.com
 www.coingeek.com
 www.coinmarketcap.com
+www.countryflags.io
 www.e-junkie.com
 www.ebates.com
 www.ecdinterface.philips.com #Philips and GoogleHome integration
