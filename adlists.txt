@@ -110,8 +110,8 @@ https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/Mega%20Untr
 https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/Untrusted%20Hosts%20Blocker.txt
 https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Blocklist.txt
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
 https://raw.githubusercontent.com/abc45628/hosts/master/hosts
