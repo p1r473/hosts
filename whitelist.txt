@@ -68,6 +68,7 @@ iob.imgur.com
 ip-tracker.org
 ipchicken.com
 ipv6.slot9428.ebay.com.edgekey.net #CName for i.ebayimg.com
+itch.io
 j.mp #URL shortener service
 js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #GleamJavascript
