@@ -1,4 +1,6 @@
 #Ads
+api.apptentive.com
+app-measurement.com
 cdn.branch.io
 cdn.optimizely.com
 dianomi.com
