@@ -228,7 +228,7 @@ https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spa
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
-https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blacklist.txt
+https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
