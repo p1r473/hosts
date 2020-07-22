@@ -1,13 +1,13 @@
-(.*\.|^)a-000.*\.a-msedge\.net$  #CNAME for www.msn.com
-(.*\.|^)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
-(.*\.|^)cloudfront\.net$ #Amazon service, sometimes does serve ads
-(.*\.|^)googleapis\.com$
-(.*\.|^)gravatar\.com$ #Though does tracking, does not serve ads. An avatar system
-(.*\.|^)hwcdn.net$ #Popular CDN
-(.*\.|^)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
-(.*\.|^)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
-(.*\.|^)lametric\.com$ #Nonmalicious but has metric in the URL
-(.*\.|^)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
-(.*\.|^)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
-(.*\.|^)v0cdn.net$ #CDN used by Microsoft, among others
-(.*\.|^)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
+(^|.*\.)a-000.*\.a-msedge\.net$  #CNAME for www.msn.com
+(^|.*\.)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
+(^|.*\.)cloudfront\.net$ #Amazon service, sometimes does serve ads
+(^|.*\.)googleapis\.com$
+(^|.*\.)gravatar\.com$ #Though does tracking, does not serve ads. An avatar system
+(^|.*\.)hwcdn.net$ #Popular CDN
+(^|.*\.)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
+(^|.*\.)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
+(^|.*\.)lametric\.com$ #Nonmalicious but has metric in the URL
+(^|.*\.)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
+(^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
+(^|.*\.)v0cdn.net$ #CDN used by Microsoft, among others
+(^|.*\.)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
