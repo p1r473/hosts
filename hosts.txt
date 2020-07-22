@@ -7,7 +7,7 @@ dianomi.com
 mb.moatads.com
 pagead.l.doubleclick.net
 px.moatads.om
-river.data.ea.com 
+river.data.ea.com
 settings-win.data.microsoft.com
 vortex-win.data.microsoft.com
 z.moatads.com
