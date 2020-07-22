@@ -1,8 +1,13 @@
-dianomi.com #Ads
-mb.moatads.com #Quibi ads
-pagead.l.doubleclick.net #Ads
-px.moatads.com #Quibi ads
-river.data.ea.com #Origin telemetry
-settings-win.data.microsoft.com #Microsoft telemetry
-vortex-win.data.microsoft.com #Microsoft telemetry
-z.moatads.com #Quibi ads
+
+#Ads
+#Microsoft telemetry
+#Origin telemetry
+#Quibi ads
+dianomi.com
+mb.moatads.com
+pagead.l.doubleclick.net
+px.moatads.om
+river.data.ea.com 
+settings-win.data.microsoft.com
+vortex-win.data.microsoft.com
+z.moatads.com
