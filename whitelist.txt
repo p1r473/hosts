@@ -83,6 +83,7 @@ mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
 maps.googleapis.com
 maps.gstatic.com
+maxcdn.bootstrapcdn.com #Breaks urlvoid.com
 mediafire.com
 mene.com
 messenger.com
@@ -137,6 +138,7 @@ tracker.opentrackr.org
 unsubscribe.mailerlite.com
 uptimerobot.com
 usa.kaspersky.com
+userlocation.googleapis.com
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com

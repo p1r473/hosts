@@ -1,34 +1,8 @@
 #Ads
-api.apptentive.com
-app-measurement.com
-cdn.branch.io
-cdn.optimizely.com
-dianomi.com
-imasdk.googleapis.com
 mobanalytics.xyz
-pagead.l.doubleclick.net
-sdk.iad-01.braze.com
-sdk.iad-02.braze.com
-sdk.iad-03.braze.com
-sdk.iad-04.braze.com
-sdk.iad-06.braze.com
-sdk.fra-01.braze.eu
-secure-gg.imrworldwide.com
-secure-gl.imrworldwide.com
 
 #Origin telemetry
 river.data.ea.com
-
-#Microsoft telemetry
-settings-win.data.microsoft.com
-vortex-win.data.microsoft.com
-
-#Quibi ads
-bs.serving-sys.com
-mb.moatads.com
-px.moatads.com
-z.moatads.com
-
 
 
 
