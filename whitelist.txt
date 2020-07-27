@@ -98,6 +98,7 @@ north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 ow.ly #URL shortener service
 passport.mobilenations.com
+peeksoft.co
 people-pa.googleapis.com
 pinterest.com
 platform.twitter.com
@@ -160,6 +161,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.ip-tracker.org
 www.ipchicken.com
 www.msftconnecttest.com
+www.peeksoft.co
 www.techrepublic.com
 www.tipranks.com
 www.track-chinapost.com
