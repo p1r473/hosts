@@ -13,6 +13,7 @@ https://any.andryou.com/oisddbl.txt
 https://any.andryou.com/oisdmobiledbl.txt
 https://asc.hk/adplus.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
+https://badmojr.github.io/1Hosts/complete/domains.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://block.energized.pro/basic/formats/domains.txt
 https://block.energized.pro/blu/formats/domains.txt
@@ -23,6 +24,10 @@ https://cdn.andryou.com/oisddbl.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://dbl.oisd.nl
 https://filtri-dns.ga/filtri.txt
+https://ftpihole.s3.eu-west-2.amazonaws.com/blocklists/smart-tv-ads-tracking.txt
+https://ftpihole.s3.eu-west-2.amazonaws.com/blocklists/smartphone-ads-tracking.txt
+https://ftpihole.s3.eu-west-2.amazonaws.com/blocklists/spotify-ads-tracking.txt
+https://ftpihole.s3.eu-west-2.amazonaws.com/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt
 https://gameindustry.de/files/staedte/hosts
 https://getadhell.com/standard-package.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
