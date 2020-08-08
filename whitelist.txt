@@ -142,6 +142,7 @@ uptimerobot.com
 usa.kaspersky.com
 userlocation.googleapis.com
 videos.oovvuu.com
+w.soundcloud.com #Soundcloud widget
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
