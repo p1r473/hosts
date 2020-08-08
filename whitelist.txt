@@ -136,6 +136,7 @@ tipranks.com
 track-chinapost.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
+traffic.libsyn.com #Podcast hosting
 unsubscribe.mailerlite.com
 uptimerobot.com
 usa.kaspersky.com
