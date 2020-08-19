@@ -13,11 +13,11 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 bit.ly #URLShortener
 blog.hubspot.com
 bountysource.com
+cdn2.editmysite.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
-cdn.shopify.com
-cdn2.editmysite.com
 cdns.gigya.com #Embedded CTV News videos
+cdn.shopify.com
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
 cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
@@ -34,8 +34,8 @@ downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
-edge-mqtt.facebook.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
+edge-mqtt.facebook.com
 emails.kickstarter.com
 experian.com
 external.xx.fbcdn.net #Facebook Messenger external link thumbnails
@@ -58,18 +58,19 @@ graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 gumroad.com
 hackerone.com
-i.instagram.com #Instagram feed and highlights
 ift.tt
+i.instagram.com #Instagram feed and highlights
 images.gounlimited.to #Imagehosting
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
-ip-tracker.org
 ipchicken.com
+ip-tracker.org
 ipv6.slot9428.ebay.com.edgekey.net #CName for i.ebayimg.com
 itch.io
 j.mp #URL shortener service
+jpost.com
 js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
@@ -77,7 +78,6 @@ js.stripe.com #Stripe payments
 koho.onelink.me #Koho appstore link
 kotaku.com
 l.facebook.com
-m.me #FacebookMessenger URL shortener
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
@@ -89,6 +89,8 @@ mene.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
+m.jpost.com
+m.me #FacebookMessenger URL shortener
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
 news.bitcoin.com
@@ -109,12 +111,12 @@ query.prod.cms.rt.microsoft.com
 qvay.app.link #Texts you link to download an app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
-s.marketwatch.com #MarketWatch images
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com
 s3.tradingview.com #Assets on TradingView
 smallbusiness.chron.com
+s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
@@ -127,42 +129,44 @@ store-images.s-microsoft.com
 stripecdn.map.fastly.net #Checkout with Stripe
 support.kaspersky.com
 t.co #Twitter
-t.me #Telegram
 telephonyspamprotect-pa.googleapis.com
 thenextweb.com
 thepiratebay.org
 tinyurl.com
 tipranks.com
+t.me #Telegram
 track-chinapost.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 traffic.libsyn.com #Podcast hosting
 unsubscribe.mailerlite.com
 uptimerobot.com
-us.dyn.indeed.com #CNAME for indeed.com
 usa.kaspersky.com
+us.dyn.indeed.com #CNAME for indeed.com
 userlocation.googleapis.com
 videos.oovvuu.com
-w.soundcloud.com #Soundcloud widget
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
+w.soundcloud.com #Soundcloud widget
+www3.l.google.com
 www.bit.ly
 www.bountysource.com
 www.coingeek.com
 www.coinmarketcap.com
 www.countryflags.io
-www.e-junkie.com
 www.ebates.com
 www.ecdinterface.philips.com #Philips and GoogleHome integration
+www.e-junkie.com
 www.gamecopyworld.com
 www.getpocket.com
 www.ghostery.com
 www.goldmoney.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
-www.ip-tracker.org
 www.ipchicken.com
+www.ip-tracker.org
+www.jpost.com
 www.msftconnecttest.com
 www.peeksoft.co
 www.techrepublic.com
@@ -171,6 +175,5 @@ www.track-chinapost.com
 www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
-www3.l.google.com
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
