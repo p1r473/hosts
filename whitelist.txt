@@ -1,6 +1,7 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
+addevent.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
@@ -150,6 +151,7 @@ whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 w.soundcloud.com #Soundcloud widget
 www3.l.google.com
+www.addevent.com
 www.bit.ly
 www.bountysource.com
 www.coingeek.com
