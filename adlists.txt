@@ -72,9 +72,6 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts
-https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/coinblocker.txt
-https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/nocoin.txt
-https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
@@ -284,7 +281,6 @@ https://raw.githubusercontent.com/TakoYachty/Gift-Card-Killer/master/Untrusted%2
 https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
-https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist.txt
