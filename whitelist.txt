@@ -116,6 +116,7 @@ s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com
 s3.tradingview.com #Assets on TradingView
+sls.update.microsoft.com.akadns.net #Windows Updates
 smallbusiness.chron.com
 s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
