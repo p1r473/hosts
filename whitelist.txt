@@ -31,6 +31,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 countryflags.io
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
+d.la3-c1-dfw.salesforceliveagent.com #Questrade Support
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
