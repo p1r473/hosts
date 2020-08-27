@@ -2,6 +2,7 @@
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
 addevent.com
+a.espncdn.com #ESPN CDN
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
