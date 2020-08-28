@@ -185,8 +185,11 @@ https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST
 https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
+https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
+https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
 https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+https://raw.githubusercontent.com/llacb47/mischosts/master/whiteops-hosts
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
