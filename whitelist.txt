@@ -153,6 +153,7 @@ uptimerobot.com
 usa.kaspersky.com
 us.dyn.indeed.com #CNAME for indeed.com
 userlocation.googleapis.com
+va-link.byteoversea.com #TikTok links
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
