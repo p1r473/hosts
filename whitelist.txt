@@ -44,6 +44,7 @@ experian.com
 external.xx.fbcdn.net #Facebook Messenger external link thumbnails
 fast.wistia.com #Embedded videos on PurposeInvest
 firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
 flic.kr
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
@@ -116,6 +117,7 @@ query.prod.cms.rt.microsoft.com
 qvay.app.link #Texts you link to download an app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
+reminders-pa.googleapis.com
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com
