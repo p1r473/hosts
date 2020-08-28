@@ -18,6 +18,7 @@ bountysource.com
 cdn2.editmysite.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
+cdn.jsdelivr.net #Javascript delivery CDN
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
