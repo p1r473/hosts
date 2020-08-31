@@ -133,6 +133,7 @@ socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 ssl.p.jwpcdn.com #Embedded JWPlayer videos
+stacksocial.com
 star.c10r.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
