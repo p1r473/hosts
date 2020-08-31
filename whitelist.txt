@@ -19,6 +19,7 @@ cdn2.editmysite.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
+cdn.jwplayer.com #Embedded JWPlayer videos
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
@@ -31,6 +32,7 @@ coingeek.com
 coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
+content.jwplatform.com #Embedded JWPlayer videos
 countryflags.io
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d.la3-c1-dfw.salesforceliveagent.com #Questrade Support
@@ -130,6 +132,7 @@ smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
+ssl.p.jwpcdn.com #Embedded JWPlayer videos
 star.c10r.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
