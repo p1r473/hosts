@@ -22,8 +22,8 @@ cdn.jsdelivr.net #Javascript delivery CDN
 cdn.jwplayer.com #Embedded JWPlayer videos
 cdnp0.stackassets.com #StackSocial assets
 cdnp1.stackassets.com #StackSocial assets
-cdnp2.stackassets.com StackSocial assets
-cdnp3.stackassets.com StackSocial assets
+cdnp2.stackassets.com #StackSocial assets
+cdnp3.stackassets.com #StackSocial assets
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
