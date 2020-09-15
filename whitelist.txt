@@ -131,8 +131,10 @@ redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
 s0.wp.com #WordPress
 s1.wp.com #WordPress
-s3.amazonaws.com
+s3.amazonaws.com #AWS
 s3.tradingview.com #Assets on TradingView
+s3-us-west-1.amazonaws.com #AWS
+s3-us-west-2.amazonaws.com #AWS
 sg-link.byteoversea.com #TikTok links
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
