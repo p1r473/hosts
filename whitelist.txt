@@ -57,6 +57,8 @@ firebaseremoteconfig.googleapis.com
 flic.kr
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
+forms.hsforms.com
+forms.hubspot.com
 forum.kaspersky.com
 gamecopyworld.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
