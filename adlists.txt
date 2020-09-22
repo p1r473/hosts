@@ -36,6 +36,7 @@ https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Anti-FPT.txt
 https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Crashlytics.txt
 https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Malware.txt
 https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Popads.txt
+https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/tracking/domains.list
