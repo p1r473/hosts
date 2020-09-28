@@ -8,3 +8,4 @@ grindr.mobi #Grindr
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
 #practivate.adobe.com #Photoshop Licensing server
+sc.aspirets.com #ConnectWise
