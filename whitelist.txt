@@ -190,6 +190,7 @@ www.countryflags.io
 www.ebates.com
 www.ecdinterface.philips.com #Philips and GoogleHome integration
 www.e-junkie.com
+www.etf.com
 www.gamecopyworld.com
 www.getpocket.com
 www.ghostery.com
