@@ -2,6 +2,7 @@
 3p.ampproject.net #Google News articles
 a1737.b.akamai.net #CNAME for steamstore-a.akamaihd.net
 accounts.us1.gigya.com #Logging into iRobot app on Android
+activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com
 a.espncdn.com #ESPN CDN
 amzn.to #Amazon URL shortener
