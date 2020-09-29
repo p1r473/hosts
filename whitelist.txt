@@ -14,6 +14,8 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #TheGuardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
+b-api.facebook.com #Logging into Facebook Messenger on mobile
+b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URLShortener
 blog.hubspot.com
 bountysource.com
