@@ -1,6 +1,7 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 a1737.b.akamai.net #CNAME for steamstore-a.akamaihd.net
+a1895.dscd.akamai.net #CNAME for shavar.services.mozilla.com
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com
@@ -124,6 +125,7 @@ north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 ow.ly #URL shortener service
 passport.mobilenations.com
+payments.google.com
 peeksoft.co
 people-pa.googleapis.com
 pinterest.com
