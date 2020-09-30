@@ -98,6 +98,7 @@ koho.onelink.me #Koho appstore link
 kotaku.com
 la3-c1-dfw.salesforceliveagent.com #Questrade Support
 l.facebook.com
+login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
