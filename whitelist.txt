@@ -43,6 +43,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.jwplatform.com #Embedded JWPlayer videos
 countryflags.io
+couponchief.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d.la3-c1-dfw.salesforceliveagent.com #Questrade Support
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -188,6 +189,7 @@ www.bountysource.com
 www.coingeek.com
 www.coinmarketcap.com
 www.countryflags.io
+www.couponchief.com
 www.ebates.com
 www.ecdinterface.philips.com #Philips and GoogleHome integration
 www.e-junkie.com
