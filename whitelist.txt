@@ -79,6 +79,7 @@ gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 gumroad.com
 h2.shared.global.fastly.net #CNAME for www.digitaltrends.com
 hackerone.com
+hubs.ly #HubSpot URL shortener
 ift.tt
 i.instagram.com #Instagram feed and highlights
 images.gounlimited.to #Imagehosting
