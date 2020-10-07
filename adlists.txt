@@ -105,12 +105,9 @@ https://raw.githubusercontent.com/cb-software/CB-Malicious-Domains/master/block_
 https://raw.githubusercontent.com/cb-software/CB-Malicious-Domains/master/block_lists/hosts
 https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
-https://raw.githubusercontent.com/CHEF-KOCH/Audio-fingerprint-pages/master/AudioFp.txt
-https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/filters/Spotify-HOSTS.txt
-https://raw.githubusercontent.com/CHEF-KOCH/WebRTC-tracking/master/WebRTC.txt
-https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/PaidContentLinks.txt
-https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/UserSuggested.txt
-https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%20Miners/UserSuggested.txt
+https://raw.githubusercontent.com/chimbori/lite-apps/master/src/content-blockers/Adware%20and%20Malware/PaidContentLinks.txt
+https://raw.githubusercontent.com/chimbori/lite-apps/master/src/content-blockers/Adware%20and%20Malware/UserSuggested.txt
+https://raw.githubusercontent.com/chimbori/lite-apps/master/src/content-blockers/Coin%20Miners/UserSuggested.txt
 https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
@@ -307,8 +304,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://someonewhocares.org/hosts/zero/hosts
-https://ssl.bblck.me/blacklists/domain-list.txt
-https://ssl.bblck.me/blacklists/hosts-file.txt
 https://tgc.cloud/downloads/hosts.alive.txt
 https://tgc.cloud/downloads/iOSAds.txt
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
