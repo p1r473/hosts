@@ -124,6 +124,7 @@ news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
 no-ip.org
 north-america.pool.ntp.org #NTP Server
+ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
 ow.ly #URL shortener service
 passport.mobilenations.com
