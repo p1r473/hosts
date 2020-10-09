@@ -164,6 +164,7 @@ statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 store-images.s-microsoft.com
 stripecdn.map.fastly.net #Checkout with Stripe
+substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
 t.co #Twitter
 telephonyspamprotect-pa.googleapis.com
