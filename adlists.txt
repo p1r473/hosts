@@ -51,8 +51,6 @@ https://hblock.molinero.dev/hosts
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hostsmobile.oisd.nl
-https://hosts.nfz.moe/basic/hosts
-https://hosts.nfz.moe/full/hosts
 https://hosts.ubuntu101.co.za/domains.list
 https://infosec.cert-pa.it/analyze/listdomains.txt
 https://lists.hashdd.com/hashdd/vxvault-urllist/hosts
@@ -208,6 +206,8 @@ https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spa
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains3.list
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains4.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
