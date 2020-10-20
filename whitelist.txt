@@ -110,6 +110,7 @@ mandrillapp.com
 manifest.prod.boltdns.net #Required for embedded videos using Brightcove Player
 maps.googleapis.com
 maps.gstatic.com
+masterpass.com
 maxcdn.bootstrapcdn.com #Breaks urlvoid.com
 m.economictimes.com
 mediafire.com
