@@ -48,6 +48,7 @@ content.jwplatform.com #Embedded JWPlayer videos
 countryflags.io
 couponchief.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
+discordapp.page.link #Discord server invites
 d.la3-c1-dfw.salesforceliveagent.com #Questrade Support
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
