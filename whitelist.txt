@@ -13,6 +13,7 @@ angryip.org #Network scanner software
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 appleid.apple.com.akadns.net #CNAME for appleid.apple.com
+arcgis.com #Johns Hopkins Coronavirus tracking
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets.guim.co.uk #TheGuardian videos
@@ -193,6 +194,7 @@ widget-mediator.zopim.com #Help/Support chat on Reship
 w.soundcloud.com #Soundcloud widget
 www3.l.google.com
 www.addevent.com
+www.arcgis.com #Johns Hopkins Coronavirus tracking
 www.bit.ly
 www.bountysource.com
 www.coingeek.com
