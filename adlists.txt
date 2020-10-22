@@ -7,7 +7,9 @@ https://any.andryou.com/oisddbl.txt
 https://any.andryou.com/oisdmobiledbl.txt
 https://asc.hk/adplus.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt
-https://badmojr.github.io/1Hosts/complete/domains.txt
+https://badmojr.github.io/1Hosts/Lite/domains.txt
+https://badmojr.github.io/1Hosts/mini/domains.txt
+https://badmojr.github.io/1Hosts/Pro/domains.txt
 http://sbc.io/hosts/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://block.energized.pro/basic/formats/domains.txt
@@ -167,7 +169,6 @@ https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers
 https://raw.githubusercontent.com/infinitytec/blocklists/master/possibilities.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt
-https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 https://raw.githubusercontent.com/jaykepeters/Blocklists/master/Ads/spotify.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -290,8 +291,8 @@ https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist.txt
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole%20Block-Lists%20List.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
 https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
