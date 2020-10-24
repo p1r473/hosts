@@ -58,6 +58,7 @@ ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edge-mqtt.facebook.com
 emails.kickstarter.com
+embed-ssl.wistia.com #StackSkills.com video thumbnails
 experian.com
 external.xx.fbcdn.net #Facebook Messenger external link thumbnails
 fast.wistia.com #Embedded videos on PurposeInvest
