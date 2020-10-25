@@ -1,8 +1,5 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
-a1737.b.akamai.net #CNAME for steamstore-a.akamaihd.net
-a1768.g1.akamai.net #CNAME for clientconfig.akamai.steamstatic.com
-a1895.dscd.akamai.net #CNAME for shavar.services.mozilla.com
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com
@@ -12,7 +9,6 @@ android.clients.google.com #Google Play store
 angryip.org #Network scanner software
 api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-appleid.apple.com.akadns.net #CNAME for appleid.apple.com
 arcgis.com #Johns Hopkins Coronavirus tracking
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
@@ -20,18 +16,12 @@ assets.guim.co.uk #TheGuardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
 b-api.facebook.com #Logging into Facebook Messenger on mobile
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
-bit.ly #URLShortener
 blog.hubspot.com
 bountysource.com
 cdn2.editmysite.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
-cdn.jwplayer.com #Embedded JWPlayer videos
-cdnp0.stackassets.com #StackSocial assets
-cdnp1.stackassets.com #StackSocial assets
-cdnp2.stackassets.com #StackSocial assets
-cdnp3.stackassets.com #StackSocial assets
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
@@ -46,28 +36,23 @@ coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
 content.jwplatform.com #Embedded JWPlayer videos
-countryflags.io
 couponchief.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
-d.la3-c1-dfw.salesforceliveagent.com #Questrade Support
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edge-mqtt.facebook.com
-emails.kickstarter.com
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 experian.com
-external.xx.fbcdn.net #Facebook Messenger external link thumbnails
 fast.wistia.com #Embedded videos on PurposeInvest
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 flic.kr
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
-forms.hsforms.com
 forms.hubspot.com
 forum.kaspersky.com
 gamecopyworld.com
@@ -75,7 +60,6 @@ getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
 gleam.io
-goldmoney.com
 googleadapis.l.google.com #CNAME for fonts.gstatic.com
 gounlimited.to
 gql.reddit.com
@@ -84,7 +68,6 @@ gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 gumroad.com
 h2.shared.global.fastly.net #CNAME for www.digitaltrends.com
 hackerone.com
-hubs.ly #HubSpot URL shortener
 ift.tt
 i.instagram.com #Instagram feed and highlights
 images.gounlimited.to #Imagehosting
@@ -94,17 +77,14 @@ instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ipchicken.com
 ip-tracker.org
-ipv6.slot9428.ebay.com.edgekey.net #CName for i.ebayimg.com
 itch.io
 j.mp #URL shortener service
 jpost.com
-js.braintreegateway.com #Credit card entry using Braintree
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 koho.onelink.me #Koho appstore link
 kotaku.com
-la3-c1-dfw.salesforceliveagent.com #Questrade Support
 l.facebook.com
 login.windows.net
 mailchi.mp
@@ -117,24 +97,19 @@ masterpass.com
 maxcdn.bootstrapcdn.com #Breaks urlvoid.com
 m.economictimes.com
 mediafire.com
-mene.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
-m.jpost.com
-m.me #FacebookMessenger URL shortener
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
 news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
-no-ip.org
 north-america.pool.ntp.org #NTP Server
 ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
 ow.ly #URL shortener service
 passport.mobilenations.com
 payments.google.com
-peeksoft.co
 people-pa.googleapis.com
 pinterest.com
 platform.twitter.com
@@ -152,7 +127,6 @@ s3.amazonaws.com #AWS
 s3.tradingview.com #Assets on TradingView
 s3-us-west-1.amazonaws.com #AWS
 s3-us-west-2.amazonaws.com #AWS
-sg-link.byteoversea.com #TikTok links
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smallbusiness.chron.com
@@ -161,14 +135,11 @@ smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
-ssl.p.jwpcdn.com #Embedded JWPlayer videos
 stacksocial.com
-star.c10r.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 store-images.s-microsoft.com
-stripecdn.map.fastly.net #Checkout with Stripe
 substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
 t.co #Twitter
@@ -176,23 +147,17 @@ telephonyspamprotect-pa.googleapis.com
 thenextweb.com
 thepiratebay.org
 tinyurl.com
-tipranks.com
 t.me #Telegram
-track-chinapost.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
-traffic.libsyn.com #Podcast hosting
 unsubscribe.mailerlite.com
 uptimerobot.com
 usa.kaspersky.com
-us.dyn.indeed.com #CNAME for indeed.com
 userlocation.googleapis.com
-va-link.byteoversea.com #TikTok links
 videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
-w.soundcloud.com #Soundcloud widget
 www3.l.google.com
 www.addevent.com
 www.arcgis.com #Johns Hopkins Coronavirus tracking
@@ -200,29 +165,18 @@ www.bit.ly
 www.bountysource.com
 www.coingeek.com
 www.coinmarketcap.com
-www.countryflags.io
-www.couponchief.com
 www.ebates.com
-www.ecdinterface.philips.com #Philips and GoogleHome integration
 www.e-junkie.com
 www.etf.com
 www.gamecopyworld.com
-www.getpocket.com
-www.ghostery.com
-www.goldmoney.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
-www.jpost.com
 www.msftconnecttest.com
-www.peeksoft.co
-www.pornhubpremium.com
 www.silverdoctors.com
 www.slideshare.net
 www.techrepublic.com
-www.tipranks.com
-www.track-chinapost.com
 www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
