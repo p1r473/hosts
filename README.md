@@ -18,6 +18,11 @@ Regex blacklist
 Excluded domains
 
 
+**whitelisted previously**
+
+Files that were previously whitelisted, but have been since removed from adlists
+
+
 **whitelist regex**
 
 Regex whitelist
