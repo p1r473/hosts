@@ -89,6 +89,7 @@ js.stripe.com #Stripe payments
 koho.onelink.me #Koho appstore link
 kotaku.com
 l.facebook.com
+links.mint.com #Links served by Mint
 login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
