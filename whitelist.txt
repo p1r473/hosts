@@ -47,6 +47,7 @@ dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
+edgekey.net #Akamai
 edge-mqtt.facebook.com
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 experian.com
@@ -103,6 +104,7 @@ m.economictimes.com
 mediafire.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
+mi.edgekey.net #Akamai
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mtalk.google.com #Kijiji Android app notifications
