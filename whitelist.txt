@@ -81,6 +81,7 @@ instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ipchicken.com
 ip-tracker.org
+ir.ebaystatic.com #eBay layout
 itch.io
 j.mp #URL shortener service
 jpost.com
@@ -148,6 +149,7 @@ storage.googleapis.com
 store-images.s-microsoft.com
 substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
+syndication.twitter.com #Embedded tweets
 t.co #Twitter
 telephonyspamprotect-pa.googleapis.com
 thenextweb.com
