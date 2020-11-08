@@ -140,6 +140,7 @@ smallbusiness.chron.com
 s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
+s.pinimg.com #Pinterest
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 stacksocial.com
