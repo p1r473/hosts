@@ -161,6 +161,7 @@ https://raw.githubusercontent.com/hemiipatu/Blocklists/master/ransomware.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/scam.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/spam.txt
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
 https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
