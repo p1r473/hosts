@@ -51,6 +51,7 @@ edgekey.net #Akamai
 edge-mqtt.facebook.com
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 experian.com
+facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
