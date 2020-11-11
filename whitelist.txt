@@ -154,6 +154,7 @@ support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 t.co #Twitter
 telephonyspamprotect-pa.googleapis.com
+theepochtimes.com #News site
 thenextweb.com
 thepiratebay.org
 tinyurl.com
@@ -187,6 +188,7 @@ www.msftconnecttest.com
 www.silverdoctors.com
 www.slideshare.net
 www.techrepublic.com
+www.theepochtimes.com #News site
 www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
