@@ -2,7 +2,7 @@
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
-addevent.com
+addevent.com #Add event to calendar service
 a.espncdn.com #ESPN CDN
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
@@ -71,6 +71,7 @@ gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
+guce.yahoo.com #Yahoo Finance
 gumroad.com
 h2.shared.global.fastly.net #CNAME for www.digitaltrends.com
 hackerone.com
@@ -158,6 +159,7 @@ syndication.twitter.com #Embedded tweets
 t.co #Twitter
 telephonyspamprotect-pa.googleapis.com
 theepochtimes.com #News site
+thehill.com #News site
 thenextweb.com
 thepiratebay.org
 tinyurl.com
