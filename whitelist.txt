@@ -19,6 +19,7 @@ b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
 blog.hubspot.com
 bountysource.com
+buff.ly #URL Shortener
 cdn2.editmysite.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
@@ -90,6 +91,7 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 kingworldnews.com #News site
+knowyourmeme.com
 kotaku.com
 l.facebook.com
 links.mint.com #Links served by Mint
@@ -115,6 +117,7 @@ no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
+ogs.google.com #Google Images
 ow.ly #URL shortener service
 passport.mobilenations.com
 payments.google.com
