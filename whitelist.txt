@@ -92,6 +92,7 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 kingworldnews.com #News site
+kit-free.fontawesome.com #Website fonts
 knowyourmeme.com
 kotaku.com
 l.facebook.com
