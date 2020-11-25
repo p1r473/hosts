@@ -212,7 +212,6 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains4.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
-https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/hijack/others.txt
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/2345.txt
