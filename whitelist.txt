@@ -193,6 +193,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
 www.msftconnecttest.com
+www.silverchartist.com
 www.silverdoctors.com
 www.slideshare.net
 www.techrepublic.com
