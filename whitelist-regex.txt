@@ -7,6 +7,7 @@
 (^|.*\.)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
 (^|.*\.)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
 (^|.*\.)lametric\.com$ #Nonmalicious but has metric in the URL
+(^|.*\.)list-manage.com$ #Unsubscribing from newsletters
 (^|.*\.)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
 (^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
 (^|.*\.)v0cdn.net$ #CDN used by Microsoft, among others
