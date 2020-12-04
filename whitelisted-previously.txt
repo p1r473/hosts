@@ -1,100 +1,14 @@
-addevent.com
-blog.hubspot.com
-bountysource.com
-cdn2.editmysite.com
-cdn.contentful.com
-cdn.shopify.com
-chrome.google.com
-chromesyncpasswords-pa.googleapis.com
-coingeek.com
-coinmarketcap.com
-community.kaspersky.com
-content-autofill.googleapis.com
-couponchief.com
-ebates.com
-edge-mqtt.facebook.com
-experian.com
-firebaseinstallations.googleapis.com
-firebaseremoteconfig.googleapis.com
-flic.kr
-forms.hubspot.com
-forum.kaspersky.com
-gamecopyworld.com
-getpocket.com
-getsatisfaction.com
-gleam.io
-gounlimited.to
-gql.reddit.com
-gumroad.com
-hackerone.com
-ift.tt
-imgur.com
-iob.imgur.com
-ipchicken.com
-ip-tracker.org
-itch.io
-jpost.com
-kotaku.com
-l.facebook.com
-login.windows.net
-mailchi.mp
-mandrillapp.com
-maps.googleapis.com
-maps.gstatic.com
-masterpass.com
-m.economictimes.com
-mediafire.com
-messenger.com
-mint.finance.intuit.com
-news.bitcoin.com
-passport.mobilenations.com
-payments.google.com
-people-pa.googleapis.com
-pinterest.com
-platform.twitter.com
-push.services.mozilla.com
-query.prod.cms.rt.microsoft.com
-reddit.app.link
-reminders-pa.googleapis.com
-si6ling.incestflix.com
-smallbusiness.chron.com
-smartlinks.intuit.com
-sputniknews.com
-stacksocial.com
-storage.googleapis.com
-store-images.s-microsoft.com
-support.kaspersky.com
-telephonyspamprotect-pa.googleapis.com
-thenextweb.com
-thepiratebay.org
-tinyurl.com
-tracker.openbittorrent.com
-tracker.opentrackr.org
-unsubscribe.mailerlite.com
-uptimerobot.com
-usa.kaspersky.com
-userlocation.googleapis.com
-videos.oovvuu.com
-webtrack.dhlglobalmail.com
-whatismyipaddress.com
-www3.l.google.com
-www.addevent.com
-www.bit.ly
-www.bountysource.com
-www.coingeek.com
-www.coinmarketcap.com
-www.ebates.com
-www.e-junkie.com
-www.etf.com
-www.gamecopyworld.com
-www.googleadservices.com
-www.ipchicken.com
-www.ip-tracker.org
-www.msftconnecttest.com
-www.silverdoctors.com
-www.slideshare.net
-www.techrepublic.com
-www.uptimerobot.com
-www.worldometers.info
-www.youtube-nocookie.com
-xnxx.com
+(^|.*\.)a-000.*\.a-msedge\.net$  #CNAME for www.msn.com
+(^|.*\.)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
+(^|.*\.)cloudfront\.net$ #Amazon service, sometimes does serve ads
+(^|.*\.)googleapis.com$
+(^|.*\.)gravatar\.com$ #Though does tracking, does not serve ads. An avatar system
+(^|.*\.)hwcdn.net$ #Popular CDN
+(^|.*\.)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
+(^|.*\.)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
+(^|.*\.)lametric\.com$ #Nonmalicious but has metric in the URL
+(^|.*\.)list-manage.com$ #Unsubscribing from newsletters
+(^|.*\.)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
+(^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
+(^|.*\.)v0cdn.net$ #CDN used by Microsoft, among others
+(^|.*\.)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
