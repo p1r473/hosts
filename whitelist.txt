@@ -7,12 +7,9 @@ a.espncdn.com #ESPN CDN
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
-api.videos.oovvuu.com #embedded videos in news articles viewed through Google News app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-arcgis.com #Johns Hopkins Coronavirus tracking
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
-assets.guim.co.uk #TheGuardian videos
 auth.samsungosp.com #Logging into Samsung on an Android device
 b-api.facebook.com #Logging into Facebook Messenger on mobile
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
@@ -20,7 +17,6 @@ bit.ly #URL Shortener
 blog.hubspot.com
 bountysource.com
 buff.ly #URL Shortener
-cdn2.editmysite.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
@@ -56,7 +52,6 @@ facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
-fiverr.com
 flic.kr
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
@@ -73,33 +68,26 @@ gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
-gumroad.com
 h2.shared.global.fastly.net #CNAME for www.digitaltrends.com
 hackerone.com
 ift.tt
 i.instagram.com #Instagram feed and highlights
-images.gounlimited.to #Imagehosting
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ipchicken.com
 ip-tracker.org
-ir.ebaystatic.com #eBay layout
 itch.io
-j.mp #URL shortener service
-jpost.com
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 kingworldnews.com #News site
 kit.fontawesome.com #Website Fonts
 kit-free.fontawesome.com #Website fonts
-kit-free.fontawesome.com #Website Fonts
 knowyourmeme.com
 kotaku.com
 l.facebook.com
-links.mint.com #Links served by Mint
 login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
@@ -107,9 +95,7 @@ mandrillapp.com
 manifest.prod.boltdns.net #Required for embedded videos using Brightcove Player
 maps.googleapis.com
 maps.gstatic.com
-masterpass.com
 maxcdn.bootstrapcdn.com #Breaks urlvoid.com
-m.economictimes.com
 mediafire.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
@@ -124,8 +110,6 @@ ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
 ogs.google.com #Google Images
 ow.ly #URL shortener service
-passport.mobilenations.com
-payments.google.com
 people-pa.googleapis.com
 pinterest.com
 platform.twitter.com
@@ -140,8 +124,6 @@ reminders-pa.googleapis.com
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com #AWS
-s3.tradingview.com #Assets on TradingView
-s3-us-west-1.amazonaws.com #AWS
 s3-us-west-2.amazonaws.com #AWS
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
@@ -157,31 +139,23 @@ static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 store-images.s-microsoft.com
-s.tradingview.com #TradingView Static Assets
-substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 t.co #Twitter
 telephonyspamprotect-pa.googleapis.com
-theepochtimes.com #News site
-thehill.com #News site
-thenextweb.com
 thepiratebay.org
 tinyurl.com
 t.me #Telegram
 tracker.openbittorrent.com
 tracker.opentrackr.org
-unsubscribe.mailerlite.com
 uptimerobot.com
 usa.kaspersky.com
 userlocation.googleapis.com
-videos.oovvuu.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www3.l.google.com
 www.addevent.com
-www.arcgis.com #Johns Hopkins Coronavirus tracking
 www.bit.ly
 www.bountysource.com
 www.coingeek.com
@@ -194,13 +168,9 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
-www.msftconnecttest.com
 www.silverchartist.com
 www.silverdoctors.com
-www.slideshare.net
 www.techrepublic.com
-www.theepochtimes.com #News site
-www.uptimerobot.com
 www.worldometers.info
 www.youtube-nocookie.com
 xnxx.com
