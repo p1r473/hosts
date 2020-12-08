@@ -36,7 +36,6 @@ community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.jwplatform.com #Embedded JWPlayer videos
-couponchief.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -149,7 +148,6 @@ tinyurl.com
 t.me #Telegram
 tracker.openbittorrent.com
 tracker.opentrackr.org
-uptimerobot.com
 usa.kaspersky.com
 userlocation.googleapis.com
 webtrack.dhlglobalmail.com
@@ -169,7 +167,6 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
-www.silverchartist.com
 www.silverdoctors.com
 www.techrepublic.com
 www.worldometers.info
