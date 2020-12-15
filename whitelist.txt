@@ -117,6 +117,7 @@ qvay.app.link #Texts you link to download an app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
+rumble.com #YouTube competitor
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3.amazonaws.com #AWS
