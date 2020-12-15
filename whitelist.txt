@@ -67,7 +67,6 @@ gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
-h2.shared.global.fastly.net #CNAME for www.digitaltrends.com
 hackerone.com
 ift.tt
 i.instagram.com #Instagram feed and highlights
@@ -75,6 +74,7 @@ imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
+ip107307705.ahcdn.com #XXX
 ipchicken.com
 ip-tracker.org
 itch.io
@@ -83,7 +83,6 @@ js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 kingworldnews.com #News site
 kit.fontawesome.com #Website Fonts
-kit-free.fontawesome.com #Website fonts
 knowyourmeme.com
 kotaku.com
 l.facebook.com
@@ -107,8 +106,6 @@ no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
-ogs.google.com #Google Images
-ow.ly #URL shortener service
 people-pa.googleapis.com
 pinterest.com
 platform.twitter.com
@@ -133,7 +130,6 @@ socialize.us1.gigya.com #Logging into iRobot app on Android
 s.pinimg.com #Pinterest
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
-ss.phncdn.com.sds.rncdn7.com #CNAME for ss.phncdn.com and breaks PornHub
 stacksocial.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
@@ -145,9 +141,9 @@ t.co #Twitter
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
-t.me #Telegram
 tracker.openbittorrent.com
 tracker.opentrackr.org
+txxx.com #XXX
 usa.kaspersky.com
 userlocation.googleapis.com
 webtrack.dhlglobalmail.com
@@ -169,6 +165,8 @@ www.ipchicken.com
 www.ip-tracker.org
 www.silverdoctors.com
 www.techrepublic.com
+www.thegatewaypundit.com #Political news
+www.txxx.com #XXX
 www.worldometers.info
 www.youtube-nocookie.com
 xnxx.com
