@@ -163,6 +163,7 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
+www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
 www.thegatewaypundit.com #Political news
