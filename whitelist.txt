@@ -68,6 +68,7 @@ graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 hackerone.com
+ia801005.us.archive.org #Download server for archive.org
 ift.tt
 i.instagram.com #Instagram feed and highlights
 imapi-mu.isnssdk.com #TikTokDMs
