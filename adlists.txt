@@ -31,13 +31,6 @@ https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
 https://gist.githubusercontent.com/MOxFIVE/4730cac715ef406bd8eac7b29335be4a/raw/d21fa08e97963edde372d0d3e50703c783c9c32e/Personal%2520Blocklist.txt
 https://github.com/hoshsadiq/adblock-nocoin-list/raw/master/hosts.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/Anti-Corp/Deezer/Deezer-HOSTS.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/Anti-Corp/Spotify/Spotify-HOSTS.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Ads-tracker.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Anti-FPT.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Crashlytics.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Malware.txt
-https://gitlab.com/CHEF-KOCH/cks-filterlist/raw/master/hosts/Popads.txt
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 https://gitlab.com/dns-firewall/dns/matrix/matrix/raw/master/source/adware/domains.list
@@ -55,7 +48,6 @@ https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hostsmobile.oisd.nl
 https://hosts.ubuntu101.co.za/domains.list
 https://infosec.cert-pa.it/analyze/listdomains.txt
-https://lists.hashdd.com/hashdd/vxvault-urllist/hosts
 https://malwaredomains.usu.edu/justdomains
 https://mirror1.malwaredomains.com/files/domains.hosts
 https://mirror1.malwaredomains.com/files/immortal_domains.txt
@@ -159,7 +151,6 @@ https://raw.githubusercontent.com/hemiipatu/Blocklists/master/fraudulent.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/phishing.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/ransomware.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/scam.txt
-https://raw.githubusercontent.com/hemiipatu/Blocklists/master/spam.txt
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
@@ -208,6 +199,7 @@ https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spa
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
+https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains2.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains3.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains4.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
