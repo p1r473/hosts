@@ -36,6 +36,7 @@ community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.jwplatform.com #Embedded JWPlayer videos
+cs950197015.wpc.systemcdn.net #CNAME for i.ebayimg.com, breaks Kijiji images
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
