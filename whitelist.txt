@@ -30,13 +30,14 @@ chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 clients1.google.com #Chrome autofill and search results
 cn-geo1.uber.com #Uber/Uber Eats
+code.highcharts.com #PredictIt
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.jwplatform.com #Embedded JWPlayer videos
-cs950197015.wpc.systemcdn.net #CNAME for i.ebayimg.com, breaks Kijiji images
+cs950197015.wpc.systemcdn.net #CNAME for i.ebayimg.com, Kijiji images
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -95,7 +96,7 @@ mandrillapp.com
 manifest.prod.boltdns.net #Required for embedded videos using Brightcove Player
 maps.googleapis.com
 maps.gstatic.com
-maxcdn.bootstrapcdn.com #Breaks urlvoid.com
+maxcdn.bootstrapcdn.com #urlvoid.com
 mediafire.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
