@@ -146,6 +146,7 @@ thepiratebay.org
 tinyurl.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
+tracking.narvar.com
 txxx.com #XXX
 usa.kaspersky.com
 userlocation.googleapis.com
