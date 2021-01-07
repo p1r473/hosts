@@ -172,6 +172,7 @@ www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
 www.thegatewaypundit.com #Political news
+www.tiktok.com
 www.txxx.com #XXX
 www.worldometers.info
 www.youtube-nocookie.com
