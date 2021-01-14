@@ -54,6 +54,7 @@ fast.wistia.com #Embedded videos on PurposeInvest
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 flic.kr
+fonts.gstatic.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
 forms.hubspot.com
