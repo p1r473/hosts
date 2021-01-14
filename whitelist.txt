@@ -141,6 +141,7 @@ store-images.s-microsoft.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 t.co #Twitter
+tcrn.ch #URL Shortener for TechCrunch
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
