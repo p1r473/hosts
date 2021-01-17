@@ -37,7 +37,6 @@ community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.jwplatform.com #Embedded JWPlayer videos
-cs950197015.wpc.systemcdn.net #CNAME for i.ebayimg.com, Kijiji images
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -59,6 +58,7 @@ fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
 forms.hubspot.com
 forum.kaspersky.com
+gab.com
 gamecopyworld.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
@@ -86,7 +86,6 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 kingworldnews.com #News site
-kit.fontawesome.com #Website Fonts
 knowyourmeme.com
 kotaku.com
 l.facebook.com
@@ -110,7 +109,6 @@ north-america.pool.ntp.org #NTP Server
 ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
 people-pa.googleapis.com
-pinterest.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
@@ -157,14 +155,12 @@ whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www3.l.google.com
 www.addevent.com
-www.alcohol-soft.com
 www.bit.ly
 www.bountysource.com
 www.coingeek.com
 www.coinmarketcap.com
 www.ebates.com
 www.e-junkie.com
-www.etf.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
@@ -174,7 +170,6 @@ www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
 www.thegatewaypundit.com #Political news
-www.tiktok.com
 www.txxx.com #XXX
 www.worldometers.info
 www.youtube-nocookie.com
