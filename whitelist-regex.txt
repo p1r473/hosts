@@ -1,5 +1,6 @@
 (^|.*\.)a-000.*\.a-msedge\.net$  #CNAME for www.msn.com
 (^|.*\.)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
+(^|.*\.)archive.org #Download server for archive.org
 (^|.*\.)cloudfront\.net$ #Amazon service, sometimes does serve ads
 (^|.*\.)googleapis.com$
 (^|.*\.)gravatar\.com$ #Though does tracking, does not serve ads. An avatar system
