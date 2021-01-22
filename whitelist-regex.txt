@@ -4,6 +4,7 @@
 (^|.*\.)cloudfront\.net$ #Amazon service, sometimes does serve ads
 (^|.*\.)googleapis.com$
 (^|.*\.)gravatar\.com$ #Though does tracking, does not serve ads. An avatar system
+^guce\.(.*)\.com$ #breaks all sites owned by Verizon Media , StevenBlack/hosts#1370 + lightswitch05/hosts#188 
 (^|.*\.)hwcdn.net$ #Popular CDN
 (^|.*\.)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
 (^|.*\.)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
