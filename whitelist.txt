@@ -103,6 +103,7 @@ mesu.apple.com #Apple hosts software update catalogs
 mi.edgekey.net #Akamai
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
+mozilla.cloudflare-dns.com
 mtalk.google.com #Kijiji Android app notifications
 news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
