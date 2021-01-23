@@ -47,6 +47,7 @@ edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 embed-ssl.wistia.com #StackSkills.com video thumbnails
+encrypted-tbn0.gstatic.com #Static Google images
 experian.com
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
