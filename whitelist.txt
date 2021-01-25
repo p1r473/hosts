@@ -141,14 +141,13 @@ storage.googleapis.com
 store-images.s-microsoft.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
-t.co #Twitter
 tcrn.ch #URL Shortener for TechCrunch
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
-tracking.narvar.com
+tracker.trackerfix.com #Torrent tracker
 txxx.com #XXX
 usa.kaspersky.com
 userlocation.googleapis.com
