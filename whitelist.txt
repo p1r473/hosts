@@ -117,6 +117,7 @@ pool.ntp.org #NTP Server
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 qvay.app.link #Texts you link to download an app
+ratehub.ca
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -167,6 +168,7 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
+www.ratehub.ca
 www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
