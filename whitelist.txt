@@ -161,6 +161,7 @@ www.coingeek.com
 www.coinmarketcap.com
 www.ebates.com
 www.e-junkie.com
+www.etf.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
@@ -174,6 +175,7 @@ www.thegatewaypundit.com #Political news
 www.txxx.com #XXX
 www.worldometers.info
 www.youtube-nocookie.com
+www.zerohedge.com
 xnxx.com
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
