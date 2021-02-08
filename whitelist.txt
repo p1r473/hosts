@@ -167,7 +167,6 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.ipchicken.com
 www.ip-tracker.org
-www.ratehub.ca
 www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
