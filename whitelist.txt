@@ -20,6 +20,7 @@ buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
+cdn.jwplayer.com #Embedded videos
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com
 cdn.syndication.twimg.com #Embedded Tweets
