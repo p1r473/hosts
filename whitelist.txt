@@ -149,7 +149,6 @@ tinyurl.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
-txxx.com #XXX
 usa.kaspersky.com
 userlocation.googleapis.com
 webtrack.dhlglobalmail.com
