@@ -66,6 +66,7 @@ getpocket.com
 getsatisfaction.com
 gleam.io
 googleadapis.l.google.com #CNAME for fonts.gstatic.com
+goo.gl #Google URL Shortener
 gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
