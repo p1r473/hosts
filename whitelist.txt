@@ -1,3 +1,4 @@
+
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
@@ -79,7 +80,6 @@ imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
-ip107307705.ahcdn.com #XXX
 ipchicken.com
 ip-tracker.org
 itch.io
@@ -99,6 +99,7 @@ maps.googleapis.com
 maps.gstatic.com
 maxcdn.bootstrapcdn.com #urlvoid.com
 mediafire.com
+mene.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mi.edgekey.net #Akamai
@@ -118,14 +119,12 @@ pool.ntp.org #NTP Server
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 qvay.app.link #Texts you link to download an app
-ratehub.ca
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
 rumble.com #YouTube competitor
 s0.wp.com #WordPress
 s1.wp.com #WordPress
-s3.amazonaws.com #AWS
 s3-us-west-2.amazonaws.com #AWS
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
@@ -162,7 +161,6 @@ www.coingeek.com
 www.coinmarketcap.com
 www.ebates.com
 www.e-junkie.com
-www.etf.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
@@ -172,10 +170,8 @@ www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
 www.thegatewaypundit.com #Political news
-www.txxx.com #XXX
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
-xnxx.com
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
