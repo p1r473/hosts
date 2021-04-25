@@ -3,15 +3,15 @@
 (^|.*\.)archive.org #Download server for archive.org
 (^|.*\.)cloudfront\.net$ #Amazon service, sometimes does serve ads
 (^|.*\.)googleapis.com$
-^guce\.(.*)\.com$ #breaks all sites owned by Verizon Media , StevenBlack/hosts#1370 + lightswitch05/hosts#188 
 (^|.*\.)hwcdn.net$ #Popular CDN
-(^|.*\.)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
 (^|.*\.)intercom\.io$ #Provides customer support for vendors. Entire domain in a blocklist
+(^|.*\.)intercomcdn\.com$ #Provides customer support for vendors. Entire domain in a blocklist
 (^|.*\.)lametric\.com$ #Nonmalicious but has metric in the URL
 (^|.*\.)list-manage.com$ #Unsubscribing from newsletters
 (^|.*\.)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
 (^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
-^s3\.(.)*\.amazonaws.com$ #S3 AWS Buckets
 (^|.*\.)upd.kaspersky.com$
 (^|.*\.)v0cdn.net$ #CDN used by Microsoft, among others
 (^|.*\.)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
+^guce\.(.*)\.com$ #breaks all sites owned by Verizon Media , StevenBlack/hosts#1370 + lightswitch05/hosts#188 
+^s3\.(.)*\.amazonaws.com$ #S3 AWS Buckets
