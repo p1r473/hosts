@@ -1,10 +1,9 @@
-
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
+a.espncdn.com #ESPN CDN
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
-a.espncdn.com #ESPN CDN
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
@@ -22,9 +21,9 @@ cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.jwplayer.com #Embedded videos
-cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com
 cdn.syndication.twimg.com #Embedded Tweets
+cdns.gigya.com #Embedded CTV News videos
 cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
 cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
@@ -45,9 +44,9 @@ downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
+edge-mqtt.facebook.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
-edge-mqtt.facebook.com
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 experian.com
 facebook.com
@@ -66,22 +65,22 @@ getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
 gleam.io
-googleadapis.l.google.com #CNAME for fonts.gstatic.com
 goo.gl #Google URL Shortener
+googleadapis.l.google.com #CNAME for fonts.gstatic.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 hackerone.com
-ift.tt
 i.instagram.com #Instagram feed and highlights
+ift.tt
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
-ipchicken.com
 ip-tracker.org
+ipchicken.com
 itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
@@ -123,16 +122,16 @@ reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
 rumble.com #YouTube competitor
+s.marketwatch.com #MarketWatch images
+s.pinimg.com #Pinterest
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3-us-west-2.amazonaws.com #AWS
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smallbusiness.chron.com
-s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
-s.pinimg.com #Pinterest
 sputniknews.com
 ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 stacksocial.com
@@ -154,18 +153,17 @@ userlocation.googleapis.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
-www3.l.google.com
 www.addevent.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
-www.ebates.com
 www.e-junkie.com
+www.ebates.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
-www.ipchicken.com
 www.ip-tracker.org
+www.ipchicken.com
 www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.techrepublic.com
@@ -173,5 +171,6 @@ www.thegatewaypundit.com #Political news
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
+www3.l.google.com
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
