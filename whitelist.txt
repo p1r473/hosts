@@ -7,6 +7,7 @@ addevent.com #Add event to calendar service
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
+app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
@@ -74,6 +75,7 @@ gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 hackerone.com
 i.instagram.com #Instagram feed and highlights
+icontact.com #Email newsletter signup
 ift.tt
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
@@ -162,6 +164,7 @@ www.ebates.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
+www.icontact.com #Email newsletter signup
 www.ip-tracker.org
 www.ipchicken.com
 www.silverchartist.com #CNAME for target.clickfunnels.com
