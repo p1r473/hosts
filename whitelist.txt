@@ -123,6 +123,7 @@ s.pinimg.com #Pinterest
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3-us-west-2.amazonaws.com #AWS
+s7d2.scene7.com #ae.com
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smartlinks.intuit.com
