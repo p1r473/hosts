@@ -135,6 +135,7 @@ static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 store-images.s-microsoft.com
+stores.americommerce.com #Ecommerce platform translinesupply.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 telephonyspamprotect-pa.googleapis.com
