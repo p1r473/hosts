@@ -23,6 +23,7 @@ cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.jwplayer.com #Embedded videos
+cdn.paddle.com #PocketCasts
 cdn.shopify.com
 cdn.syndication.twimg.com #Embedded Tweets
 cdns.gigya.com #Embedded CTV News videos
@@ -44,7 +45,6 @@ d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
-dualstack.k.sni.global.fastly.net #CNAME for pool.ntp.org 
 dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
 edge-mqtt.facebook.com
