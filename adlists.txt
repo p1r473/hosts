@@ -293,6 +293,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://someonewhocares.org/hosts/zero/hosts
 https://tgc.cloud/downloads/hosts.alive.txt
 https://tgc.cloud/downloads/iOSAds.txt
+https://tgc.cloud/downloads/iOSAdsLite.txt
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Airelle-hrsk.txt
