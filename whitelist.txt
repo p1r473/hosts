@@ -149,6 +149,7 @@ tracker.trackerfix.com #Torrent tracker
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 usa.kaspersky.com
+usawatchdog.com
 userlocation.googleapis.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
