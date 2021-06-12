@@ -89,6 +89,7 @@ kingworldnews.com #News site
 knowyourmeme.com
 kotaku.com
 l.facebook.com
+login.microsoftonline.com #Office365
 login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
