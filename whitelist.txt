@@ -32,6 +32,7 @@ cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
+clients.l.google.com
 clients1.google.com #Chrome autofill and search results
 cn-geo1.uber.com #Uber/Uber Eats
 code.highcharts.com #PredictIt
