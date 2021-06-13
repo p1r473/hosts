@@ -20,6 +20,7 @@ bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.cloudflare.steamstatic.com #Steam
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.jwplayer.com #Embedded videos
@@ -141,6 +142,7 @@ static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 store-images.s-microsoft.com
+store.cloudflare.steamstatic.com #Steam
 stores.americommerce.com #Ecommerce platform translinesupply.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
