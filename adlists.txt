@@ -57,7 +57,6 @@ https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-only-trackers.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers.txt
-https://hosts.gameindustry.eu/pc-main-template/dl/
 https://hosts.ubuntu101.co.za/domains.list
 https://hostsmobile.oisd.nl
 https://infosec.cert-pa.it/analyze/listdomains.txt
@@ -117,7 +116,6 @@ https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/ste
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
