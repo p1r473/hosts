@@ -78,6 +78,7 @@ gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 i.instagram.com #Instagram feed and highlights
 icontact.com #Email newsletter signup
+images.ebaycdn.net #Ebay
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
