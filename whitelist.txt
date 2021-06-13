@@ -41,6 +41,7 @@ coinmarketcap.com
 community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
+content.ctfs.com #Triangle app
 content.jwplatform.com #Embedded JWPlayer videos
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
