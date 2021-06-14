@@ -275,6 +275,10 @@ https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts	
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/samsung-tv.hosts
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/xiaomi.hosts
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/basic/hijack/others.txt
 https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/2345.txt

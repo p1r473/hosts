@@ -151,6 +151,7 @@ syndication.twitter.com #Embedded tweets
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
+ton.twitter.com #Sharing images via Twitter DM
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
