@@ -1,8 +1,3 @@
-**gravity**
-
-Amalgamation of all of my adlist sources, concatenated with my blacklist, with my whitelist excluded
-
-
 **blacklist**
 
 Personal blacklist
