@@ -1,3 +1,4 @@
+
 #^(r([0-9]+)(\-\-\-|\.))?sn\-([a-z0-9.-])*\.googlevideo.com
 (^|(.)*[_.-]+)(double)?click(s)?[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)aff(iliat(e(s)?)?(ion)?)?[0-9]*[_.-]+(.)+
@@ -16,4 +17,4 @@
 (^|(.)*[_.-]+)traff(ic)?[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)xn--[0-9]*[_.-]+(.)+
 (^|.*\.)litix.io$ #Wistia
-(^|[a-z0-9]+[_.-]+)(m)?ad(s)?(((s(e)?r(v(e|er|ice)?)?)?)?|(vert(is(e|ing|ement))?)?|(tr(k|(ack(er|ing)?)?)?)?|(im(g|age)?)?|sdk|choice|system)?([sxv])?[0-9]*[_.-]+(.)+
+(^|[a-z0-9]+[_.-]+)((m)|(page))?ad(s)?(((s(e)?r(v(e|er|ice)?)?)?)?|(vert(is(e|ing|ement))?)?|(tr(k|(ack(er|ing)?)?)?)?|(im(g|age)?)?|sdk|choice|system)?([sxv])?[0-9]*[_.-]+(.)+
