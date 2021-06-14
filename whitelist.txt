@@ -1,6 +1,7 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 a.espncdn.com #ESPN CDN
+a.kickstarter.com #Kickstarter links opening in app
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
