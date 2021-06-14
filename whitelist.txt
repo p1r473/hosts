@@ -39,6 +39,7 @@ cn-geo1.uber.com #Uber/Uber Eats
 code.highcharts.com #PredictIt
 coingeek.com
 coinmarketcap.com
+community.cloudflare.steamstatic.com #Steam
 community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
