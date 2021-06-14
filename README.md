@@ -36,8 +36,3 @@ Hosts in which I have found, that contain ads, that may not be on (many) other l
 **adlists**
 
 Adlist sources
-
-
-**adlists.retired**
-
-Disabled due to censorship or over-abundance of false positives/invalid hosts
