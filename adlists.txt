@@ -273,8 +273,6 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains4.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
-https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
-https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts	
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/samsung-tv.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts

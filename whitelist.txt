@@ -96,6 +96,7 @@ knowyourmeme.com
 kotaku.com
 l.facebook.com
 login.microsoftonline.com #Office365
+login.msa.msidentity.com #Windows
 login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
@@ -104,6 +105,7 @@ manifest.prod.boltdns.net #Required for embedded videos using Brightcove Player
 maps.googleapis.com
 maps.gstatic.com
 maxcdn.bootstrapcdn.com #urlvoid.com
+menu-static.gog-statics.com #GOG.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mi.edgekey.net #Akamai
