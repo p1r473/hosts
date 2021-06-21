@@ -23,7 +23,6 @@ https://block.energized.pro/bluGo/formats/domains.txt
 https://block.energized.pro/spark/formats/domains.txt
 https://block.energized.pro/ultimate/formats/domains.txt
 https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
-https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://cdn.andryou.com/oisddbl.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
