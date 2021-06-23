@@ -95,6 +95,7 @@ kingworldnews.com #News site
 knowyourmeme.com
 kotaku.com
 l.facebook.com
+learn.adafruit.com #Adafruit
 login.microsoftonline.com #Office365
 login.msa.msidentity.com #Windows
 login.windows.net
