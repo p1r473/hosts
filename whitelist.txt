@@ -76,6 +76,7 @@ googleadapis.l.google.com #CNAME for fonts.gstatic.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
+graph.microsoft.com #SharePoint
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 i.instagram.com #Instagram feed and highlights
