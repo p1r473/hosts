@@ -1,7 +1,6 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 a.espncdn.com #ESPN CDN
-a.kickstarter.com #Kickstarter links opening in app
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
@@ -21,7 +20,6 @@ bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
-cdn.cloudflare.steamstatic.com #Steam
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.jwplayer.com #Embedded videos
@@ -29,7 +27,6 @@ cdn.paddle.com #PocketCasts
 cdn.shopify.com
 cdn.syndication.twimg.com #Embedded Tweets
 cdns.gigya.com #Embedded CTV News videos
-cds.j3z9t3p6.hwcdn.net #Needed for dnschecker.org
 cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
@@ -40,12 +37,10 @@ cn-geo1.uber.com #Uber/Uber Eats
 code.highcharts.com #PredictIt
 coingeek.com
 coinmarketcap.com
-community.cloudflare.steamstatic.com #Steam
 community.kaspersky.com
 connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
-content.jwplatform.com #Embedded JWPlayer videos
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -81,7 +76,6 @@ gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 i.instagram.com #Instagram feed and highlights
 icontact.com #Email newsletter signup
-images.ebaycdn.net #Ebay
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
@@ -93,12 +87,9 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 kingworldnews.com #News site
-knowyourmeme.com
 kotaku.com
 l.facebook.com
 learn.adafruit.com #Adafruit
-login.microsoftonline.com #Office365
-login.msa.msidentity.com #Windows
 login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
@@ -107,7 +98,6 @@ manifest.prod.boltdns.net #Required for embedded videos using Brightcove Player
 maps.googleapis.com
 maps.gstatic.com
 maxcdn.bootstrapcdn.com #urlvoid.com
-menu-static.gog-statics.com #GOG.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mi.edgekey.net #Akamai
@@ -136,8 +126,8 @@ s.marketwatch.com #MarketWatch images
 s.pinimg.com #Pinterest
 s0.wp.com #WordPress
 s1.wp.com #WordPress
-s3-us-west-2.amazonaws.com #AWS
 s7d2.scene7.com #ae.com
+shop.app #Shopify URL shortener
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smartlinks.intuit.com
@@ -150,14 +140,11 @@ static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
 store-images.s-microsoft.com
-store.cloudflare.steamstatic.com #Steam
-stores.americommerce.com #Ecommerce platform translinesupply.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
-ton.twitter.com #Sharing images via Twitter DM
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
