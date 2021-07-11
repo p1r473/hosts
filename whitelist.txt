@@ -172,6 +172,7 @@ www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.thegatewaypundit.com #Political news
 www.worldometers.info
+www.wsj.com
 www.youtube-nocookie.com
 www.zerohedge.com
 www3.l.google.com
