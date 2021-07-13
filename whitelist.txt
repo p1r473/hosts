@@ -17,6 +17,7 @@ b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
 blog.hubspot.com
 bountysource.com
+breitbart.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
@@ -158,6 +159,7 @@ whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www.addevent.com
 www.bit.ly
+www.breitbart.com
 www.coingeek.com
 www.coinmarketcap.com
 www.e-junkie.com
