@@ -76,6 +76,7 @@ i.instagram.com #Instagram feed and highlights
 icontact.com #Email newsletter signup
 imapi-mu.isnssdk.com #TikTokDMs
 imgur.com
+imsdb.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ip-tracker.org
