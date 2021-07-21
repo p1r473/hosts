@@ -112,8 +112,10 @@ people-pa.googleapis.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
+pubnub.com #API
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
+rc.pubnub.com #API
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
