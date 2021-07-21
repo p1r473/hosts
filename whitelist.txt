@@ -17,7 +17,6 @@ b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
 blog.hubspot.com
 bountysource.com
-breitbart.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
@@ -45,8 +44,6 @@ content.ctfs.com #Triangle app
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
-dualstack.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
-dualstack.us-eu.brightcove.map.fastly.net #NewYorkPost/CityNews1130 embedded videos
 ebates.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
@@ -101,7 +98,6 @@ maps.gstatic.com
 maxcdn.bootstrapcdn.com #urlvoid.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
-mi.edgekey.net #Akamai
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
@@ -118,7 +114,6 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
-qvay.app.link #Texts you link to download an app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -128,15 +123,12 @@ s.pinimg.com #Pinterest
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
-shop.app #Shopify URL shortener
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 sputniknews.com
-ssl.marfeelcdn.com #CDN used by multiple sites such as gHacks
 stacksocial.com
-star.c10r.facebook.com #CName for web.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 storage.googleapis.com
@@ -157,7 +149,6 @@ userlocation.googleapis.com
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
-www.addevent.com
 www.bit.ly
 www.breitbart.com
 www.coingeek.com
@@ -174,7 +165,6 @@ www.silverchartist.com #CNAME for target.clickfunnels.com
 www.silverdoctors.com
 www.thegatewaypundit.com #Political news
 www.worldometers.info
-www.wsj.com
 www.youtube-nocookie.com
 www.zerohedge.com
 www3.l.google.com

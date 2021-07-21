@@ -185,10 +185,6 @@ https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt
 https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/cyberthreat.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-lite.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-medium.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-obese.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/dylanarmstrong/hosts/master/hosts
