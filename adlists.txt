@@ -78,6 +78,11 @@ https://raw.githubusercontent.com/12425/adblist/master/adbhost.txt
 https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Blacklist.txt
 https://raw.githubusercontent.com/34730/asd/master/adaway-export
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v2_domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v3_domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v4_domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v4_validation_domains.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
