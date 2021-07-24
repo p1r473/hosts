@@ -34,6 +34,7 @@ https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
 https://gist.githubusercontent.com/MOxFIVE/4730cac715ef406bd8eac7b29335be4a/raw/d21fa08e97963edde372d0d3e50703c783c9c32e/Personal%2520Blocklist.txt
 https://gist.githubusercontent.com/vuxat/f25149898451efc6a2723af7c6643f82/raw/5985279ee61a7a77d4f5a5163460177b6a8b62e2/hosts-file.net_hjk.txt
+https://github.com/What-Zit-Tooya/Ad-Block/blob/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Abuse-List.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt
@@ -138,7 +139,6 @@ https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
-https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-HOSTS.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist_HOSTS.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole%20Block-Lists%20List.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
