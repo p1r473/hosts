@@ -85,7 +85,6 @@ itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
-kingworldnews.com #News site
 kotaku.com
 l.facebook.com
 learn.adafruit.com #Adafruit
@@ -113,10 +112,8 @@ people-pa.googleapis.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
-pubnub.com #API
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
-rc.pubnub.com #API
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -153,7 +150,6 @@ webtrack.dhlglobalmail.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www.bit.ly
-www.breitbart.com
 www.coingeek.com
 www.coinmarketcap.com
 www.e-junkie.com
@@ -165,11 +161,8 @@ www.icontact.com #Email newsletter signup
 www.ip-tracker.org
 www.ipchicken.com
 www.silverchartist.com #CNAME for target.clickfunnels.com
-www.silverdoctors.com
-www.thegatewaypundit.com #Political news
 www.worldometers.info
 www.youtube-nocookie.com
-www.zerohedge.com
 www3.l.google.com
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
