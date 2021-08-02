@@ -145,6 +145,7 @@ usa.kaspersky.com
 usawatchdog.com
 userlocation.googleapis.com
 webtrack.dhlglobalmail.com
+whatismyip.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www.bit.ly
