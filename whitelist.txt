@@ -72,6 +72,7 @@ graph.microsoft.com #SharePoint
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 guce.yahoo.com #Yahoo Finance
 i.instagram.com #Instagram feed and highlights
+icanhazip.com
 icontact.com #Email newsletter signup
 imgur.com
 imsdb.com
