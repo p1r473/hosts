@@ -67,6 +67,7 @@ https://malwaredomains.usu.edu/domains.hosts
 https://malwaredomains.usu.edu/immortal_domains.txt
 https://malwaredomains.usu.edu/justdomains
 https://orca.pet/notonmyshift/domains.txt
+https://orca.pet/notonmyshift/hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
@@ -79,6 +80,7 @@ https://raw.githubusercontent.com/12425/adblist/master/adbhost.txt
 https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Blacklist.txt
 https://raw.githubusercontent.com/34730/asd/master/adaway-export
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v2_domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/v3_domains.txt
@@ -357,6 +359,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://someonewhocares.org/hosts/zero/hosts
+https://stopforumspam.com/downloads/toxic_domains_whole.txt
 https://tgc.cloud/downloads/hosts.alive.txt
 https://tgc.cloud/downloads/iOSAds.txt
 https://tgc.cloud/downloads/iOSAdsLite.txt
