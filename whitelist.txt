@@ -1,7 +1,8 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 a.espncdn.com #ESPN CDN
-aax-us-east.amazon-adsystem.com #***Amazon App
+aan.amazon.com #Amazon app
+aax-us-east.amazon-adsystem.com #***Amazon app
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
