@@ -3,6 +3,7 @@
 a.espncdn.com #ESPN CDN
 aan.amazon.com #Amazon app
 aax-us-east.amazon-adsystem.com #***Amazon app
+aax-us-west.amazon-adsystem.com #***Amazon app
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
@@ -56,6 +57,7 @@ facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
+fls-na.amazon.ca #Amazon app
 fonts.gstatic.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.hubspot.com
@@ -143,6 +145,8 @@ tmx.td.com #MBNA app
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+unagi-na.amazon.com #Amazon app
+unagi.amazon.ca #Amazon app
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 usa.kaspersky.com
