@@ -1,8 +1,89 @@
 #Ads
-mobanalytics.xyz
+mobanalytics.xyz #Ads
 
 #Origin telemetry
-river.data.ea.com
+river.data.ea.com #Origin telemetry
 
-
-
+#KnowBe4 Phishing
+05kqatnrJ9s0sNAh9.phish.farm #KnowBe4
+2fa.com-token-auth.com #KnowBe4
+2o2.lol #KnowBe4
+34.75.2O2.lOl #KnowBe4
+451.farenheit.net #KnowBe4
+Covid19.protected-forms.com #KnowBe4
+addto.password.land #KnowBe4
+ancillarycheese.com #KnowBe4
+apple.my-cloud-mail.com #KnowBe4
+bloemlight.com #KnowBe4
+bofa.com-onlinebanking.com #KnowBe4
+breakingnews.comano.us #KnowBe4
+capital1.com-onlinebanking.com #KnowBe4
+cardpayments.microransom.us #KnowBe4
+chase.com-onlinebanking.com #KnowBe4
+cnn.compromisedblog.com #KnowBe4
+com-onlinebanking.com #KnowBe4
+com-token-auth.com #KnowBe4
+comano.us #KnowBe4
+compromisedblog.com #KnowBe4
+crypt.single-sign-on.password.land #KnowBe4
+do.not.click.on.this.link.instantrevert.net #KnowBe4
+donotreply.biz #KnowBe4
+employeeportal.net-login.com #KnowBe4
+en-us.secureconnection.moneytransaction.kb4.io #KnowBe4
+exchange.internalportal.net #KnowBe4
+farenheit.net #KnowBe4
+ftp.phishing.guru #KnowBe4
+gmail.net-login.com #KnowBe4
+gooqle.internalportal.net #KnowBe4
+guru.phishing.guru #KnowBe4
+http.www.secure.kb4.io #KnowBe4
+https.file-transfers.ancillarycheese.com #KnowBe4
+https.secure-links.bloemlight.com #KnowBe4
+i.donotreply.biz #KnowBe4
+instantrevert.net #KnowBe4
+internalportal.net #KnowBe4
+ios.my-cloud-mail.com #KnowBe4
+kb4.io #KnowBe4
+kn0wbe4.compromisedblog.com #KnowBe4
+login.gogie.com.000000000000.phish.farm #KnowBe4
+magnetonics.com #KnowBe4
+mail.donotreply.biz #KnowBe4
+mail.kb4.io #KnowBe4
+malwarebouncer.com #KnowBe4
+messaging-security.comano.us #KnowBe4
+microransom.us #KnowBe4
+msftemail.com #KnowBe4
+my-cloud-mail.com #KnowBe4
+na01.safelinks.protection.outlook.com.url.protected-forms.com #KnowBe4
+nam05.safelinks.protection.outlook.com.url.ATP-redirect.protected-forms.com #KnowBe4
+name10-safelinks-protection-outlook-com-url-atp-redirect.internalportal.net #KnowBe4
+net-login.com #KnowBe4
+noresponse.donotreply.biz #KnowBe4
+office.internalportal.net #KnowBe4
+oldmacdonald.had-a.phish.farm #KnowBe4
+online-banking.kb4.io #KnowBe4
+password-changes.phishwall.net #KnowBe4
+password.land #KnowBe4
+phish.farm #KnowBe4
+phishing.guru #KnowBe4
+phishtrain.org #KnowBe4
+phishwall.net #KnowBe4
+protected-forms.com #KnowBe4
+report-scam.malwarebouncer.com #KnowBe4
+robust-backend.ancillarycheese.com #KnowBe4
+sc.aspirets.com #ConnectWise
+science.farenheit.net #KnowBe4
+secure-mail.web.magnetonics.com #KnowBe4
+secure.payment-gateway.microransom.us #KnowBe4
+service.my-cloud-mail.com #KnowBe4
+socialmedia-insights.bloemlight.com #KnowBe4
+spamchallenge.msftemail.com #KnowBe4
+su.onamoc.comano.us #KnowBe4
+temp.farenheit.net #KnowBe4
+test.user-click.phishtrain.org #KnowBe4
+token.onelogin.com-token-auth.com #KnowBe4
+us-api.mimecast.com.kb4.io #KnowBe4
+us.farenheit.net #KnowBe4
+web-login.malwarebouncer.com #KnowBe4
+webconference.protected-forms.com #KnowBe4
+welsfargo.com-onlinebanking.com #KnowBe4
