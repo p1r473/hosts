@@ -45,6 +45,7 @@ connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
+datawrapper.dwcdn.net
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
 ebates.com
