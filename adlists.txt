@@ -33,6 +33,7 @@ https://getadhell.com/standard-package.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
 https://gist.githubusercontent.com/MOxFIVE/4730cac715ef406bd8eac7b29335be4a/raw/d21fa08e97963edde372d0d3e50703c783c9c32e/Personal%2520Blocklist.txt
+https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/5d5a2950777b9c1ea88d1e7ae5db921b300d9c39/SmartTV2.txt
 https://gist.githubusercontent.com/vuxat/f25149898451efc6a2723af7c6643f82/raw/5985279ee61a7a77d4f5a5163460177b6a8b62e2/hosts-file.net_hjk.txt
 https://github.com/What-Zit-Tooya/Ad-Block/blob/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
