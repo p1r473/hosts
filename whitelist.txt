@@ -46,6 +46,7 @@ content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 datawrapper.dwcdn.net
+developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
 ebates.com
@@ -53,6 +54,7 @@ edge-mqtt.facebook.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
 embed-ssl.wistia.com #StackSkills.com video thumbnails
+embed.spotify.com #Spotify
 experian.com
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
@@ -112,8 +114,11 @@ no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocfconnect-shard-na03-useast2.samsungiotcloud.com #Samsung SmartThings SmartPlug
 ocsp.apple.com #Apple certificate validation
+open.spotify.com #Spotify
 people-pa.googleapis.com
 platform.twitter.com
+play.spotify.com #Spotify
+play.spotify.edgekey.net #Spotify
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 pool.ntp.org #NTP Server
 push.services.mozilla.com
