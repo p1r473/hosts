@@ -131,6 +131,7 @@ si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
+spotify.com #Spotify
 sputniknews.com
 stacksocial.com
 static.intercomassets.com #Website layouts that use Intercomhelp
