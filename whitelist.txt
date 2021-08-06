@@ -170,6 +170,7 @@ www.icontact.com #Email newsletter signup
 www.ip-tracker.org
 www.ipchicken.com
 www.silverchartist.com #CNAME for target.clickfunnels.com
+www.spotify.com #Spotify
 www.worldometers.info
 www.youtube-nocookie.com
 www3.l.google.com
