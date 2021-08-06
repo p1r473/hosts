@@ -16,6 +16,7 @@ app.launchdarkly.com #LaunchDarkly enables development and operations teams to d
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 auth.samsungosp.com #Logging into Samsung on an Android device
+auth.split.io #MBNA mobile app
 b-api.facebook.com #Logging into Facebook Messenger on mobile
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
@@ -133,6 +134,7 @@ s.pinimg.com #Pinterest
 s0.wp.com #WordPress
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
+sdk.split.io #MBNA mobile app
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 smartlinks.intuit.com
