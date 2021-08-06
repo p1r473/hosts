@@ -10,6 +10,7 @@ addevent.com #Add event to calendar service
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
+ap.spotify.com #Spotify
 app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 asia.pool.ntp.org #NTPServer
