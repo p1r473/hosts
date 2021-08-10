@@ -171,6 +171,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.icontact.com #Email newsletter signup
 www.ip-tracker.org
 www.ipchicken.com
+www.linkedin.com
 www.silverchartist.com #CNAME for target.clickfunnels.com
 www.spotify.com #Spotify
 www.worldometers.info
