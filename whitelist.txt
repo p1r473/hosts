@@ -125,6 +125,7 @@ query.prod.cms.rt.microsoft.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
+rover.ebay.com #ebay
 rumble.com #YouTube competitor
 s.marketwatch.com #MarketWatch images
 s.pinimg.com #Pinterest
