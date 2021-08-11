@@ -5,6 +5,7 @@ a.espncdn.com #ESPN CDN
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
+aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
@@ -161,6 +162,7 @@ webtrack.dhlglobalmail.com
 whatismyip.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
+www.aliexpress.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
