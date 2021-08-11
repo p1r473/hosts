@@ -5,6 +5,7 @@ a.espncdn.com #ESPN CDN
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 addevent.com #Add event to calendar service
+ae01.alicdn.com #AliExpress images CDN
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
