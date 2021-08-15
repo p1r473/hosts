@@ -6,7 +6,6 @@ accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 addevent.com #Add event to calendar service
-ae01.alicdn.com #AliExpress images CDN
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
@@ -40,7 +39,6 @@ clients.l.google.com
 clients1.google.com #Chrome autofill and search results
 cn-geo1.uber.com #Uber/Uber Eats
 code.highcharts.com #PredictIt
-cognito-identity.us-east-1.amazonaws.com #Amazon Cognito
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
@@ -48,7 +46,6 @@ connectivitycheck.gstatic.com #Google Connectivity Check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
-datawrapper.dwcdn.net
 developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -166,7 +163,6 @@ whatismyip.com
 whatismyipaddress.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www.adafruit.com
-www.aliexpress.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
@@ -178,7 +174,6 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.icontact.com #Email newsletter signup
 www.ip-tracker.org
 www.ipchicken.com
-www.linkedin.com
 www.silverchartist.com #CNAME for target.clickfunnels.com
 www.spotify.com #Spotify
 www.worldometers.info
