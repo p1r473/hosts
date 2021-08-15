@@ -223,6 +223,7 @@ https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/p
 https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/ransomware.txt
 https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/scam.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt
+https://raw.githubusercontent.com/herrbischoff/trackers/master/telemetry.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
 https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt

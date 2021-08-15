@@ -70,7 +70,9 @@ getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
 gleam.io
+gmail.com
 googleadapis.l.google.com #CNAME for fonts.gstatic.com
+googlemail.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
@@ -94,6 +96,7 @@ kotaku.com
 l.facebook.com
 learn.adafruit.com #Adafruit
 login.windows.net
+mail.google.com
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
