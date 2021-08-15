@@ -84,6 +84,7 @@ icanhazip.com
 icontact.com #Email newsletter signup
 imgur.com
 imsdb.com
+inbox.google.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ip-tracker.org
