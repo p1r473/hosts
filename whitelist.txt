@@ -187,3 +187,4 @@ www3.l.google.com
 x-api.rollout.io #National Bank app
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
+zombo.com
