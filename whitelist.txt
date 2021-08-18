@@ -82,6 +82,7 @@ guce.yahoo.com #Yahoo Finance
 i.instagram.com #Instagram feed and highlights
 icanhazip.com
 icontact.com #Email newsletter signup
+img1.wsimg.com #GoDaddy image hosting
 imgur.com
 imsdb.com
 inbox.google.com
