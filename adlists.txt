@@ -176,6 +176,7 @@ https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/p
 https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/ransomware.txt
 https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/scam.txt
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+https://raw.githubusercontent.com/hermanjustinm/Herms-Blacklist/master/HermsAdBlacklist.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/domains.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/telemetry.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
