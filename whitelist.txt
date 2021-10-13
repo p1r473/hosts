@@ -79,6 +79,7 @@ graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint
 grnh.se #greenhouse.io
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
+gstatic.com
 guce.yahoo.com #Yahoo Finance
 icanhazip.com
 icontact.com #Email newsletter signup
