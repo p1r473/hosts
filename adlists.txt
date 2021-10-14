@@ -196,6 +196,10 @@ https://raw.githubusercontent.com/justdomains/blocklists/master/lists/adguarddns
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easyprivacy-justdomains.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/huluads.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_badbait_th.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover_aggressive.txt
