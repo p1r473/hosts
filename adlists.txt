@@ -9,6 +9,7 @@ https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://badmojr.github.io/1Hosts/Lite/domains.txt
 https://badmojr.github.io/1Hosts/mini/domains.txt
 https://badmojr.github.io/1Hosts/Pro/domains.txt
+https://badmojr.github.io/1Hosts/Xtra/domains.txt
 http://sbc.io/hosts/hosts
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://block.energized.pro/basic/formats/domains.txt
@@ -33,6 +34,10 @@ https://git.herrbischoff.com/trackers/plain/cookie.txt
 https://git.herrbischoff.com/trackers/plain/domains.txt
 https://git.herrbischoff.com/trackers/plain/telemetry.txt
 https://git.herrbischoff.com/trackers/plain/trackers.txt
+https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt
+https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt
+https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.txt
+https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt
 https://github.com/What-Zit-Tooya/Ad-Block/blob/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
@@ -63,6 +68,10 @@ https://logroid.github.io/adaway-hosts/hosts.txt
 https://malwaredomains.usu.edu/domains.hosts
 https://malwaredomains.usu.edu/immortal_domains.txt
 https://malwaredomains.usu.edu/justdomains
+https://o0.pages.dev/Lite/domains.txt
+https://o0.pages.dev/mini/domains.txt
+https://o0.pages.dev/Pro/domains.txt
+https://o0.pages.dev/Xtra/domains.txt
 http://someonewhocares.org/hosts/zero/hosts
 https://orca.pet/notonmyshift/domains.txt
 https://orca.pet/notonmyshift/hosts.txt
@@ -90,6 +99,10 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt
