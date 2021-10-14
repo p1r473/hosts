@@ -160,6 +160,7 @@ tmx.td.com #MBNA app
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+uptimerobot.com
 usa.kaspersky.com
 usawatchdog.com
 us.data2.mobile.pendo.io #Morgan Report
