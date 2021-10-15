@@ -71,6 +71,7 @@ getpocket.com
 getsatisfaction.com
 gleam.io
 gmail.com
+gmail-smtp-in.l.google.com
 googleadapis.l.google.com #CNAME for fonts.gstatic.com
 googlemail.com
 gounlimited.to
