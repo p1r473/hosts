@@ -117,6 +117,7 @@ mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
+nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
