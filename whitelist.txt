@@ -49,6 +49,7 @@ d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
+dts.podtrac.com
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
