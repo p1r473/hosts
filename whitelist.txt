@@ -33,6 +33,7 @@ cdn.syndication.twimg.com #Embedded Tweets
 cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chromesyncpasswords-pa.googleapis.com
+click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients.l.google.com
 cn-geo1.uber.com #Uber/Uber Eats
