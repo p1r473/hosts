@@ -86,6 +86,7 @@ instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
 ipchicken.com
 ip-tracker.org
+ipv4.am.i.mullvad.net
 itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
