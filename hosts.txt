@@ -4,6 +4,10 @@ mobanalytics.xyz #Ads
 #Origin telemetry
 river.data.ea.com #Origin telemetry
 
+#uTorrent Ads
+cdn.bitmedianetwork.com #uTorrent Ads
+cdn.ap.bittorrent.com #uTorrent Ads
+
 #KnowBe4 Phishing
 05kqatnrJ9s0sNAh9.phish.farm #KnowBe4
 2fa.com-token-auth.com #KnowBe4

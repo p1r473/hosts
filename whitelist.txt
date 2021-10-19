@@ -42,6 +42,7 @@ coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
+cyberpowersystems.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
@@ -165,6 +166,7 @@ www.adafruit.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
+www.cyberpowersystems.com
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
