@@ -138,6 +138,7 @@ s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 s.pinimg.com #Pinterest
+sp.rmbl.ws #Rumble
 sputniknews.com
 stacksocial.com
 static.intercomassets.com #Website layouts that use Intercomhelp
