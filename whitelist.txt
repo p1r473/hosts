@@ -101,6 +101,7 @@ mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
 mandrillapp.com
 maxcdn.bootstrapcdn.com #urlvoid.com
+mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net #www.mimecast.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
@@ -143,7 +144,6 @@ sputniknews.com
 stacksocial.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-storage.googleapis.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 telephonyspamprotect-pa.googleapis.com
