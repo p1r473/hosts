@@ -106,6 +106,7 @@ maxcdn.bootstrapcdn.com #urlvoid.com
 mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net #www.mimecast.com
 messenger.com
 mesu.apple.com #Apple hosts software update catalogs
+mingle.kijiji.ca #Kijiji
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
