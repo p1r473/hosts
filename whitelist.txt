@@ -96,6 +96,7 @@ kotaku.com
 learn.adafruit.com #Adafruit
 l.facebook.com
 lm.facebook.com #Facebook links
+login.microsoftonline.com
 login.windows.net
 mailchi.mp
 mailgun.org #CNAME for email.survey.pledgebox.com
