@@ -81,6 +81,7 @@ grnh.se #greenhouse.io
 gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
+hc-ping.com #Healthchecks.io health check
 icanhazip.com
 icontact.com #Email newsletter signup
 i.ibb.com #ibb.co image hosting
