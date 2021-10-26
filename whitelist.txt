@@ -82,6 +82,7 @@ gstatic.com
 guce.yahoo.com #Yahoo Finance
 icanhazip.com
 icontact.com #Email newsletter signup
+i.ibb.com #ibb.co image hosting
 img1.wsimg.com #GoDaddy image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
