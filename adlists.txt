@@ -1,3 +1,4 @@
+
 http://abpvn.com/android/abpvn.txt
 http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 https://abpvn.com/android/abpvn.txt
@@ -43,6 +44,7 @@ https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Abuse-List.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt
@@ -76,6 +78,7 @@ http://someonewhocares.org/hosts/zero/hosts
 https://orca.pet/notonmyshift/domains.txt
 https://orca.pet/notonmyshift/hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -138,6 +141,7 @@ https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hos
 https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
+https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Android/androidblocklist.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
@@ -147,6 +151,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/g
 https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/DK-255/Pi-hole-list-1/main/Ads-Blocklist
 https://raw.githubusercontent.com/doadin/Pi-Hole-Blocklist/main/block.list
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
@@ -195,6 +200,7 @@ https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/r
 https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/scam.txt
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
 https://raw.githubusercontent.com/hermanjustinm/Herms-Blacklist/master/HermsAdBlacklist.txt
+https://raw.githubusercontent.com/herndlm/hosts_merge/master/hosts_blacklist.txt
 https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
@@ -274,6 +280,7 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Pi-Hole%20BackUps/Black%20List/All%20Server%20Black%20List
+https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/samsung-tv.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts
@@ -315,6 +322,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.txt
 https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/steamscamsite.txt
 https://raw.githubusercontent.com/quedlin/blacklist/master/domains
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt
@@ -331,7 +339,9 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-pers
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
 https://raw.githubusercontent.com/smed79/blacklist/master/hosts/adback.txt
@@ -377,6 +387,7 @@ https://raw.githubusercontent.com/unflac/adFILTER/master/filter.txt
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
+https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist_HOSTS.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole%20Block-Lists%20List.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
@@ -423,6 +434,7 @@ https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
 https://www.threatcrowd.org/feeds/domains.txt
 http://sysctl.org/cameleon/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
