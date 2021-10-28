@@ -51,6 +51,7 @@ developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
+dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
