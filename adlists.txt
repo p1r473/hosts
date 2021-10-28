@@ -1,4 +1,3 @@
-
 http://abpvn.com/android/abpvn.txt
 http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 https://abpvn.com/android/abpvn.txt
@@ -383,7 +382,6 @@ https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
-https://raw.githubusercontent.com/unflac/adFILTER/master/filter.txt
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
