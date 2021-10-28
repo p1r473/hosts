@@ -83,6 +83,7 @@ gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 hc-ping.com #Healthchecks.io health check
+hopin-chat-dublin.stream-io-api.com #Hopin
 icanhazip.com
 icontact.com #Email newsletter signup
 i.ibb.com #ibb.co image hosting
@@ -129,6 +130,7 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+prod.live.hopin.to #Hopin
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 reddit.app.link
