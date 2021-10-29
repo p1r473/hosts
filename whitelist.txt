@@ -45,6 +45,7 @@ coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
+cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com Twitter embedded videos
 cyberpowersystems.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 developer.spotify.com #Spotify
