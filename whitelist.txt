@@ -40,6 +40,7 @@ click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients.l.google.com
 cn-geo1.uber.com #Uber/Uber Eats
+cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
