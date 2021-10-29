@@ -11,6 +11,7 @@
 (^|.*\.)list-manage.com$ #Unsubscribing from newsletters
 (^|.*\.)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
 (^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
+^(r([0-9]+)(\-\-\-|\.))?sn\-([a-z0-9.-])*\.googlevideo.com
 ^s3\.(.)*\.amazonaws.com$ #S3 AWS Buckets
 (^|.*\.)tiktokcdn\.com.* #TikTok CDN
 (^|.*\.)upd.kaspersky.com$
