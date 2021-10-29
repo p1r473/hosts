@@ -88,6 +88,8 @@ gstatic.com
 guce.yahoo.com #Yahoo Finance
 hc-ping.com #Healthchecks.io health check
 hopin-chat-dublin.stream-io-api.com #Hopin
+i2.ytimg.com #Youtube images
+i3.ytimg.com #Youtube images
 icanhazip.com
 icontact.com #Email newsletter signup
 i.ibb.com #ibb.co image hosting
