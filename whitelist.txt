@@ -188,6 +188,7 @@ www.e-junkie.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
+www.gstatic.com #Google static content
 www.icontact.com #Email newsletter signup
 www.ipchicken.com
 www.ip-tracker.org
