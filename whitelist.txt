@@ -38,6 +38,7 @@ checkip.amazonaws.com #AWS Getpublic IP
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
+clients6.google.com #Google apps
 clients.l.google.com
 cn-geo1.uber.com #Uber/Uber Eats
 cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
