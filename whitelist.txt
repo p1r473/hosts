@@ -127,6 +127,7 @@ mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
+m.stripe.com #Stripe
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
@@ -141,6 +142,7 @@ play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
 prod.live.hopin.to #Hopin
+production.tile-api.com #Tile app
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 reddit.app.link
