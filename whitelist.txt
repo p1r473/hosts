@@ -31,6 +31,7 @@ buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
+cdn.jwplayer.com #Embedded TikTok videos
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn.syndication.twimg.com #Embedded Tweets
@@ -181,6 +182,7 @@ usawatchdog.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
+videos-cloudflare.jwpsrv.com #Embedded TikTok videos
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
