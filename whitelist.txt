@@ -207,6 +207,7 @@ www.ip-tracker.org
 www-php-net.ax4z.com #www.php.net
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
+www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
 www.worldometers.info
 www.youtube-nocookie.com
 x-api.rollout.io #National Bank app
