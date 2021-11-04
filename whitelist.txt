@@ -11,6 +11,7 @@ aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
+api.checkout.com #OnlyFans payments
 api.geocode.earth #location form dropdown box
 app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
@@ -58,6 +59,7 @@ downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 dynip.org
 ebates.com
+ecs.office.com #Office
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
 edge-mqtt.facebook.com
