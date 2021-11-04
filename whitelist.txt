@@ -18,6 +18,7 @@ app.launchdarkly.com #LaunchDarkly enables development and operations teams to d
 ap.spotify.com #Spotify
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
+assets-jpcust.jwpsrv.com #Embedded videos
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 babylonbee.com
@@ -190,6 +191,7 @@ us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
 videos-cloudflare.jwpsrv.com #Embedded TikTok videos
+videos-fms.jwpsrv.com #Embedded videos
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
