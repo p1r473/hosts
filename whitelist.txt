@@ -108,6 +108,7 @@ ipv4.am.i.mullvad.net
 itch.io
 i.ytimg.com #Youtube images
 j.mp #URL Shortener
+js.braintreegateway.com #Online paypment processor
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
