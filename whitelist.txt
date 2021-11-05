@@ -213,6 +213,7 @@ www.gstatic.com #Google static content
 www.icontact.com #Email newsletter signup
 www.ipchicken.com
 www.ip-tracker.org
+www.msftconnecttest.com #Microsoft connection test
 www-php-net.ax4z.com #www.php.net
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
