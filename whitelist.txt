@@ -20,6 +20,7 @@ ap.spotify.com #Spotify
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
+augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 babylonbee.com
