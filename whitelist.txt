@@ -102,6 +102,7 @@ hopin-chat-dublin.stream-io-api.com #Hopin
 i2.ytimg.com #Youtube images
 i3.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
+i-bl6p-cor001.api.p001.1drv.com #OneDrive skyapi.onedrive.live.com
 icanhazip.com
 icontact.com #Email newsletter signup
 i.ibb.com #ibb.co image hosting
