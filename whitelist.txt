@@ -145,6 +145,7 @@ no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 officeclient.microsoft.com
+onedrive.live.com
 open.spotify.com #Spotify
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
