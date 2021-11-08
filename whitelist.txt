@@ -39,7 +39,7 @@ cdn.jwplayer.com #Embedded TikTok videos
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn.syndication.twimg.com #Embedded Tweets
-cds.s5x3j6q5.hwcdn.net #CNAME for code.jquery.com, needed for JScreenFix
+cds.s5x3j6q5.hwcdn.net #code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
@@ -53,7 +53,7 @@ coinmarketcap.com
 community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
-cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com Twitter embedded videos
+cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 cyberpowersystems.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 developer.spotify.com #Spotify
@@ -87,14 +87,14 @@ getpocket.com
 getsatisfaction.com
 gleam.io
 gmail-smtp-in.l.google.com
-googleadapis.l.google.com #CNAME for fonts.gstatic.com
+googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
 gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint
 grnh.se #greenhouse.io
-gstaticadssl.l.google.com #CNAME for fonts.gstatic.com
+gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 hc-ping.com #Healthchecks.io health check
@@ -126,7 +126,7 @@ lm.facebook.com #Facebook links
 login.microsoftonline.com
 login.windows.net
 mailchi.mp
-mailgun.org #CNAME for email.survey.pledgebox.com
+mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 maxcdn.bootstrapcdn.com #urlvoid.com
 mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net #www.mimecast.com
