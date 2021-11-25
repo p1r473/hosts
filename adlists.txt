@@ -282,7 +282,6 @@ https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Pi-Hole
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/samsung-tv.hosts
-https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/xiaomi.hosts
 https://raw.githubusercontent.com/nathanaccidentally/SystemHostsBlocker/master/hosts
 https://raw.githubusercontent.com/Neo23x0/signature-base/master/iocs/c2-iocs.txt
