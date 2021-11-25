@@ -20,6 +20,7 @@ ap.spotify.com #Spotify
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
+au.download.windowsupdate.com #Windows Updates
 augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
@@ -71,6 +72,8 @@ embed-ssl.wistia.com #StackSkills.com video thumbnails
 experian.com
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
+fe2.update.microsoft.com #Windows Updates
+fe3.delivery.mp.microsoft.com #Windows Updates
 fidm.us1.gigya.com #Voila.ca
 files.slack.com #Slack files
 firebaseinstallations.googleapis.com
