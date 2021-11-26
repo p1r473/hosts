@@ -402,9 +402,9 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://someonewhocares.org/hosts/zero/hosts
 https://stopforumspam.com/downloads/toxic_domains_whole.txt
-https://tgc.cloud/downloads/hosts.alive.txt
-https://tgc.cloud/downloads/iOSAdsLite.txt
-https://tgc.cloud/downloads/iOSAds.txt
+#https://tgc.cloud/downloads/hosts.alive.txt
+#https://tgc.cloud/downloads/iOSAdsLite.txt
+#https://tgc.cloud/downloads/iOSAds.txt
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/AdguardDNS.txt
