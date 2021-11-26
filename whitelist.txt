@@ -155,6 +155,7 @@ onedrive.live.com
 open.spotify.com #Spotify
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
+piwheels.org #Python pip
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
@@ -227,6 +228,7 @@ www.ipchicken.com
 www.ip-tracker.org
 www.msftconnecttest.com #Microsoft connection test
 www-php-net.ax4z.com #www.php.net
+www.piwheels.org #Python pip
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
