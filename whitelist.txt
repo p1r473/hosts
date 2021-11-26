@@ -59,6 +59,7 @@ cyberpowersystems.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
+dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 dynip.org
