@@ -27,6 +27,7 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 babylonbee.com
 b-api.facebook.com #Logging into Facebook Messenger on mobile
+b.cdnst.net #speedtest.net
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
 blog.hubspot.com
