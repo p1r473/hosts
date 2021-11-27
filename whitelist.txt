@@ -20,6 +20,7 @@ app.launchdarkly.com #LaunchDarkly enables development and operations teams to d
 ap.spotify.com #Spotify
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
+assets-cdn.abcotvs.net #Embedded videos on ZeroHedge
 assets-jpcust.jwpsrv.com #Embedded videos
 au.download.windowsupdate.com #Windows Updates
 augloop.office.com #Opening Office web documents in desktop app
@@ -35,6 +36,7 @@ boards.greenhouse.io
 bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
+cdn.abcotvs.net #Embedded videos on ZeroHedge
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
@@ -59,6 +61,7 @@ content.ctfs.com #Triangle app
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 cyberpowersystems.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
+dcf.espn.com #Embedded videos on ZeroHedge
 developer.spotify.com #Spotify
 discordapp.page.link #Discord server invites
 dns.msftncsi.com
