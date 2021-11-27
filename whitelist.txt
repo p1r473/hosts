@@ -93,6 +93,7 @@ getpocket.com
 getsatisfaction.com
 gleam.io
 gmail-smtp-in.l.google.com
+go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
 gounlimited.to
