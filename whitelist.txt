@@ -187,6 +187,7 @@ socialize.us1.gigya.com #Logging into iRobot app on Android
 s.pinimg.com #Pinterest
 sp.rmbl.ws #Rumble
 sputniknews.com
+s.reddit.com #Reddit chats
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
