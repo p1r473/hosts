@@ -210,6 +210,7 @@ us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
 videos-cloudflare.jwpsrv.com #Embedded TikTok videos
 videos-fms.jwpsrv.com #Embedded videos
+web-api-tih.acronis.com #Acronis activation
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
