@@ -180,6 +180,7 @@ s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
 screenshield.us
 sdk.split.io #MBNA mobile app
+secure.terranovasite.com #Kabam training
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
@@ -200,6 +201,7 @@ stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 telephonyspamprotect-pa.googleapis.com
+terranovasite.com #Kabam training
 thepiratebay.org
 tinyurl.com
 tmx.td.com #MBNA app
