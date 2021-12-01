@@ -208,6 +208,7 @@ tmx.td.com #MBNA app
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+transactions.sendowl.com
 uptimerobot.com
 usa.kaspersky.com
 usawatchdog.com
