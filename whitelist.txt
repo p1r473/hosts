@@ -44,6 +44,7 @@ cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
+connectivitycheck.gstatic.com #Google connectivity check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
@@ -180,6 +181,7 @@ webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
+www3.l.google.com #Google Calendar
 www.adafruit.com
 www.bit.ly
 www.coingeek.com
