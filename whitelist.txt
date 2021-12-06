@@ -191,6 +191,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.icontact.com #Email newsletter signup
 www.ip-tracker.org
+www.msn.com
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
