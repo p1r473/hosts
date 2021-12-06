@@ -1,34 +1,24 @@
-2-01-2c3e-005c.cdx.cedexis.net #LinkedIn CDN media-exp1.licdn.com
 2.android.pool.ntp.org #NTP server
 2htg.com #HowToGeek email referral
 3p.ampproject.net #Google News articles
-accounts.nvgs.nvidia.com #Nvidia Geforce Experience
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
-addevent.com
-addevent.com #Add event to calendar service
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
-api.checkout.com #OnlyFans payments
-api.geocode.earth #location form dropdown box
 apis.google.com
 app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
-assets-cdn.abcotvs.net #Embedded videos on ZeroHedge
 assets-jpcust.jwpsrv.com #Embedded videos
-au.download.windowsupdate.com #Windows Updates
 augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
-babylonbee.com
 b-api.facebook.com #Logging into Facebook Messenger on mobile
-b.cdnst.net #speedtest.net
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
 blog.hubspot.com
@@ -36,11 +26,9 @@ boards.greenhouse.io
 bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
-cdn.abcotvs.net #Embedded videos on ZeroHedge
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
 cdn.jsdelivr.net #Javascript delivery CDN
-cdn.jwplayer.com #Embedded TikTok videos
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn.syndication.twimg.com #Embedded Tweets
@@ -52,7 +40,6 @@ clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
 clients.l.google.com
 cn-geo1.uber.com #Uber/Uber Eats
-coderedirect.com
 cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
 coingeek.com
 coinmarketcap.com
@@ -60,29 +47,24 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
-cyberpowersystems.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
+dailyexpose.uk
 dcf.espn.com #Embedded videos on ZeroHedge
 developer.spotify.com #Spotify
+disclose.tv
 discordapp.page.link #Discord server invites
-dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 dynip.org
 ebates.com
-ecs.office.com #Office
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
-experian.com
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
-fe2.update.microsoft.com #Windows Updates
-fe3.delivery.mp.microsoft.com #Windows Updates
 fidm.us1.gigya.com #Voila.ca
-files.slack.com #Slack files
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
@@ -108,15 +90,10 @@ grnh.se #greenhouse.io
 gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
-hc-ping.com #Healthchecks.io health check
-hopin-chat-dublin.stream-io-api.com #Hopin
 i2.ytimg.com #Youtube images
-i3.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
 icontact.com #Email newsletter signup
-i.ibb.com #ibb.co image hosting
-img1.wsimg.com #GoDaddy image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
@@ -125,8 +102,6 @@ ip-tracker.org
 ipv4.am.i.mullvad.net
 itch.io
 i.ytimg.com #Youtube images
-j.mp #URL Shortener
-js.braintreegateway.com #Online paypment processor
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
@@ -134,40 +109,29 @@ kotaku.com
 learn.adafruit.com #Adafruit
 l.facebook.com
 lm.facebook.com #Facebook links
-login.microsoftonline.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
-maxcdn.bootstrapcdn.com #urlvoid.com
-mc-8c48dcd0-9dfd-4591-be7d-409340-headless-fd1.azurefd.net #www.mimecast.com
-messenger.com
 mesu.apple.com #Apple hosts software update catalogs
-mingle.kijiji.ca #Kijiji
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
-m.stripe.com #Stripe
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
-officeclient.microsoft.com
-onedrive.live.com
 open.spotify.com #Spotify
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
-piwheels.org #Python pip
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-prod.live.hopin.to #Hopin
-production.tile-api.com #Tile app
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 reddit.app.link
@@ -175,12 +139,10 @@ redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
 rover.ebay.com #ebay
 rumble.com #YouTube competitor
-s0.wp.com #WordPress
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
 screenshield.us
 sdk.split.io #MBNA mobile app
-secure.terranovasite.com #Kabam training
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
@@ -188,27 +150,22 @@ s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 s.pinimg.com #Pinterest
-sp.rmbl.ws #Rumble
 sputniknews.com
-s.reddit.com #Reddit chats
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-static.zdassets.com #ZenDesk static assets
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 telephonyspamprotect-pa.googleapis.com
-terranovasite.com #Kabam training
 thepiratebay.org
 tinyurl.com
 tmx.td.com #MBNA app
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
-transactions.sendowl.com
 uptimerobot.com
 usa.kaspersky.com
 usawatchdog.com
@@ -223,12 +180,9 @@ whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www.adafruit.com
-www.addevent.com
 www.bit.ly
-www.codeproject.com
 www.coingeek.com
 www.coinmarketcap.com
-www.cyberpowersystems.com
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
@@ -236,17 +190,12 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.icontact.com #Email newsletter signup
-www.ipchicken.com
 www.ip-tracker.org
-www.msftconnecttest.com #Microsoft connection test
-www-php-net.ax4z.com #www.php.net
-www.piwheels.org #Python pip
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
 www.worldometers.info
 www.youtube-nocookie.com
-x-api.rollout.io #National Bank app
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube comment avatars
 zombo.com
