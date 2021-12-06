@@ -47,6 +47,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
+cs9.wac.phicdn.net #CNAME for oscp.digicert.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 dailyexpose.uk
 dcf.espn.com #Embedded videos on ZeroHedge
