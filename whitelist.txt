@@ -96,6 +96,7 @@ i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
 icontact.com #Email newsletter signup
+i.instagram.com #Instagram
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
