@@ -179,6 +179,7 @@ userlocation.googleapis.com
 videos-cloudflare.jwpsrv.com #Embedded TikTok videos
 videos-fms.jwpsrv.com #Embedded videos
 web-api-tih.acronis.com #Acronis activation
+websocket.shiftapis.com #Shift
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
