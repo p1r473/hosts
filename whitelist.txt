@@ -136,6 +136,7 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+profile.shiftapis.com #Shift
 push.services.mozilla.com
 query.prod.cms.rt.microsoft.com
 reddit.app.link
