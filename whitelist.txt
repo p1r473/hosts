@@ -85,7 +85,6 @@ gmail-smtp-in.l.google.com
 go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
-gounlimited.to
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint
@@ -93,6 +92,7 @@ grnh.se #greenhouse.io
 gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
+hcaptcha.com #OnlyFans captcha
 i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
@@ -129,6 +129,7 @@ no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
+outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
 platform.twitter.com
@@ -138,7 +139,6 @@ play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
 profile.shiftapis.com #Shift
 push.services.mozilla.com
-query.prod.cms.rt.microsoft.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
