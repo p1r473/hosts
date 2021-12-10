@@ -126,6 +126,7 @@ msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
+nfusionsolutions.com #Precious Metals widgets
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
