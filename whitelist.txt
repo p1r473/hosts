@@ -86,6 +86,7 @@ gmail-smtp-in.l.google.com
 go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
+goo.gl #Google URL Shortener
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint
