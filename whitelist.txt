@@ -133,6 +133,7 @@ north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
 outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
+pasteboard.co
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
 platform.twitter.com
