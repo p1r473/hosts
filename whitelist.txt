@@ -142,6 +142,8 @@ play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
 profile.shiftapis.com #Shift
 push.services.mozilla.com
+query1.finance.yahoo.com
+query2.finance.yahoo.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
