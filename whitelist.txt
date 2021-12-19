@@ -127,6 +127,7 @@ mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
+ncsi.4-c-0003.c-msedge.net #CNAME for msftconnecttest.com
 news.bitcoin.com
 nfusionsolutions.com #Precious Metals widgets
 no-cache.hubspot.com #Ycharts images
