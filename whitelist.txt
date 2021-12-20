@@ -105,6 +105,7 @@ i.instagram.com #Instagram
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 iob.imgur.com
+ip2location.com
 ipchicken.com
 ip-tracker.org
 ipv4.am.i.mullvad.net
@@ -210,6 +211,7 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.icontact.com #Email newsletter signup
+www.ip2location.com
 www.ip-tracker.org
 www.msn.com
 www.spotify.com #Spotify
