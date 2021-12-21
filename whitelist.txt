@@ -177,6 +177,7 @@ store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
+taskassist-pa.clients6.google.com
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
