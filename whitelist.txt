@@ -28,6 +28,7 @@ browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
+cdn.embedly.com #Embedded images and videos on Reddit
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
