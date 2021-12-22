@@ -183,6 +183,7 @@ telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tinyurl.com
 tmx.td.com #MBNA app
+tools.google.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
