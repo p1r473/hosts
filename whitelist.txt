@@ -177,6 +177,7 @@ stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+statutoryholidays.com
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
@@ -222,6 +223,7 @@ www.ip2location.com
 www.ip-tracker.org
 www.msn.com
 www.spotify.com #Spotify
+www.statutoryholidays.com
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
 www.worldometers.info
