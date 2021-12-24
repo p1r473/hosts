@@ -8,6 +8,7 @@ aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
+api.log4jmemes.com
 apis.google.com
 app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
