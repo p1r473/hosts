@@ -121,6 +121,7 @@ kotaku.com
 learn.adafruit.com #Adafruit
 l.facebook.com
 lm.facebook.com #Facebook links
+log4jmemes.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
