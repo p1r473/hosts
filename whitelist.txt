@@ -8,7 +8,6 @@ aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
-api.log4jmemes.com
 apis.google.com
 app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
@@ -29,7 +28,6 @@ browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.contentful.com
-cdn.embedly.com #Embedded images and videos on Reddit
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
@@ -53,17 +51,14 @@ content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
-cs9.wac.phicdn.net #CNAME for oscp.digicert.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
-dailyexpose.uk
 dcf.espn.com #Embedded videos on ZeroHedge
 developer.spotify.com #Spotify
 disclose.tv
 discordapp.page.link #Discord server invites
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
-dyedurham.com #Work
 dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
@@ -91,11 +86,9 @@ gmail-smtp-in.l.google.com
 go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
-goo.gl #Google URL Shortener
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint
-grnh.se #greenhouse.io
 gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
@@ -122,7 +115,6 @@ kotaku.com
 learn.adafruit.com #Adafruit
 l.facebook.com
 lm.facebook.com #Facebook links
-log4jmemes.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
@@ -134,9 +126,7 @@ mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
-ncsi.4-c-0003.c-msedge.net #CNAME for msftconnecttest.com
 news.bitcoin.com
-nfusionsolutions.com #Precious Metals widgets
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
@@ -151,7 +141,6 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-profile.shiftapis.com #Shift
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
@@ -162,7 +151,6 @@ rover.ebay.com #ebay
 rumble.com #YouTube competitor
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
-screenshield.us
 sdk.split.io #MBNA mobile app
 seekingalpha.com
 sendgrid.net #Emails from ShipStation
@@ -177,7 +165,6 @@ stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-statutoryholidays.com
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
@@ -197,16 +184,11 @@ usawatchdog.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
-videos-cloudflare.jwpsrv.com #Embedded TikTok videos
-videos-fms.jwpsrv.com #Embedded videos
 web-api-tih.acronis.com #Acronis activation
-websocket.shiftapis.com #Shift
 webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
-widget.nfusionsolutions.com #Precious Metal prices widget
-widget.sndcdn.com #SoundCloud widget
 www3.l.google.com #Google Calendar
 www.adafruit.com
 www.bit.ly
@@ -223,7 +205,6 @@ www.ip2location.com
 www.ip-tracker.org
 www.msn.com
 www.spotify.com #Spotify
-www.statutoryholidays.com
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
 www.worldometers.info
