@@ -97,6 +97,7 @@ i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
 icontact.com #Email newsletter signup
+id.google.com
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
@@ -147,6 +148,7 @@ query2.finance.yahoo.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
+res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 rumble.com #YouTube competitor
 s1.wp.com #WordPress
