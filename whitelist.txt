@@ -57,6 +57,7 @@ dcf.espn.com #Embedded videos on ZeroHedge
 developer.spotify.com #Spotify
 disclose.tv
 discordapp.page.link #Discord server invites
+displaycatalog.mp.microsoft.com #Microsoft Store
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 dynip.org
