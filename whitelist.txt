@@ -175,6 +175,7 @@ syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
+tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
 tools.google.com
