@@ -163,6 +163,7 @@ sls.update.microsoft.com.akadns.net #Windows Updates
 s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
+spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.link #Spotify URL Shortener
 sputniknews.com
