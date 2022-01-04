@@ -57,6 +57,7 @@ dcf.espn.com #Embedded videos on ZeroHedge
 developer.spotify.com #Spotify
 disclose.tv
 discordapp.page.link #Discord server invites
+displaycatalog.mp.microsoft.com
 displaycatalog.mp.microsoft.com #Microsoft Store
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
@@ -168,6 +169,7 @@ stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+store-images.s-microsoft.com
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
