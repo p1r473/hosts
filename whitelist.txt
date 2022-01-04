@@ -4,6 +4,7 @@
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
+aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
