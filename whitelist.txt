@@ -164,6 +164,7 @@ s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 s.pinimg.com #Pinterest
+spotify.link #Spotify URL Shortener
 sputniknews.com
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
