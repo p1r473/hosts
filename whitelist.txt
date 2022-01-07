@@ -134,6 +134,7 @@ news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
+odc-web-geo.onedrive.akadns.net #CNAME for onedrive.live.com
 open.spotify.com #Spotify
 outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 pasteboard.co
