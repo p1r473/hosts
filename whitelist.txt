@@ -151,6 +151,7 @@ pool.ntp.org #NTP Server
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
+readaloud.app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -180,6 +181,7 @@ store-images.s-microsoft.com
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
+support.readaloud.app
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
 telephonyspamprotect-pa.googleapis.com
