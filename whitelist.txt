@@ -55,6 +55,7 @@ cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
+developers.google.com
 developer.spotify.com #Spotify
 disclose.tv
 discordapp.page.link #Discord server invites
