@@ -193,7 +193,7 @@ tools.google.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
-unpkg.com #Patreon
+#unpkg.com #Patreon
 uptimerobot.com
 usa.kaspersky.com
 usawatchdog.com
