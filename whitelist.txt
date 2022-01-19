@@ -29,7 +29,7 @@ browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 c1.patreon.com #Patreon
 cdn.ampproject.org #YouTube embedded videos in the Google News app
-cdn.contentful.com
+cdn.discordapp.com #Discord
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
@@ -43,7 +43,6 @@ click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
 clients.l.google.com
-cmd.com #Command Prompt replacement software
 cn-geo1.uber.com #Uber/Uber Eats
 cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
 coingeek.com
@@ -60,9 +59,6 @@ dcf.espn.com #Embedded videos on ZeroHedge
 developers.google.com
 developer.spotify.com #Spotify
 disclose.tv
-discordapp.page.link #Discord server invites
-displaycatalog.mp.microsoft.com
-displaycatalog.mp.microsoft.com #Microsoft Store
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 dynip.org
@@ -108,7 +104,6 @@ i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
-iob.imgur.com
 ip2location.com
 ipchicken.com
 ip-tracker.org
@@ -137,7 +132,6 @@ news.bitcoin.com
 no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
-odc-web-geo.onedrive.akadns.net #CNAME for onedrive.live.com
 open.spotify.com #Spotify
 outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 pasteboard.co
@@ -152,7 +146,6 @@ pool.ntp.org #NTP Server
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
-readaloud.app
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -172,7 +165,6 @@ socialize.us1.gigya.com #Logging into iRobot app on Android
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
-spotify.link #Spotify URL Shortener
 sputniknews.com
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
@@ -182,7 +174,6 @@ store-images.s-microsoft.com
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
-support.readaloud.app
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
 telephonyspamprotect-pa.googleapis.com
