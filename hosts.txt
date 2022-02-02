@@ -91,3 +91,22 @@ us.farenheit.net #KnowBe4
 web-login.malwarebouncer.com #KnowBe4
 webconference.protected-forms.com #KnowBe4
 welsfargo.com-onlinebanking.com #KnowBe4
+
+#Workspace ONE
+rm01.awmdm.com #Workspace ONE
+rmsession01.awmdm.com #Workspace ONE
+rmsession02.awmdm.com #Workspace ONE
+rmsession03.awmdm.com #Workspace ONE
+rmsession04.awmdm.com #Workspace ONE
+rmsession05.awmdm.com #Workspace ONE
+rmsession06.awmdm.com #Workspace ONE
+rmuk01.awmdm.com #Workspace ONE
+rmuksession01.awmdm.com #Workspace ONE
+rmca01.awmdm.com #Workspace ONE
+rmcasession01.awmdm.com #Workspace ONE
+rmde01.awmdm.com #Workspace ONE
+rmdesession01.awmdm.com #Workspace ONE
+rmau01.awmdm.com #Workspace ONE
+rmausession01.awmdm.com #Workspace ONE
+rmjp01.awmdm.com #Workspace ONE
+rmjpsession01.awmdm.com #Workspace ONE
