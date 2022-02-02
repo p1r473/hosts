@@ -27,7 +27,6 @@ boards.greenhouse.io
 bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
-c1.patreon.com #Patreon
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.discordapp.com #Discord
 cdn.jsdelivr.net #Javascript delivery CDN
