@@ -81,6 +81,7 @@ forms.hubspot.com
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
+gateway.wma.bedegaming.com #OLG app
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
