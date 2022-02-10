@@ -165,6 +165,7 @@ si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
+sni1gl.wpc.thetacdn.net #CNAME for endpoint1-s03prdeuscompsvc.prd.bmc.cdn.office.net; MS Teams Presentations
 socialize.us1.gigya.com #Logging into iRobot app on Android
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
