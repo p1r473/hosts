@@ -85,7 +85,6 @@ gateway.wma.bedegaming.com #OLG app
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
-gfwsl.geforce.com #Nvidia Geforce Experience checking for Driver updates
 gleam.io
 gmail-smtp-in.l.google.com
 go.microsoft.com
