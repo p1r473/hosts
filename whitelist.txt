@@ -124,6 +124,7 @@ login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
+maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
