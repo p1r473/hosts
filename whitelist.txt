@@ -146,6 +146,7 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+pushbullet.com
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
