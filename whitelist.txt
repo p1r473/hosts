@@ -182,6 +182,7 @@ stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
+t.co #Twitter URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tiny.one #URL Shortener
