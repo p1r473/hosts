@@ -28,7 +28,6 @@ bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
-cdn.discordapp.com #Discord
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
@@ -81,7 +80,6 @@ forms.hubspot.com
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
-gateway.wma.bedegaming.com #OLG app
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com
 getsatisfaction.com
@@ -166,7 +164,6 @@ si6ling.incestflix.com
 sls.update.microsoft.com.akadns.net #Windows Updates
 s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
-sni1gl.wpc.thetacdn.net #CNAME for endpoint1-s03prdeuscompsvc.prd.bmc.cdn.office.net; MS Teams Presentations
 socialize.us1.gigya.com #Logging into iRobot app on Android
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
@@ -182,7 +179,6 @@ stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
-t.co #Twitter URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tiny.one #URL Shortener
