@@ -29,6 +29,7 @@ bountysource.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdnjs.cloudflare.com #Cloudflare
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
@@ -155,6 +156,7 @@ redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
+r.stripe.com #Stripe; Locals
 rumble.com #YouTube competitor
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
