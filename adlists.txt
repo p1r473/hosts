@@ -304,6 +304,11 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains4.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
+https://raw.githubusercontent.com/monolit/fuckhosts/main/melcosoft.txt
+https://raw.githubusercontent.com/monolit/fuckhosts/main/miui_zero.txt
+https://raw.githubusercontent.com/monolit/fuckhosts/main/rom.txt
+https://raw.githubusercontent.com/monolit/fuckhosts/main/tikkok.txt
+https://raw.githubusercontent.com/monolit/fuckhosts/main/wot.txt
 https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Pi-Hole%20BackUps/Black%20List/All%20Server%20Black%20List
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
