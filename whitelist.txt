@@ -107,6 +107,7 @@ id.google.com
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
+inktuitive.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ipchicken.com
