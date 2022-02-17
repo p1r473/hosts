@@ -26,6 +26,7 @@ bit.ly #URL Shortener
 blog.hubspot.com
 boards.greenhouse.io
 bountysource.com
+boxknight.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
@@ -173,6 +174,7 @@ spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
+ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
@@ -189,6 +191,7 @@ tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
 tools.google.com
+trace3.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
@@ -221,6 +224,7 @@ www.msn.com
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
+www.trace3.com
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
