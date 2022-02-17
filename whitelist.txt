@@ -168,6 +168,7 @@ sdk.split.io #MBNA mobile app
 seekingalpha.com
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
+sickrage.ca
 sls.update.microsoft.com.akadns.net #Windows Updates
 s.marketwatch.com #MarketWatch images
 smartlinks.intuit.com
@@ -224,6 +225,7 @@ www.icontact.com #Email newsletter signup
 www.ip2location.com
 www.ip-tracker.org
 www.msn.com
+www.sickrage.ca
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
