@@ -1,5 +1,6 @@
 #Ads
 mobanalytics.xyz #Ads
+i.kinja-img.com #Ads
 
 #Origin telemetry
 river.data.ea.com #Origin telemetry
