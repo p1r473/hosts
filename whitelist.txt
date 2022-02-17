@@ -119,6 +119,7 @@ jmp.sh #URL Shortener
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
+jumpshare.com #URL Shortener
 kotaku.com
 learn.adafruit.com #Adafruit
 l.facebook.com
