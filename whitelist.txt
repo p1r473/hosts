@@ -21,6 +21,7 @@ augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 b-api.facebook.com #Logging into Facebook Messenger on mobile
+battle.net
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
 blog.hubspot.com
