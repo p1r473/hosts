@@ -358,7 +358,6 @@ https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domain
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/p1r473/hosts/master/hosts.txt
-https://raw.githubusercontent.com/p1r473/samsungnosnooping/master/Samsungnosnooping.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-hphosts-legacy.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt
@@ -435,6 +434,7 @@ https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
+https://raw.githubusercontent.com/UnbendableStraw/samsungnosnooping/master/Samsungnosnooping.txt
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
