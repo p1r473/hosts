@@ -309,7 +309,6 @@ https://raw.githubusercontent.com/monolit/fuckhosts/main/miui_zero.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/rom.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/tikkok.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/wot.txt
-https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Pi-Hole%20BackUps/Black%20List/All%20Server%20Black%20List
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/samsung-tv.hosts
