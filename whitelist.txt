@@ -201,6 +201,7 @@ tools.google.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+translate.google.com #Google Translate
 uptimerobot.com
 usa.kaspersky.com
 usawatchdog.com
