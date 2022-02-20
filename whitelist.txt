@@ -27,7 +27,6 @@ bit.ly #URL Shortener
 blog.hubspot.com
 boards.greenhouse.io
 bountysource.com
-boxknight.com
 browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
@@ -108,7 +107,6 @@ id.google.com
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
-inktuitive.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ipchicken.com
@@ -157,7 +155,6 @@ pushbullet.com
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
-rawgit.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -191,13 +188,13 @@ stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
+t.co #URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
 tools.google.com
-trace3.com
 tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
@@ -219,7 +216,6 @@ www.coingeek.com
 www.coinmarketcap.com
 www.ebates.com
 www.e-junkie.com
-www.facebook.com
 www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
@@ -232,7 +228,6 @@ www.sickrage.ca
 www.spotify.com #Spotify
 www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
 www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
-www.trace3.com
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
