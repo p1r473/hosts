@@ -163,6 +163,7 @@ rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rumble.com #YouTube competitor
 s1.wp.com #WordPress
+s3-eu-west-1.amazonaws.com #Amazon AWS
 s3-us-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 sdk.split.io #MBNA mobile app
