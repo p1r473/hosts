@@ -14,6 +14,7 @@ api.youcanbook.me
 app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
+aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
