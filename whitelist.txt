@@ -41,6 +41,7 @@ cds.s5x3j6q5.hwcdn.net #code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
+ci3.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
@@ -134,6 +135,7 @@ mesu.apple.com #Apple hosts software update catalogs
 mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com #Microsoft Edge delivery
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
