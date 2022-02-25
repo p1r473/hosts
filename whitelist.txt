@@ -155,6 +155,7 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+prod-tp.sumo.mozit.cloud #CNAME for support.mozilla.org
 pushbullet.com
 push.services.mozilla.com
 query1.finance.yahoo.com
