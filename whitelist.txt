@@ -154,6 +154,7 @@ platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
+pledge-tools286.com #Kickstarter ad platform
 pool.ntp.org #NTP Server
 prod-tp.sumo.mozit.cloud #CNAME for support.mozilla.org
 pushbullet.com
