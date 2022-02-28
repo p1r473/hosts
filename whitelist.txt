@@ -122,6 +122,7 @@ maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
+msftconnecttest.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
@@ -205,6 +206,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.ip2location.com
 www.ip-tracker.org
+www.msftconnecttest.com
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
