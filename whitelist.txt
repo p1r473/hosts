@@ -3,12 +3,15 @@
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
+adafruit.com
 aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 angryip.org #Network scanner software
 apis.google.com
+api.youcanbook.me
+app.icontact.com #Email newsletter signup
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -22,10 +25,13 @@ b-api.facebook.com #Logging into Facebook Messenger on mobile
 battle.net
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
+blog.hubspot.com
 boards.greenhouse.io
 bountysource.com
+browser.pipe.aria.microsoft.com #Odyssey
 buff.ly #URL Shortener
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdnjs.cloudflare.com #Cloudflare
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
@@ -35,6 +41,7 @@ cds.s5x3j6q5.hwcdn.net #code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
+ci3.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
@@ -75,16 +82,21 @@ firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
+forms.hubspot.com
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
+getpocket.com
 getsatisfaction.com
 gleam.io
 gmail-smtp-in.l.google.com
+go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
+gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
+graph.microsoft.com #SharePoint
 grnh.se #greeenhouse.io URL shortener
 gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
@@ -93,6 +105,7 @@ hcaptcha.com #OnlyFans captcha
 i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
+icontact.com #Email newsletter signup
 id.google.com
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
@@ -110,6 +123,7 @@ js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 jumpshare.com #URL Shortener
 kotaku.com
+learn.adafruit.com #Adafruit
 l.facebook.com
 linktr.ee #Linktree
 lm.facebook.com #Facebook links
@@ -119,12 +133,15 @@ mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
+mint.finance.intuit.com
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com #Microsoft Edge delivery
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
+no-cache.hubspot.com #Ycharts images
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
@@ -140,6 +157,7 @@ play.spotify.edgekey.net #Spotify
 pledge-tools286.com #Kickstarter ad platform
 pool.ntp.org #NTP Server
 prod-tp.sumo.mozit.cloud #CNAME for support.mozilla.org
+pushbullet.com
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
@@ -152,12 +170,16 @@ r.stripe.com #Stripe; Locals
 rumble.com #YouTube competitor
 s1.wp.com #WordPress
 s3-eu-west-1.amazonaws.com #Amazon AWS
+s3-us-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 sdk.split.io #MBNA mobile app
+seekingalpha.com
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
 sickrage.ca
+sls.update.microsoft.com.akadns.net #Windows Updates
 s.marketwatch.com #MarketWatch images
+smartlinks.intuit.com
 socialize.us1.gigya.com #Logging into iRobot app on Android
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
@@ -168,20 +190,25 @@ stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+steamdeck.com
+store-images.s-microsoft.com
 store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
+t.co #URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
 tools.google.com
+tracker.openbittorrent.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
 translate.google.com #Google Translate
+uptimerobot.com
 usa.kaspersky.com
 usawatchdog.com
 us.data2.mobile.pendo.io #Morgan Report
@@ -193,6 +220,7 @@ whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www3.l.google.com #Google Calendar
+www.adafruit.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
@@ -202,12 +230,17 @@ www.gamecopyworld.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
+www.icontact.com #Email newsletter signup
 www.ip2location.com
 www.ip-tracker.org
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
+www.steamdeck.com 
+www.tm.a.prd.aadg.trafficmanager.net #login.live.com login.microsoft.com
+www.tm.lg.prod.aadmsa.trafficmanager.net #login.live.com login.microsoft.com
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
+yt3.ggpht.com #YouTube comment avatars
 zombo.com
