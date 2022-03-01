@@ -124,6 +124,7 @@ maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
+mqtt.2030.ltsapis.goog #YouTube Music API
 msftconnecttest.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
