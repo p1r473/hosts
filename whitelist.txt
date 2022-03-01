@@ -211,6 +211,8 @@ www.msftconnecttest.com
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
+www.tm.a.prd.aadg.trafficmanager.net #CNAME for login.live.com and login.microsoft.com
+www.tm.lg.prod.aadmsa.trafficmanager.net #CNAME for login.live.com and login.microsoft.com
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
