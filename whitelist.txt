@@ -124,7 +124,7 @@ maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
-mqtt.2030.ltsapis.goog #YouTube Music API
+mqtt.2030.ltsapis.goog #Google MQTT
 msftconnecttest.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
@@ -218,4 +218,5 @@ www.tm.lg.prod.aadmsa.trafficmanager.net #CNAME for login.live.com and login.mic
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
+yt3.ggpht.com #YouTube Music API
 zombo.com
