@@ -30,6 +30,7 @@ cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com #Shopify
+cdns.us1.gigya.com #Elgato.com shopping links
 cdn.syndication.twimg.com #Embedded Tweets
 cds.s5x3j6q5.hwcdn.net #code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
