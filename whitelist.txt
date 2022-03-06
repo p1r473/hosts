@@ -7,7 +7,6 @@ aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
-angryip.org #Network scanner software
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
@@ -32,11 +31,9 @@ cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com #Shopify
 cdns.us1.gigya.com #Elgato.com shopping links
 cdn.syndication.twimg.com #Embedded Tweets
-cds.s5x3j6q5.hwcdn.net #code.jquery.com, needed for JScreenFix
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
-ci4.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
@@ -125,7 +122,6 @@ maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
-mqtt.2030.ltsapis.goog #Google MQTT
 msftconnecttest.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
@@ -143,7 +139,6 @@ platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
-pledge-tools286.com #Kickstarter ad platform
 pool.ntp.org #NTP Server
 prod-tp.sumo.mozit.cloud #CNAME for support.mozilla.org
 push.services.mozilla.com
@@ -174,7 +169,6 @@ stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-store.steampowered.com #Steam
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
@@ -210,7 +204,6 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.ip2location.com
 www.ip-tracker.org
-www.msftconnecttest.com
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
