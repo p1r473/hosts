@@ -6,6 +6,7 @@ activity.windows.com #Cloud backup for Microsoft Authenticator
 aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
+amz.onl #Amazon rank tracking
 android.clients.google.com #Google Play store
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
@@ -98,6 +99,7 @@ id.google.com
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
+img-va.myshopline.com #image assets hosts on MyShopOnline
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ipchicken.com
