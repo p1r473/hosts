@@ -202,6 +202,7 @@ www.coinmarketcap.com
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
+www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
