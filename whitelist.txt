@@ -114,6 +114,7 @@ js.stripe.com #Stripe payments
 jumpshare.com #URL Shortener
 kotaku.com
 l.facebook.com
+linkedin.com
 linktr.ee #Linktree
 lm.facebook.com #Facebook links
 login.windows.net
@@ -206,6 +207,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.ip2location.com
 www.ip-tracker.org
+www.linkedin.com
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
