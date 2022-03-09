@@ -65,6 +65,7 @@ ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
 edge-mqtt.facebook.com
+ekr.zdassets.com #ZenDesk button
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
@@ -112,6 +113,7 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 jumpshare.com #URL Shortener
+kicktraq.com
 kotaku.com
 l.facebook.com
 linkedin.com
@@ -208,6 +210,7 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.ip2location.com
 www.ip-tracker.org
+www.kicktraq.com
 www.linkedin.com
 www.msn.com
 www.sickrage.ca
