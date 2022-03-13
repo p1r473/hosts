@@ -6,7 +6,6 @@ activity.windows.com #Cloud backup for Microsoft Authenticator
 aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
-amz.onl #Amazon rank tracking
 android.clients.google.com #Google Play store
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
@@ -65,7 +64,6 @@ ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
 edge-mqtt.facebook.com
-ekr.zdassets.com #ZenDesk button
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
@@ -100,7 +98,6 @@ id.google.com
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
-img-va.myshopline.com #image assets hosts on MyShopOnline
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ipchicken.com
@@ -113,7 +110,6 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 jumpshare.com #URL Shortener
-kicktraq.com
 kotaku.com
 l.facebook.com
 linkedin.com
@@ -145,7 +141,6 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-prod-tp.sumo.mozit.cloud #CNAME for support.mozilla.org
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
@@ -193,7 +188,6 @@ us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
 web-api-tih.acronis.com #Acronis activation
-webtrack.dhlglobalmail.com
 whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
@@ -210,13 +204,9 @@ www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.ip2location.com
 www.ip-tracker.org
-www.kicktraq.com
-www.linkedin.com
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
-www.tm.a.prd.aadg.trafficmanager.net #CNAME for login.live.com and login.microsoft.com
-www.tm.lg.prod.aadmsa.trafficmanager.net #CNAME for login.live.com and login.microsoft.com
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
