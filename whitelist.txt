@@ -3,6 +3,7 @@
 3p.ampproject.net #Google News articles
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
+adafruit.com
 aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
@@ -111,6 +112,7 @@ js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 jumpshare.com #URL Shortener
 kotaku.com
+learn.adafruit.com
 l.facebook.com
 linkedin.com
 linktr.ee #Linktree
@@ -192,6 +194,7 @@ whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 www3.l.google.com #Google Calendar
+www.adafruit.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
