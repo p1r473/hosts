@@ -83,6 +83,7 @@ getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getsatisfaction.com
 gleam.io
 gmail-smtp-in.l.google.com
+gog.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
 graph.facebook.com #Viewing own Facebook wall
