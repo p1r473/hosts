@@ -84,7 +84,6 @@ getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getsatisfaction.com
 gleam.io
 gmail-smtp-in.l.google.com
-gog.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
 graph.facebook.com #Viewing own Facebook wall
@@ -124,7 +123,6 @@ mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 maps.gstatic.com #Google Maps
-maxcdn.bootstrapcdn.com #paintballgear.ca
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
@@ -146,7 +144,6 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-public-ubiservices.ubi.com #Ubisoft Connect/Uplay
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
