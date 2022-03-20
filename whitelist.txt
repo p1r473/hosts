@@ -70,6 +70,7 @@ embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
+fb.com #Facebook
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
