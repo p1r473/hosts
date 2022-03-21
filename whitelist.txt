@@ -124,6 +124,7 @@ mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
+m.facebook.com #Facebook mobile
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msftconnecttest.com
