@@ -2,6 +2,9 @@
 mobanalytics.xyz #Ads
 i.kinja-img.com #Ads
 
+#Aspire Technical Support
+support.aspirets.com
+
 #Origin telemetry
 river.data.ea.com #Origin telemetry
 
