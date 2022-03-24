@@ -117,6 +117,7 @@ learn.adafruit.com
 l.facebook.com
 linkedin.com
 linktr.ee #Linktree
+l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
 login.windows.net
 mailchi.mp
