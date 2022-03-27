@@ -118,14 +118,12 @@ l.facebook.com
 linkedin.com
 linktr.ee #Linktree
 l.instagram.com #Instagram links
-lm.facebook.com #Facebook links
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
-m.facebook.com #Facebook mobile
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msftconnecttest.com
