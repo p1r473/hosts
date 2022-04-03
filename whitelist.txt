@@ -58,6 +58,7 @@ developers.google.com
 developer.spotify.com #Spotify
 disclose.tv
 displaycatalog.mp.microsoft.com #Microsoft Store
+dlvr.it #URL Shortener
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 dynip.org
