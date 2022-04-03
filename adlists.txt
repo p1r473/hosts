@@ -454,6 +454,7 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://someonewhocares.org/hosts/zero/hosts
 https://stopforumspam.com/downloads/toxic_domains_whole.txt
+https://sysctl.org/cameleon/hosts
 #https://tgc.cloud/downloads/hosts.alive.txt
 #https://tgc.cloud/downloads/iOSAdsLite.txt
 #https://tgc.cloud/downloads/iOSAds.txt
@@ -482,16 +483,12 @@ https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
 https://www.threatcrowd.org/feeds/domains.txt
-http://sysctl.org/cameleon/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
 https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
 https://zonefiles.io/f/compromised/domains/live
-http://winhelp2002.mvps.org/hosts.txt
-http://www.botvrij.eu/data/ioclist.hostname.raw
-http://www.malwaredomainlist.com/hostslist/hosts.txt
-http://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
