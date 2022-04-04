@@ -51,6 +51,7 @@ content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 ctt.ac #Click To Tweet
+cut.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
@@ -189,6 +190,7 @@ tools.google.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
 translate.google.com #Google Translate
+trib.al #URL Shortener
 unity3d.com
 usa.kaspersky.com
 usawatchdog.com
