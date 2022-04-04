@@ -22,7 +22,6 @@ b-api.facebook.com #Logging into Facebook Messenger on mobile
 battle.net
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bit.ly #URL Shortener
-blocklist.cyberthreatcoalition.org
 boards.greenhouse.io
 bountysource.com
 buff.ly #URL Shortener
@@ -52,7 +51,6 @@ content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 ctt.ac #Click To Tweet
-cyberthreatcoalition.org
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
@@ -151,6 +149,7 @@ pool.ntp.org #NTP Server
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
+rawgit.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 reminders-pa.googleapis.com
@@ -205,7 +204,6 @@ www.adafruit.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
-www.cyberthreatcoalition.org
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
