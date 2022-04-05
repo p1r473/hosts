@@ -188,12 +188,14 @@ thepiratebay.org
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
+todoistcdn.com #Todoist
 tools.google.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
 translate.google.com #Google Translate
 trib.al #URL Shortener
 unity3d.com
+unpkg.com #Patreon login
 usa.kaspersky.com
 usawatchdog.com
 us.data2.mobile.pendo.io #Morgan Report
@@ -220,6 +222,7 @@ www.ip-tracker.org
 www.msn.com
 www.sickrage.ca
 www.spotify.com #Spotify
+www.todoistcdn.com #Todoist
 www.worldometers.info
 www.youtube-nocookie.com
 yastatic.net #Yandex.Mail
