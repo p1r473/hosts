@@ -170,6 +170,7 @@ sickrage.ca
 silvergold.media #Silvergoldbull.ca
 s.marketwatch.com #MarketWatch images
 socialize.us1.gigya.com #Logging into iRobot app on Android
+songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
