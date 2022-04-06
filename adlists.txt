@@ -389,6 +389,15 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
