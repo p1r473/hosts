@@ -66,6 +66,7 @@ dts.podtrac.com
 dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
+edge-chat.facebook.com #Facebook Messenger
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
