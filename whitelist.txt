@@ -124,6 +124,7 @@ linkedin.com
 linktr.ee #Linktree
 l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
+login.microsoftonline.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
