@@ -16,6 +16,7 @@ aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
+assets.msn.com #MSN Assets
 augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
@@ -173,6 +174,7 @@ rumble.com #YouTube competitor
 s1.wp.com #WordPress
 s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
+safebrowsing.google.com #Google Safebrowsing
 sdk.split.io #MBNA mobile app
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
