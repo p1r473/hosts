@@ -69,6 +69,7 @@ dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edge-chat.facebook.com #Facebook Messenger
+edgedl.me.gvt1.com #Chrome updates
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
@@ -78,6 +79,7 @@ external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
 fb.com #Facebook
+fe2cr.update.microsoft.com #Microsoft Updates
 fedex.ca
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
@@ -160,6 +162,7 @@ query2.finance.yahoo.com
 rawgit.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
+redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
