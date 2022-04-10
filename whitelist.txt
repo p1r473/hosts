@@ -27,6 +27,7 @@ bountysource.com
 buff.ly #URL Shortener
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.fbsbx.com #Facebook CDN
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
