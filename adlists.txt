@@ -317,7 +317,7 @@ https://raw.githubusercontent.com/monolit/fuckhosts/main/wot.txt
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/smart-tv.hosts
-https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts
+#https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/xiaomi.hosts
 https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/combined.txt
 https://raw.githubusercontent.com/mypdns/matrix/master/source/adware/domains.list
