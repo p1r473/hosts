@@ -183,6 +183,7 @@ star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stripecdn.map.fastly.net #checkout.stripe.com
+substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
