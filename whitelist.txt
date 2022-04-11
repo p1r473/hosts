@@ -232,6 +232,7 @@ windows.msn.com
 www3.l.google.com #Google Calendar
 www.adafruit.com
 www.bit.ly
+www.breitbart.com
 www.coingeek.com
 www.coinmarketcap.com
 www.disclose.tv
