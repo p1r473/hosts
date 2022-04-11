@@ -29,6 +29,7 @@ bountysource.com
 buff.ly #URL Shortener
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.embedly.com #Embedded videos
 cdn.fbsbx.com #Facebook CDN
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
@@ -125,6 +126,7 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
 jumpshare.com #URL Shortener
+kingworldnews.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
@@ -187,6 +189,7 @@ songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
+springboard-dot-yamm-track.appspot.com #Springboard
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
 stacksocial.com
@@ -231,6 +234,7 @@ www.adafruit.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
+www.disclose.tv
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
@@ -247,6 +251,7 @@ www.spotify.com #Spotify
 www.todoistcdn.com #Todoist
 www.worldometers.info
 www.youtube-nocookie.com
+www.zerohedge.com
 yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube Music API
 zombo.com

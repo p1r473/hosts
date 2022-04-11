@@ -4,7 +4,7 @@ https://adaway.org/hosts.txt
 https://any.andryou.com/oisddbl.txt
 https://any.andryou.com/oisdmobiledbl.txt
 https://asc.hk/adplus.txt
-https://assets.windscribe.com/custom_blocklists/clickbait.txt
+#https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://badmojr.github.io/1Hosts/Lite/domains.txt
 https://badmojr.github.io/1Hosts/mini/domains.txt
 https://badmojr.github.io/1Hosts/Pro/domains.txt
@@ -180,10 +180,10 @@ https://raw.githubusercontent.com/doadin/Pi-Hole-Blocklist/main/block.list
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/activation.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-lite.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-medium.txt
-https://raw.githubusercontent.com/durablenapkin/block/master/home-obese.txt
+#https://raw.githubusercontent.com/durablenapkin/block/master/home-heavy.txt
+#https://raw.githubusercontent.com/durablenapkin/block/master/home-lite.txt
+#https://raw.githubusercontent.com/durablenapkin/block/master/home-medium.txt
+#https://raw.githubusercontent.com/durablenapkin/block/master/home-obese.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/streaming.txt
 https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
