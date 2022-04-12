@@ -110,8 +110,10 @@ hcaptcha.com #OnlyFans captcha
 i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
+ic.od-cdn.com #OverDrive
 id.google.com
 i.instagram.com #Instagram
+img1.od-cdn.com #OverDrive
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
@@ -130,6 +132,7 @@ kingworldnews.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
+lightning.od-cdn.com #OverDrive
 linkedin.com
 linktr.ee #Linktree
 l.instagram.com #Instagram links
