@@ -78,6 +78,7 @@ edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
+etransfer.interac.ca
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
@@ -159,12 +160,14 @@ outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover
 pasteboard.co
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
+phishingbox.com
 pki-goog.l.google.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+portal.phishingbox.com
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
