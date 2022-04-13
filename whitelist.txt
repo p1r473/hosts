@@ -8,6 +8,7 @@ aka.ms #Microsoft YourPhone
 aliexpress.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
+api.braintreegateway.com #Reship payment
 api.facebook.com #Facebook API
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
