@@ -2,6 +2,25 @@
 mobanalytics.xyz #Ads
 i.kinja-img.com #Ads
 
+#Absolute Software
+search.namequery.com #Absolute agent communication for Windows and Mac 
+search.dnssearch.org #Absolute agent communication for Windows and Mac 
+search2.namequery.com #Data Delete & Device Freeze
+search64.namequery.com #Absolute Consumer agent
+eol.absolute.com #End of Life (EOL) Data Delete
+si.namequery.com #Absolute Persistence 2.x
+a.fc.namequery.com #Real-Time-Technology over IP (RTT-IP)
+fo.fc.namequery.com #Real-Time-Technology over IP (RTT-IP)
+resources.namequery.com #Absolute 7 components. Absolute 7 components delivered from CloudFlare Content Delivery Network
+cdta.namequery.com #Data Transfer
+eum.absolute.com #End User Messaging
+api.absolute.com #Web Services API
+ps.namequery.com #Professional Services
+amp.namequery.com #Professional Services
+ps.absolute.com #Professional Services
+ctm.server.absolute.com #Absolute agent communication for Android and Chromebook
+bh.namequery.com #Absolute holding account
+
 #Aspire Technical Support
 support.aspirets.com
 

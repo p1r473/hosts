@@ -28,6 +28,7 @@ bit.ly #URL Shortener
 boards.greenhouse.io
 bountysource.com
 buff.ly #URL Shortener
+cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.embedly.com #Embedded videos
@@ -38,6 +39,7 @@ cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com #Shopify
 cdns.us1.gigya.com #Elgato.com shopping links
 cdn.syndication.twimg.com #Embedded Tweets
+cdp.thawte.com	#Absolute Software CRL Distribution Point
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
@@ -54,6 +56,8 @@ connectivitycheck.gstatic.com #Google connectivity check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
+crl3.digicert.com #Absolute Software CRL Distribution Point
+crl.thawte.com	#Absolute Software CRL Distribution Point
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 ctldl.windowsupdate.com #Windows Update
 ctt.ac #Click To Tweet
@@ -119,6 +123,7 @@ i.instagram.com #Instagram
 img1.od-cdn.com #OverDrive
 img.ifunny.co #Funny image hosting
 imgur.com
+insiderpaper.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ipchicken.com
@@ -156,7 +161,9 @@ nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
+ocsp.digicert.com #Absolute Software Authority Info Access - On-line Certificate Status Protocol
 ocsp.sectigo.com #OSCP
+ocsp.thawte.com	#Absolute Software Authority Info Access - On-line Certificate Status Protocol
 open.spotify.com #Spotify
 outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 pasteboard.co
@@ -182,7 +189,9 @@ res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rumble.com #YouTube competitor
+s1.symcb.com #Absolute Software CRL Distribution Point
 s1.wp.com #WordPress
+s2.symcb.com #Absolute Software Authority Info Access - On-line Certificate Status Protocol
 s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 safebrowsing.google.com #Google Safebrowsing
@@ -200,6 +209,7 @@ spotify.app.link #Spotify URL shortener for download link
 springboard-dot-yamm-track.appspot.com #Springboard
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
+s.symcb.com #Absolute Software CRL Distribution Point
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
@@ -207,6 +217,7 @@ statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stripecdn.map.fastly.net #checkout.stripe.com
 substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
+sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
 taskassist-pa.clients6.google.com
 telephonyspamprotect-pa.googleapis.com
@@ -224,6 +235,9 @@ trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
+ts-aia.ws.symantec.com	#Absolute Software Authority Info Access Certification Authority Issuer
+ts-crl.ws.symantec.com	#Absolute Software CRL Distribution Point
+ts-ocsp.ws.symantec.com	#Absolute Software Authority Info Access - On-line Certificate Status Protocol
 unity3d.com
 unpkg.com #Patreon login
 usa.kaspersky.com
