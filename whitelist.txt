@@ -17,6 +17,7 @@ ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
+assets.getpocket.com
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
 augloop.office.com #Opening Office web documents in desktop app
