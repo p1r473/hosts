@@ -13,7 +13,7 @@ api.facebook.com #Facebook API
 api.getpocket.com #Pocket API
 apis.google.com #Google API
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-appleid.cdn-apple.com Apple ID
+appleid.cdn-apple.com #Apple ID
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
