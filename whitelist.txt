@@ -37,6 +37,7 @@ cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.embedly.com #Embedded videos
 cdn.fbsbx.com #Facebook CDN
 cdn.jsdelivr.net #Javascript delivery CDN
+cdn.nivoli.com #CDN used for adventuregamers.com
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com #Shopify
