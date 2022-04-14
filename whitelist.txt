@@ -72,6 +72,7 @@ dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify Windows app homepage
 developers.google.com
 developer.spotify.com #Spotify
+d.getpocket.com #save to Pocket
 disclose.tv
 displaycatalog.mp.microsoft.com #Microsoft Store
 dlvr.it #URL Shortener
