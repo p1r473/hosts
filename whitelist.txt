@@ -1,6 +1,7 @@
 2.android.pool.ntp.org #NTP server
 2htg.com #HowToGeek email referral
 3p.ampproject.net #Google News articles
+ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
