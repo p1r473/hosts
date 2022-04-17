@@ -248,6 +248,7 @@ unity3d.com
 unpkg.com #Patreon login
 usa.kaspersky.com
 usawatchdog.com
+us.battle.net
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
