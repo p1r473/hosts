@@ -68,6 +68,7 @@ cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
 ctldl.windowsupdate.com #Windows Update
 ctt.ac #Click To Tweet
 cutt.ly #URL Shortener
+cyber-security-career-track.springboard.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
