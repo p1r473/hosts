@@ -14,12 +14,10 @@ api.facebook.com #Facebook API
 api.getpocket.com #Pocket API
 apis.google.com #Google API
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-appleid.cdn-apple.com #Apple ID
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
-assets.getpocket.com
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
 augloop.office.com #Opening Office web documents in desktop app
@@ -35,16 +33,12 @@ buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
-cdn.embedly.com #Embedded videos
-cdn.fbsbx.com #Facebook CDN
 cdn.jsdelivr.net #Javascript delivery CDN
-cdn.nivoli.com #CDN used for adventuregamers.com
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn.shopify.com #Shopify
 cdns.us1.gigya.com #Elgato.com shopping links
 cdn.syndication.twimg.com #Embedded Tweets
-cdp.thawte.com	#Absolute Software CRL Distribution Point
 checkip.amazonaws.com #AWS Getpublic IP
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
@@ -62,20 +56,15 @@ connectivitycheck.gstatic.com #Google connectivity check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
-crl3.digicert.com #Absolute Software CRL Distribution Point
-crl.thawte.com	#Absolute Software CRL Distribution Point
 cs531.wpc.edgecastcdn.net #video.twimg.com Twitter embedded videos
-ctldl.windowsupdate.com #Windows Update
 ctt.ac #Click To Tweet
 cutt.ly #URL Shortener
-cyber-security-career-track.springboard.com
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify Windows app homepage
 developers.google.com
 developer.spotify.com #Spotify
-disclose.tv
 displaycatalog.mp.microsoft.com #Microsoft Store
 dlvr.it #URL Shortener
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -90,14 +79,10 @@ edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
-etransfer.interac.ca
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
 fb.com #Facebook
-fe2cr.update.microsoft.com #Microsoft Updates
-fe3.delivery.mp.microsoft.com #Windows Updates
-fedex.ca
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -124,13 +109,10 @@ hcaptcha.com #OnlyFans captcha
 i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
-ic.od-cdn.com #OverDrive
 id.google.com
 i.instagram.com #Instagram
-img1.od-cdn.com #OverDrive
 img.ifunny.co #Funny image hosting
 imgur.com
-insiderpaper.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ipchicken.com
@@ -147,12 +129,10 @@ kingworldnews.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
-lightning.od-cdn.com #OverDrive
 linkedin.com
 linktr.ee #Linktree
 l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
-login.microsoftonline.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
@@ -168,22 +148,17 @@ nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
-ocsp.digicert.com #Absolute Software Authority Info Access - On-line Certificate Status Protocol
-ocsp.sectigo.com #OSCP
-ocsp.thawte.com	#Absolute Software Authority Info Access - On-line Certificate Status Protocol
 open.spotify.com #Spotify
 outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 pasteboard.co
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
-phishingbox.com
 pki-goog.l.google.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-portal.phishingbox.com
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
@@ -196,9 +171,7 @@ res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rumble.com #YouTube competitor
-s1.symcb.com #Absolute Software CRL Distribution Point
 s1.wp.com #WordPress
-s2.symcb.com #Absolute Software Authority Info Access - On-line Certificate Status Protocol
 s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 safebrowsing.google.com #Google Safebrowsing
@@ -206,23 +179,19 @@ sdk.split.io #MBNA mobile app
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
 sickrage.ca
-silvergold.media #Silvergoldbull.ca
 s.marketwatch.com #MarketWatch images
 socialize.us1.gigya.com #Logging into iRobot app on Android
 songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
-springboard-dot-yamm-track.appspot.com #Springboard
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
-s.symcb.com #Absolute Software CRL Distribution Point
 stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stripecdn.map.fastly.net #checkout.stripe.com
-substrate.office.com #CNAME for outlook.office.com
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
@@ -232,7 +201,6 @@ thepiratebay.org
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
-todoistcdn.com #Todoist
 tools.google.com
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
@@ -242,14 +210,9 @@ trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
-ts-aia.ws.symantec.com	#Absolute Software Authority Info Access Certification Authority Issuer
-ts-crl.ws.symantec.com	#Absolute Software CRL Distribution Point
-ts-ocsp.ws.symantec.com	#Absolute Software Authority Info Access - On-line Certificate Status Protocol
 unity3d.com
 unpkg.com #Patreon login
 usa.kaspersky.com
-usawatchdog.com
-us.battle.net
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
@@ -258,14 +221,12 @@ web.facebook.com
 whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
-windows.msn.com
 www3.l.google.com #Google Calendar
 www.adafruit.com
 www.bit.ly
 www.breitbart.com
 www.coingeek.com
 www.coinmarketcap.com
-www.disclose.tv
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
@@ -277,10 +238,8 @@ www.ip2location.com
 www.ip-tracker.org
 www.jotform.com
 www.msn.com
-www.redditmedia.com
 www.sickrage.ca
 www.spotify.com #Spotify
-www.todoistcdn.com #Todoist
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
