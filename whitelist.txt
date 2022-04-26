@@ -151,6 +151,7 @@ ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
 outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 pasteboard.co
+pastie.org
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
 pki-goog.l.google.com
@@ -238,6 +239,7 @@ www.ip2location.com
 www.ip-tracker.org
 www.jotform.com
 www.msn.com
+www.pastie.org
 www.sickrage.ca
 www.spotify.com #Spotify
 www.worldometers.info
