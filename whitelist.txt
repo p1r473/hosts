@@ -171,7 +171,6 @@ reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
-rumble.com #YouTube competitor
 s1.wp.com #WordPress
 s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
@@ -188,7 +187,6 @@ s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
-stacksocial.com
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
