@@ -10,6 +10,7 @@
 (^|(.)*[_.-]+)(double)?click(s)?[0-9]*[_.-]+(.)+
 (^|.*\.)litix.io$ #Wistia
 (^|(.)*[_.-]?)logfiles[0-9]*[_.-]+(.)+
+(^|(.)*[_.-]?)manage.microsoft.com #Microsoft Intune
 (^|(.)*[_.-]+)metric(s)?[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)mobileapptracking[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)pixel(s)?[0-9]*[_.-]+(.)+

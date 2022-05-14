@@ -24,6 +24,9 @@ bh.namequery.com #Absolute holding account
 #Aspire Technical Support
 support.aspirets.com
 
+#Microsoft Intune
+manage.microsoft.com
+
 #Origin telemetry
 river.data.ea.com #Origin telemetry
 
