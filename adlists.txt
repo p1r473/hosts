@@ -291,7 +291,6 @@ https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-blocklist.txt
 https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt
-https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/safe_ads.txt
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking
@@ -365,6 +364,7 @@ https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domain
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/p1r473/hosts/master/hosts.txt
+https://raw.githubusercontent.com/p1r473/pornaway/master/hosts/safe_ads.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-hphosts-legacy.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt
