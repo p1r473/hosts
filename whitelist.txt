@@ -65,6 +65,7 @@ dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify Windows app homepage
 developers.google.com
 developer.spotify.com #Spotify
+device-api.urbanairship.com #Google News "more stories" thumbnails
 displaycatalog.mp.microsoft.com #Microsoft Store
 dlvr.it #URL Shortener
 downloads.intercomcdn.com #Website layouts that use Intercom help
