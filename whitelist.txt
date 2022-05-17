@@ -26,6 +26,7 @@ auth.split.io #MBNA mobile app
 b-api.facebook.com #Logging into Facebook Messenger on mobile
 battle.net
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
+bitli.pro #URL Shortener
 bit.ly #URL Shortener
 boards.greenhouse.io
 bountysource.com
