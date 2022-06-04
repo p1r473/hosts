@@ -196,6 +196,7 @@ ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
 star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+static.wikia.nocookie.net #Wiki static images
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
