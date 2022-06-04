@@ -70,6 +70,7 @@ displaycatalog.mp.microsoft.com #Microsoft Store
 dlvr.it #URL Shortener
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
+duckdns.org
 dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
@@ -234,6 +235,7 @@ www.bit.ly
 www.breitbart.com
 www.coingeek.com
 www.coinmarketcap.com
+www.duckdns.org
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
