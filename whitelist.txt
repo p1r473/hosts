@@ -150,6 +150,7 @@ mozilla.cloudflare-dns.com
 msftconnecttest.com #Microsoft connectivity test
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
+myip.dnsomatic.com
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
