@@ -78,7 +78,6 @@ edge-chat.facebook.com #Facebook Messenger
 edgedl.me.gvt1.com #Chrome updates
 edgekey.net #Akamai
 edge-mqtt.facebook.com
-email.funded.today
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
