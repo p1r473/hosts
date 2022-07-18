@@ -3,7 +3,7 @@
 3p.ampproject.net #Google News articles
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
-a.co Amazon URL shortener
+a.co #Amazon URL shortener
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 aka.ms #Microsoft YourPhone
