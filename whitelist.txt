@@ -189,6 +189,7 @@ s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 safebrowsing.google.com #Google Safebrowsing
 sdk.split.io #MBNA mobile app
+sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
 si6ling.incestflix.com
