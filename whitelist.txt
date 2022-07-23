@@ -228,6 +228,7 @@ trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
 unity3d.com
 unpkg.com #Patreon login
+uptimerobot.com
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
@@ -255,6 +256,7 @@ www.ip2location.com
 www.ip-tracker.org
 www.jotform.com
 www.msn.com
+www.newsmax.com
 www.pastie.org
 www.sickrage.ca
 www.spotify.com #Spotify
