@@ -97,6 +97,7 @@ fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
+geotargetly.com #See how website looks in different countries
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
