@@ -88,7 +88,6 @@ facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
 fb.com #Facebook
 fidm.us1.gigya.com #Voila.ca
-filtri-dns.ga #Hostsfile site
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
