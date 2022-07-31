@@ -48,7 +48,6 @@ click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
 clients.l.google.com
-cloudflare.com
 cn-geo1.uber.com #Uber/Uber Eats
 cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
 coingeek.com
@@ -96,7 +95,6 @@ fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
-geotargetly.com #See how website looks in different countries
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
@@ -108,7 +106,6 @@ googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
-grnh.se #greeenhouse.io URL shortener
 gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
@@ -131,7 +128,6 @@ jmp.sh #URL Shortener
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
-jumpshare.com #URL Shortener
 kingworldnews.com
 kotaku.com
 learn.adafruit.com
@@ -183,7 +179,6 @@ reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
-s0.wp.com #WordPress
 s1.wp.com #WordPress
 s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
@@ -241,7 +236,6 @@ widget-mediator.zopim.com #Help/Support chat on Reship
 www3.l.google.com #Google Calendar
 www.adafruit.com
 www.bit.ly
-www.breitbart.com
 www.coingeek.com
 www.coinmarketcap.com
 www.duckdns.org
