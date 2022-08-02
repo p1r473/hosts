@@ -82,6 +82,7 @@ edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
+event.msi.com #MSI Afterburner Update Server
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
