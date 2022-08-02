@@ -114,11 +114,13 @@ i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
 id.google.com
+ifconfig.co #See IP Address
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
+ip4.seeip.org #See IP Address
 ipchicken.com
 ip-tracker.org
 ipv4.am.i.mullvad.net
