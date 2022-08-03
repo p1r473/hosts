@@ -102,6 +102,7 @@ getsatisfaction.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail-smtp-in.l.google.com
+gofile.io #File hosting
 go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
