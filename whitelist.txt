@@ -94,6 +94,7 @@ firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
+form.jotform.com
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
