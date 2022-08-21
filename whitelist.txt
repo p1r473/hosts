@@ -76,15 +76,12 @@ duckdns.org
 dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
-edge-chat.facebook.com #Facebook Messenger
 edgedl.me.gvt1.com #Chrome updates
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
-event.msi.com #MSI Afterburner Update Server
-event.on24.com #ISACA Webinars
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
@@ -95,7 +92,6 @@ firebaseremoteconfig.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
-form.jotform.com
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
@@ -105,7 +101,6 @@ getsatisfaction.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail-smtp-in.l.google.com
-gofile.io #File hosting
 go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 googlemail.com
@@ -204,7 +199,6 @@ s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
-star.c10r.facebook.com #edge-chat.facebook.com Facebook chat
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 static.wikia.nocookie.net #Wiki static images
@@ -257,7 +251,6 @@ www.ip2location.com
 www.ip-tracker.org
 www.jotform.com
 www.msn.com
-www.newsmax.com
 www.pastie.org
 www.sickrage.ca
 www.spotify.com #Spotify
