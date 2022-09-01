@@ -170,6 +170,7 @@ play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
+pushbullet.com
 push.services.mozilla.com
 query1.finance.yahoo.com
 query2.finance.yahoo.com
@@ -230,6 +231,7 @@ usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
+wallet.google.com #Google Wallet
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
@@ -253,6 +255,7 @@ www.ip-tracker.org
 www.jotform.com
 www.msn.com
 www.pastie.org
+www.pushbullet.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.worldometers.info
