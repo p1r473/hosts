@@ -203,7 +203,6 @@ sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-static.wikia.nocookie.net #Wiki static images
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
@@ -231,7 +230,6 @@ usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
-wallet.google.com #Google Wallet
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
@@ -255,7 +253,6 @@ www.ip-tracker.org
 www.jotform.com
 www.msn.com
 www.pastie.org
-www.pushbullet.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.worldometers.info
