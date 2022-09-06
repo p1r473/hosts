@@ -83,6 +83,7 @@ edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
+eventprd10b.on24.com #CNAME for event.on24.com, webinar platform
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
