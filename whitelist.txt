@@ -117,6 +117,7 @@ i9.ytimg.com #Google Video thumbnails while scrubbing
 icanhazip.com
 id.google.com
 ifconfig.co #See IP Address
+i.imgur.com #Imgur
 i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
