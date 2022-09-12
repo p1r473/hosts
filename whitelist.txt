@@ -204,6 +204,7 @@ s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
+star.c10r.facebook.com #Facebook chat, CNAME for edge-chat.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stripecdn.map.fastly.net #checkout.stripe.com
