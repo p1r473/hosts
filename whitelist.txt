@@ -54,6 +54,7 @@ ci3.googleusercontent.com
 ci4.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com
+clients2.google.com
 clients6.google.com
 cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
@@ -108,6 +109,7 @@ geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
+gfwsl.geforce.com #GeForce Experience driver updates
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 go.microsoft.com
@@ -216,7 +218,11 @@ statics.teams.cdn.office.net #MS Teams
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
 storeedgefd.dsx.mp.microsoft.com #Microsoft store
-stun.l.google.com #Google IP lookup
+stun1.l.google.com #Google get Public IP
+stun2.l.google.com #Google get Public IP
+stun3.l.google.com #Google get Public IP
+stun4.l.google.com #Google get Public IP
+stun.l.google.com #Google get Public IP
 supl.google.com
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
