@@ -16,6 +16,7 @@ api.braintreegateway.com #Reship payment
 api.facebook.com #Facebook API
 api.getpocket.com #Pocket API
 apis.google.com #Google API
+api.tiles.mapbox.com #Google Maps embedded tile
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
