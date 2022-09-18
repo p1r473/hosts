@@ -83,7 +83,6 @@ edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
-eventprd10b.on24.com #CNAME for event.on24.com, webinar platform
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
@@ -147,7 +146,6 @@ mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 maps.gstatic.com #Google Maps
-maxcdn.bootstrapcdn.com #CDN for Shopify
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
