@@ -101,6 +101,7 @@ gamecopyworld.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
+gizmodern.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail-smtp-in.l.google.com
@@ -248,6 +249,7 @@ www.duckdns.org
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
+www.gizmodern.com
 www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
