@@ -84,7 +84,6 @@ edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
-etsy.com
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
@@ -101,7 +100,6 @@ gamecopyworld.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
-gizmodern.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail.com
@@ -136,7 +134,6 @@ jmp.sh #URL Shortener
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 js.stripe.com #Stripe payments
-kingworldnews.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
@@ -250,7 +247,6 @@ www.duckdns.org
 www.ebates.com
 www.e-junkie.com
 www.gamecopyworld.com
-www.gizmodern.com
 www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
