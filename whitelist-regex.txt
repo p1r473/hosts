@@ -14,7 +14,7 @@
 (^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
 ^(r([0-9]+)(\-\-\-|\.))?sn\-([a-z0-9.-])*\.googlevideo.com
 ^s3\.(.)*\.amazonaws.com$ #S3 AWS Buckets
-(^|.*\.)tiktokcdn\.com.* #TikTok CDN
+#(^|.*\.)tiktokcdn\.com.* #TikTok CDN
 (^|.*\.)upd.kaspersky.com$
 (^|.*\.)v0cdn.net$ #CDN used by Microsoft, among others
 (^|.*\.)wide.ad.jp$ #Nonmalicious but has ad in the URL. The WIDE Project (Widely Integrated Distributed Environment) is an Internet project. Runs a major backbone of the Japanese Internet and used to run the .jp Top Level Domain
