@@ -98,6 +98,7 @@ fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
 gab.com
 gamecopyworld.com
+g.co #Google URL Shortener
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
