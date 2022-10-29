@@ -240,6 +240,7 @@ usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
+v2.zopim.com #aoeah.com helpdesk
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 weworkremotely.com
