@@ -30,6 +30,7 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 b-api.facebook.com #Logging into Facebook Messenger on mobile
 battle.net
+beacons.ai #Social media link sharing biography site
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bit.ly #URL Shortener
