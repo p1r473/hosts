@@ -136,3 +136,6 @@ rmau01.awmdm.com #Workspace ONE
 rmausession01.awmdm.com #Workspace ONE
 rmjp01.awmdm.com #Workspace ONE
 rmjpsession01.awmdm.com #Workspace ONE
+
+#Kik messenger
+um2.eqads.com #Kik messenger

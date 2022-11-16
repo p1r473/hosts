@@ -12,6 +12,7 @@ aliexpress.com
 am.i.mullvad.net #Mullvad connectivity check
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
+api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.facebook.com #Facebook API
 api.getpocket.com #Pocket API
