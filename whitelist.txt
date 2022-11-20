@@ -9,7 +9,6 @@ activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 aka.ms #Microsoft YourPhone
 aliexpress.com
-am.i.mullvad.net #Mullvad connectivity check
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 api.ashleymadison.com
@@ -82,7 +81,6 @@ duckdns.org
 dynip.org
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
-edgedl.me.gvt1.com #Chrome updates
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 emailtracker.website #Email tracker Chrome extension
@@ -133,7 +131,6 @@ ip2location.com
 ip4.seeip.org #See IP Address
 ipchicken.com
 ip-tracker.org
-ipv4.am.i.mullvad.net
 itch.io
 i.ytimg.com #Youtube images
 jmp.sh #URL Shortener
