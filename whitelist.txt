@@ -13,11 +13,9 @@ amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 api.ashleymadison.com
 api.braintreegateway.com #Reship payment
-api.facebook.com #Facebook API
 api.getpocket.com #Pocket API
 api.mapbox.com #Google Maps embedded tile
 apis.google.com #Google API
-api.tiles.mapbox.com #Google Maps embedded tile
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -28,7 +26,6 @@ assets.msn.com #MSN Assets
 augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
-b-api.facebook.com #Logging into Facebook Messenger on mobile
 battle.net
 beacons.ai #Social media link sharing biography site
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
@@ -93,7 +90,6 @@ fb.com #Facebook
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
-fonts.googleapis.com
 fonts.gstatic.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
@@ -197,7 +193,6 @@ sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
-si6ling.incestflix.com
 sickrage.ca
 s.marketwatch.com #MarketWatch images
 socialize.us1.gigya.com #Logging into iRobot app on Android
@@ -207,7 +202,6 @@ s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
-star.c10r.facebook.com #Facebook chat, CNAME for edge-chat.facebook.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 static-lvlt.xhcdn.com #Xhamster
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
