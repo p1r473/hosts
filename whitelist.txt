@@ -99,6 +99,8 @@ g.co #Google URL Shortener
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
+ghs.google.com
+ghs.googlehosted.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail.com
