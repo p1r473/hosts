@@ -23,7 +23,6 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
-augloop.office.com #Opening Office web documents in desktop app
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 battle.net
@@ -66,7 +65,6 @@ cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
-dealer.spotify.com #Spotify Windows app homepage
 developers.google.com
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
@@ -161,7 +159,6 @@ news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
-outlook-exo.trafficmanager.net #CNAME for outlook.office365.com and autodiscover-s.outlook.com
 pasteboard.co
 pastie.org
 people-pa.googleapis.com
@@ -264,6 +261,5 @@ www.spotify.com #Spotify
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
-yastatic.net #Yandex.Mail
 yt3.ggpht.com #YouTube Music API
 zombo.com
