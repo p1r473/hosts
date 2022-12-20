@@ -71,6 +71,7 @@ device-api.urbanairship.com #Google News "more stories" thumbnails
 discord.gg
 displaycatalog.mp.microsoft.com #Microsoft Store
 dlvr.it #URL Shortener
+dns.google.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 duckdns.org
