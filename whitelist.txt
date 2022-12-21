@@ -101,6 +101,7 @@ getpocket.com #Pocket
 getsatisfaction.com
 ghs.google.com
 ghs.googlehosted.com
+gitlab.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail.com
@@ -144,6 +145,7 @@ linktr.ee #Linktree
 l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
 login.windows.net
+mail-attachment.googleusercontent.com
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
