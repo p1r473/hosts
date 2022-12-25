@@ -1,7 +1,7 @@
 (^|(.)*[_.-]+)aff(iliat(e(s)?)?(ion)?)?[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)analytic(s)?[0-9]*[_.-]+(.)+
-(^|(.)*[_.-]?)applicationinsights.azure.cn
-(^|.*\.)aviary.amazon.com$ #Sponsored Ads on Fire TV
+(^|(.)*[_.-]?)applicationinsights[.]azure[.].*
+(^|.*\.)aviary[.]amazon[.]com$ #Sponsored Ads on Fire TV
 (^|[a-z0-9]+[_.-]+)((m)|(page))?ad(s)?(((s(e)?r(v(e|er|ice)?)?)?)?|(vert(is(e|ing|ement))?)?|(tr(k|(ack(er|ing)?)?)?)?|(im(g|age)?)?|sdk|choice|system)?([sxv])?[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)banner(s)?[0-9]*[_.-]+(.)+
 (^|(.)*[_.-]+)beacon(s)?[0-9]*[_.-]+(.)+
