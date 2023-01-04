@@ -9,6 +9,7 @@ activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 aka.ms #Microsoft YourPhone
 aliexpress.com
+alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com #Google Play store
 api.ashleymadison.com
