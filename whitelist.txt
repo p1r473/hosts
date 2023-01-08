@@ -231,6 +231,7 @@ trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
+tweaktown.com
 unpkg.com #Patreon login
 uptimerobot.com
 usa.kaspersky.com
@@ -244,6 +245,7 @@ weworkremotely.com
 whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
+winaero.com
 www3.l.google.com #Google Calendar
 www.adafruit.com
 www.bit.ly
@@ -264,6 +266,7 @@ www.msn.com
 www.pastie.org
 www.sickrage.ca
 www.spotify.com #Spotify
+www.tweaktown.com
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
