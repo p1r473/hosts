@@ -1,7 +1,7 @@
-
 #activate.adobe.com #Photoshop Activation server
 #activation.acronis.com #Acronis Licensing server
 #activation.cyberlink.com #PowerDVD Licensing server
+aliyun.com #Chinese time server used by Hue
 #cap.cyberlink.com #PowerDVD Licensing server
 #cdns.grindr.com #Grindr
 #chat.grindr.com #Grindr
