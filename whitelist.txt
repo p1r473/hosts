@@ -161,6 +161,7 @@ msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 myip.dnsomatic.com
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
+new-fp-shed.wg1.b.yahoo.com #CNAME for yahoo.com
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
