@@ -77,6 +77,7 @@ downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 duckdns.org
 dynip.org
+e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
 ebates.com
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
@@ -196,6 +197,7 @@ s1.wp.com #WordPress
 s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 safebrowsing.google.com #Google Safebrowsing
+script.google.com
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
