@@ -167,6 +167,7 @@ news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
+ota.lenovo.com #Lenovo OTA updates
 pasteboard.co
 pastie.org
 people-pa.googleapis.com
