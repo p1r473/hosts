@@ -37,6 +37,7 @@ buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.ipinfo.io
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
@@ -265,6 +266,7 @@ www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com #Google static content
 www.ip2location.com
+www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
 www.msn.com
