@@ -119,6 +119,7 @@ graph.microsoft.com #SharePoint file browser
 gstaticadssl.l.google.com #fonts.gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
+gue1-spclient.spotify.com #Spotify on Google Homes
 hcaptcha.com #OnlyFans captcha
 i2.ytimg.com #Youtube images
 i9.ytimg.com #Google Video thumbnails while scrubbing
