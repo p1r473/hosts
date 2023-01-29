@@ -209,9 +209,7 @@ spclient.wg.spotify.com #Spotify login
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
-ssl.p.jwpcdn.com #Embedded videos on GlobalNews.ca
 static.intercomassets.com #Website layouts that use Intercomhelp
-static-lvlt.xhcdn.com #Xhamster
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stripecdn.map.fastly.net #checkout.stripe.com
 support.kaspersky.com
