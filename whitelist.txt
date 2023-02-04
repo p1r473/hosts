@@ -34,6 +34,7 @@ bit.ly #URL Shortener
 boards.greenhouse.io
 bountysource.com
 buff.ly #URL Shortener
+c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
@@ -157,6 +158,7 @@ mail-attachment.googleusercontent.com
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
+mapi.speedtest.net
 maps.gstatic.com #Google Maps
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
