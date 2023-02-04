@@ -216,6 +216,7 @@ sputniknews.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stripecdn.map.fastly.net #checkout.stripe.com
+supl.google.com #Google Location
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
