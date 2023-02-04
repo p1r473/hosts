@@ -115,6 +115,7 @@ go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 google.ca
 googlemail.com
+gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
 gstaticadssl.l.google.com #fonts.gstatic.com
