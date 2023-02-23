@@ -240,6 +240,7 @@ trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
 tweaktown.com
 unpkg.com #Patreon login
+uptime.com
 uptimerobot.com
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
