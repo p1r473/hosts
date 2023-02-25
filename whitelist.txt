@@ -31,7 +31,6 @@ beacons.ai #Social media link sharing biography site
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bit.ly #URL Shortener
-boards.greenhouse.io
 bountysource.com
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
@@ -52,7 +51,6 @@ chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
 clients6.google.com #Google apps
-clients.l.google.com
 cn-geo1.uber.com #Uber/Uber Eats
 cognito-identity.us-east-1.amazonaws.com #SensorPush Gateway
 coingeek.com
@@ -105,13 +103,10 @@ g.co #Google URL Shortener
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
-ghs.google.com
-ghs.googlehosted.com
 gitlab.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 gmail.com
-gmail-smtp-in.l.google.com
 go.microsoft.com
 googleadapis.l.google.com #fonts.gstatic.com
 google.ca
@@ -154,7 +149,6 @@ linktr.ee #Linktree
 l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
 login.windows.net
-mail-attachment.googleusercontent.com
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
@@ -172,7 +166,6 @@ news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify
-pasteboard.co
 pastie.org
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
@@ -199,10 +192,8 @@ res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 s1.wp.com #WordPress
-s3-eu-west-1.amazonaws.com #Amazon AWS
 s7d2.scene7.com #ae.com
 safebrowsing.google.com #Google Safebrowsing
-script.google.com
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
@@ -238,7 +229,6 @@ trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
-tweaktown.com
 unpkg.com #Patreon login
 uptime.com
 uptimerobot.com
@@ -275,7 +265,6 @@ www.msn.com
 www.pastie.org
 www.sickrage.ca
 www.spotify.com #Spotify
-www.tweaktown.com
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
