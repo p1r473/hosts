@@ -181,8 +181,6 @@ postsign.docusign.com #Docusign post-signing
 public-api.wordpress.com #WordPress API
 pushbullet.com
 push.services.mozilla.com
-query1.finance.yahoo.com
-query2.finance.yahoo.com
 rawgit.com
 recaptcha.net
 reddit.app.link
