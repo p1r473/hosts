@@ -207,6 +207,7 @@ spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+store-images.s-microsoft.com #Microsoft store images
 stripecdn.map.fastly.net #checkout.stripe.com
 supl.google.com #Google Location
 support.kaspersky.com
