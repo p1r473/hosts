@@ -46,6 +46,7 @@ cdn.shopify.com #Shopify
 cdns.us1.gigya.com #Elgato.com shopping links
 cdn.syndication.twimg.com #Embedded Tweets
 checkip.amazonaws.com #AWS Getpublic IP
+checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
 chrome.google.com
 chromesyncpasswords-pa.googleapis.com
