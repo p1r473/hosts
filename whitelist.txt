@@ -43,6 +43,7 @@ cdn.ipinfo.io
 cdn.jsdelivr.net #Javascript delivery CDN
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
+cdn-shop.adafruit.com #Adafruit CDN
 cdn.shopify.com #Shopify
 cdns.us1.gigya.com #Elgato.com shopping links
 cdn.syndication.twimg.com #Embedded Tweets
