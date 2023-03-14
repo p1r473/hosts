@@ -136,6 +136,7 @@ i.instagram.com #Instagram
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
+intel11.edgekey.net #CNAME for corpredirect.intel.com 
 ip2location.com
 ip4.seeip.org #See IP Address
 ipchicken.com
