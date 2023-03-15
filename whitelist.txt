@@ -164,6 +164,7 @@ mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 mapi.speedtest.net
 maps.gstatic.com #Google Maps
+media.tenor.com #Tenor GIFs
 mesu.apple.com #Apple hosts software update catalogs
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
