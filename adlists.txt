@@ -23,10 +23,13 @@ https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://filtri-dns.ga/filtri.txt
 https://getadhell.com/standard-package.txt
+https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
+https://gist.githubusercontent.com/Gaunah/5a439af3858ab568ec3418355d84d000/raw/dbe2c895cbe9101b2a3ee59791c13f095e4eed00/SpotifyAdList
 https://gist.githubusercontent.com/hkamran80/779019103fcd306979411d44c8d38459/raw/5d5a2950777b9c1ea88d1e7ae5db921b300d9c39/SmartTV2.txt
 https://gist.githubusercontent.com/MOxFIVE/4730cac715ef406bd8eac7b29335be4a/raw/d21fa08e97963edde372d0d3e50703c783c9c32e/Personal%2520Blocklist.txt
+https://gist.githubusercontent.com/opus-x/3e673a9d5db2a214df05929a4eee6a57/raw/8b9085ea74be4a36aa1348bfe6af7135bafb6ea1/Spotify_Eliminate_Advertisements
 https://gist.githubusercontent.com/vuxat/f25149898451efc6a2723af7c6643f82/raw/5985279ee61a7a77d4f5a5163460177b6a8b62e2/hosts-file.net_hjk.txt
 https://git.herrbischoff.com/trackers/plain/cookie.txt
 https://git.herrbischoff.com/trackers/plain/domains.txt
@@ -257,6 +260,7 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAd
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 #https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds-Ultra.txt
+https://raw.githubusercontent.com/Jigsaw88/Spotify-Ad-List/main/Spotify%20Adblock.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 https://raw.githubusercontent.com/joaopinto14/PiHole/master/Adverts
 https://raw.githubusercontent.com/JoseGalRe/Hosty/master/bits/hosty.blacklist
@@ -440,6 +444,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt
+https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/master/SpotifyBlocklist.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist_HOSTS.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
