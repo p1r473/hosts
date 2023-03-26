@@ -15,6 +15,7 @@ api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
+api-partner.spotify.com #Spotifu
 api-partner.spotify.com #Spotify
 apis.google.com #Google API
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
@@ -35,6 +36,7 @@ bountysource.com
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
+cast.scdn.co #Spotify
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
@@ -109,6 +111,7 @@ graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
 gstatic.com
 guce.yahoo.com #Yahoo Finance
+guc-spclient.spotify.com #Spotify
 gue1-spclient.spotify.com #Spotify on Google Homes
 icanhazip.com
 id.google.com
@@ -176,6 +179,7 @@ safebrowsing.google.com #Google Safebrowsing
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
+seektables.scdn.co #Spotify
 sendgrid.net #Emails from ShipStation
 sickrage.ca
 s.marketwatch.com #MarketWatch images
