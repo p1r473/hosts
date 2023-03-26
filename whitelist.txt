@@ -25,6 +25,8 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
+audio-ak-spotify-com.akamaized.net #Spotify
+audio-fa.scdn.co #Spotify
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 battle.net
@@ -125,6 +127,7 @@ ipchicken.com
 ipecho.net #Network Monitor II
 ipinfo.io
 ip-tracker.org
+i.scdn.co #Spotify
 itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
