@@ -4,6 +4,7 @@
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
 a.co #Amazon URL shortener
+acs.aliexpress.com #AliExpress
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
