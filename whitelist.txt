@@ -129,6 +129,7 @@ ipinfo.io
 ip-tracker.org
 i.scdn.co #Spotify
 itch.io
+i.ytimg.com  #YouTube thumbails
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 kotaku.com
