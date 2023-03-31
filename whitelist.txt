@@ -2,7 +2,7 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 ab40.mktossl.com #CNAME for info.expel.io
-accounts.spotify.com #Spotify RQ
+accounts.spotify.com #Spotify
 accounts.us1.gigya.com #Logging into iRobot app on Android
 a.co #Amazon URL shortener
 acs.aliexpress.com #AliExpress
@@ -17,8 +17,7 @@ api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
-api-partner.spotify.com #Spotifu
-api-partner.spotify.com #Spotify
+api-partner.spotify.com #Spotify partner api, like Chromecast
 apis.google.com #Google API
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
@@ -40,7 +39,7 @@ bountysource.com
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
-cast.scdn.co #Spotify
+cast.scdn.co #Spotify interface used by chromecast (partner devices), links to beta.spotify.map.fastly.net
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
@@ -115,7 +114,7 @@ graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
 gstatic.com
 guce.yahoo.com #Yahoo Finance
-guc-spclient.spotify.com #Spotify
+guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 gue1-spclient.spotify.com #Spotify on Google Homes
 icanhazip.com
 id.google.com
@@ -129,7 +128,7 @@ ipchicken.com
 ipecho.net #Network Monitor II
 ipinfo.io
 ip-tracker.org
-i.scdn.co #Spotify
+i.scdn.co #Spotify Album Covers
 itch.io
 i.ytimg.com  #YouTube thumbails
 js.gleam.io #GleamJavascript
@@ -186,7 +185,7 @@ scdnco.spotify.map.fastly.net #Spotify
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
-seektables.scdn.co #Spotify
+seektables.scdn.co #Spotify patented search of multimedia segments (fetching), links to beta.spotify.map.fastly.net
 sendgrid.net #Emails from ShipStation
 sickrage.ca
 s.marketwatch.com #MarketWatch images
