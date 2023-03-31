@@ -19,15 +19,17 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api-partner.spotify.com #Spotify partner api, like Chromecast
 apis.google.com #Google API
+api.spotify.com #Spotify api for spotify app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
+apresolve.spotify.com #Spotify access point list also used for chromecast
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
-audio-ak-spotify-com.akamaized.net #Spotify
-audio-fa.scdn.co #Spotify
+audio-fa.scdn.co #Spotify Chromecast
+audio-fa.spotify.com #Spotify audio server
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 battle.net
@@ -39,7 +41,7 @@ bountysource.com
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
-cast.scdn.co #Spotify interface used by chromecast (partner devices), links to beta.spotify.map.fastly.net
+cast.scdn.co #Spotify cast server used by chromecast (partner devices), links to beta.spotify.map.fastly.net
 cdn2.hubspot.net #CDN
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
@@ -102,12 +104,16 @@ forum.kaspersky.com
 freegeoip.app #Public IP
 gab.com
 gamecopyworld.com
+geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
+gew-dealer.spotify.com #Spotify send from app to chromecast
+gew-dealer-ssl.spotify.com #Spotify send from app to chromecast
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 go.microsoft.com
+googlehosted.l.googleusercontent.com
 googlehosted.l.googleusercontent.com #CNAME for lh3.googleusercontent.com
 googlemail.com
 gql.reddit.com
@@ -122,19 +128,20 @@ id.google.com
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
-intel11.edgekey.net #CNAME for corpredirect.intel.com 
+intel11.edgekey.net #CNAME for corpredirect.intel.com
 ip2location.com
 ip4.seeip.org #See IP Address
 ipchicken.com
 ipecho.net #Network Monitor II
 ipinfo.io
 ip-tracker.org
-i.scdn.co #Spotify Album Covers
+i.scdn.co #Spotify album covers
 itch.io
 i.ytimg.com  #YouTube thumbails
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 kotaku.com
+labs.spotify.com #Spotify experimental lab functions
 learn.adafruit.com
 l.facebook.com
 linkedin.com
@@ -156,18 +163,20 @@ nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
-open.spotify.com #Spotify
+open.spotify.com #Spotify web player
+o.scdn.co #Spotify images
 pastie.org
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
 pki-goog.l.google.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
-play.spotify.com #Spotify
+play.spotify.com #Spotify web player
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
+p.scdn.co #Spotify maybe profile images
 public-api.wordpress.com #WordPress API
 pushbullet.com
 push.services.mozilla.com
@@ -186,13 +195,13 @@ scdnco.spotify.map.fastly.net #Spotify
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
-seektables.scdn.co #Spotify patented search of multimedia segments (fetching), links to beta.spotify.map.fastly.net
+seektables.scdn.co #Spotify patented search of multimedia segments (fetching), links to beta.spotify.map.fastly.net; seek table server; cannot be blocked while using chromecast
 sendgrid.net #Emails from ShipStation
 sickrage.ca
 s.marketwatch.com #MarketWatch images
 socialize.us1.gigya.com #Logging into iRobot app on Android
 songbird.cardinalcommerce.com #LastPass credit card payment processing
-spclient.wg.spotify.com #Spotify login
+spclient.wg.spotify.com #Spotify login/app home tab
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 static.intercomassets.com #Website layouts that use Intercomhelp
@@ -219,6 +228,7 @@ trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
+t.scdn.co #Spotify maybe images for charts
 uptime.com
 uptimerobot.com
 usa.kaspersky.com
