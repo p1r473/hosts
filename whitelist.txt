@@ -89,6 +89,7 @@ embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 emkei.cz #Email spoofer
 eventopedia.cloudapp.net
+external-preview.redd.it #Reddit thumbnails
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fast.wistia.com #Embedded videos on PurposeInvest
