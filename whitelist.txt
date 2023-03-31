@@ -2,6 +2,7 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 ab40.mktossl.com #CNAME for info.expel.io
+accounts.spotify.com #Spotify RQ
 accounts.us1.gigya.com #Logging into iRobot app on Android
 a.co #Amazon URL shortener
 acs.aliexpress.com #AliExpress
