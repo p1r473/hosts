@@ -54,6 +54,7 @@ cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
+connectivitycheck.gstatic.com #Google connectivity check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
