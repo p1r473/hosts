@@ -52,6 +52,7 @@ cdns.us1.gigya.com #Elgato.com shopping links
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
+chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com #Chrome autofill and search results
@@ -80,6 +81,7 @@ dts.podtrac.com
 duckdns.org
 dynip.org
 e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
+earth.google.com
 ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
@@ -113,6 +115,7 @@ gew-dealer-ssl.spotify.com #Spotify send from app to chromecast
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 go.microsoft.com
+google.com
 googlehosted.l.googleusercontent.com
 googlehosted.l.googleusercontent.com #CNAME for lh3.googleusercontent.com
 googlemail.com
@@ -123,8 +126,10 @@ gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 gue1-spclient.spotify.com #Spotify on Google Homes
+history.google.com
 icanhazip.com
 id.google.com
+i.instagram.com
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
@@ -243,6 +248,7 @@ whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
+www3.l.google.com
 www.adafruit.com
 www.bit.ly
 www.coingeek.com
