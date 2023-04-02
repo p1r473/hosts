@@ -105,6 +105,7 @@ getpocket.com #Pocket
 getsatisfaction.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
+gmail.com
 go.microsoft.com
 google.com
 googlehosted.l.googleusercontent.com
