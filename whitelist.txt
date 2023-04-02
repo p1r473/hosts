@@ -43,6 +43,7 @@ cdn.jsdelivr.net #CDN for JS
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn-shop.adafruit.com #Adafruit CDN
+cdn.shopify.com #Shopify CDN
 cdns.us1.gigya.com #Elgato.com shopping links
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
