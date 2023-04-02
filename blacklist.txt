@@ -3,9 +3,9 @@
 #activation.cyberlink.com #PowerDVD Licensing server
 aliyun.com #Chinese time server used by Hue
 #cap.cyberlink.com #PowerDVD Licensing server
-#cdns.grindr.com #Grindr
-#chat.grindr.com #Grindr
-#grindr.mobi #Grindr
+cdns.grindr.com #Grindr
+chat.grindr.com #Grindr
+grindr.mobi #Grindr
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
 #practivate.adobe.com #Photoshop Licensing server
