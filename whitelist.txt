@@ -95,6 +95,7 @@ fb.com #Facebook
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
+fonts.gstatic.com #Google static fonts
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
 freegeoip.app #Public IP
@@ -143,6 +144,7 @@ l.facebook.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
 linktr.ee #Linktree
+l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
 login.windows.net
 mailchi.mp
