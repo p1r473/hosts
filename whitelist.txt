@@ -113,6 +113,7 @@ googlemail.com
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
+gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 gue1-spclient.spotify.com #Spotify on Google Homes
@@ -193,6 +194,7 @@ spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+stun.l.google.com #get real IP
 supl.google.com #Google Location
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
@@ -241,6 +243,7 @@ www.gamecopyworld.com
 www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
+www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
