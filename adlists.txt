@@ -1,3 +1,4 @@
+
 #http://malwaredomains.lehigh.edu/files/immortal_domains.txt
 #https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/combined.txt
 #https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/adware/domains.list
@@ -28,6 +29,7 @@
 #https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/typosquatting/wildcard.list
 https://abpvn.com/android/abpvn.txt
 https://adaway.org/hosts.txt
+https://adblock.mahakala.is
 https://asc.hk/adplus.txt
 #https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://badmojr.github.io/1Hosts/Lite/domains.txt
@@ -84,12 +86,15 @@ https://hostfiles.frogeye.fr/multiparty-only-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-only-trackers.txt
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers.txt
+https://hostsfile.mine.nu/hosts0.txt
+https://hostsfile.org/Downloads/hosts.txt
 https://hostsmobile.oisd.nl
 https://hosts.ubuntu101.co.za/domains.list
 https://logroid.github.io/adaway-hosts/hosts.txt
 https://malwaredomains.usu.edu/domains.hosts
 https://malwaredomains.usu.edu/immortal_domains.txt
 https://malwaredomains.usu.edu/justdomains
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://o0.pages.dev/Lite/domains.txt
 https://o0.pages.dev/mini/domains.txt
 https://o0.pages.dev/Pro/domains.txt
@@ -100,6 +105,7 @@ https://orca.pet/notonmyshift/hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
 https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
@@ -122,6 +128,7 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt
@@ -162,6 +169,7 @@ https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Android/androidblocklist.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/smarttvblocklist.txt
@@ -262,6 +270,7 @@ https://raw.githubusercontent.com/kang49/kang49regexblacklistproject/main/blackl
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/6b8c2411f22dda68b0b41757aeda10e50717a802/TOP_EU_US_Ads_Trackers_HOST
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_badbait_th.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover_aggressive.txt
@@ -349,6 +358,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://raw.githubusercontent.com/Phentora/AdguardPersonalList/master/blocklist.txt
 https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt
 https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/steamscamsite.txt
 https://raw.githubusercontent.com/quedlin/blacklist/master/domains
@@ -403,11 +413,13 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/host
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/svetlyobg/svet-custom-domains/master/ads-domains
+https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
 https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
 https://raw.githubusercontent.com/UnbendableStraw/samsungnosnooping/master/Samsungnosnooping.txt
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
@@ -436,12 +448,19 @@ https://sysctl.org/cameleon/hosts
 #https://tgc.cloud/downloads/iOSAds.txt
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://urlhaus.abuse.ch/downloads/hostfile
+https://urlhaus.abuse.ch/downloads/hostfile/
 https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Admiral.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Kowabit.txt
+https://v.firebog.net/hosts/neohostsbasic.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/Prigent-Crypto.txt
-https://v.firebog.net/hosts/Prigent-Malware.txthttps://v.firebog.net/hosts/static/w3kbl.txt
+https://v.firebog.net/hosts/Prigent-Malware.txt
+https://v.firebog.net/hosts/RPiList-Malware.txt
+https://v.firebog.net/hosts/RPiList-Phishing.txt
+https://v.firebog.net/hosts/static/w3kbl.txt
 https://warui.intaa.net/adhosts/hosts.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.bentasker.co.uk/adblock/blockeddomains.txt
@@ -452,6 +471,7 @@ https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
