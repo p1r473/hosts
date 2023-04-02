@@ -150,6 +150,7 @@ mandrillapp.com
 mapi.speedtest.net
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
+msftconnecttest.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com #Kijiji Android app notifications
 myip.dnsomatic.com
@@ -250,6 +251,7 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
+www.msftconnecttest.com
 www.msn.com
 www.pastie.org
 www.sickrage.ca
