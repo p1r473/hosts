@@ -340,8 +340,8 @@ https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.tx
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-silverpop.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-windows-telemetry.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/personal-blacklist.txt
-https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/domain-list.txt
-https://raw.githubusercontent.com/paulgb/BarbBlock/master/blacklists/hosts-file.txt
+https://raw.githubusercontent.com/paulgb/BarbBlock/master/blocklists/domain-list.txt
+https://raw.githubusercontent.com/paulgb/BarbBlock/master/blocklists/hosts-file.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
@@ -361,7 +361,6 @@ https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Pro
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting2
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting3
@@ -438,16 +437,11 @@ https://sysctl.org/cameleon/hosts
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/AdguardDNS.txt
-https://v.firebog.net/hosts/BillStearns.txt
-https://v.firebog.net/hosts/Cybercrime.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/Prigent-Crypto.txt
-https://v.firebog.net/hosts/Prigent-Malware.txt
-https://v.firebog.net/hosts/Shalla-mal.txt
-https://v.firebog.net/hosts/static/SamsungSmart.txt
-https://v.firebog.net/hosts/static/w3kbl.txt
+https://v.firebog.net/hosts/Prigent-Malware.txthttps://v.firebog.net/hosts/static/w3kbl.txt
 https://warui.intaa.net/adhosts/hosts.txt
 https://winhelp2002.mvps.org/hosts.txt
 https://www.bentasker.co.uk/adblock/blockeddomains.txt
@@ -461,7 +455,6 @@ https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
-https://www.threatcrowd.org/feeds/domains.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
