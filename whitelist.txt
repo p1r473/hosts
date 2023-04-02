@@ -39,6 +39,7 @@ c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
+cdn.jsdelivr.net #CDN for JS
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn-shop.adafruit.com #Adafruit CDN
@@ -162,6 +163,7 @@ news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify web player
+o.ss2.us #ceriticate verification
 pastie.org
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
@@ -176,6 +178,7 @@ postsign.docusign.com #Docusign post-signing
 public-api.wordpress.com #WordPress API
 pushbullet.com
 push.services.mozilla.com
+r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
@@ -198,6 +201,7 @@ songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login/app home tab
 spotify.app.link #Spotify URL shortener for download link
 sputniknews.com
+s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 stun.l.google.com #get real IP
