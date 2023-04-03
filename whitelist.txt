@@ -106,6 +106,7 @@ guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 gue1-spclient.spotify.com #Spotify on Google Homes
 icanhazip.com
+img.alicdn.com #AliExpress image CDN
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
