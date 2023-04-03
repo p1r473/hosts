@@ -10,6 +10,7 @@ adafruit.com
 ae01.alicdn.com #AliExpress
 aliexpress.com
 amzn.to #Amazon URL shortener
+android.clients.google.com
 api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
@@ -189,6 +190,7 @@ sputniknews.com
 s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+supl.google.com
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
@@ -196,6 +198,7 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
+time.windows.com
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
