@@ -71,6 +71,7 @@ e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
 ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
+edge-chat.facebook.com #Facebook chat
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 emailmeter.com
