@@ -128,6 +128,7 @@ linkedin.com
 link.indiegogo.com #Indiegogo links
 linktr.ee #Linktree
 lm.facebook.com #Facebook links
+login.live.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
@@ -136,6 +137,7 @@ mapi.speedtest.net
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
+mtalk.google.com
 myip.dnsomatic.com
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
@@ -144,6 +146,7 @@ ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
 pastie.org
+pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
@@ -229,6 +232,7 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
+www.msftconnecttest.com
 www.msn.com
 www.pastie.org
 www.sickrage.ca
