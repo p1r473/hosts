@@ -14,6 +14,7 @@ api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
+apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -45,6 +46,7 @@ checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
+clients6.google.com
 cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
@@ -150,6 +152,7 @@ o.ss2.us #ceriticate verification
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
+peoplestackwebexperiments-pa.clients6.google.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
