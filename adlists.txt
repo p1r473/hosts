@@ -102,8 +102,6 @@ http://someonewhocares.org/hosts/zero/hosts
 https://orca.pet/notonmyshift/domains.txt
 https://orca.pet/notonmyshift/hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt
-https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
@@ -288,7 +286,6 @@ https://raw.githubusercontent.com/liamengland1/mischosts/master/whiteops-hosts
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST
-https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist
