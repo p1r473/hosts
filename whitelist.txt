@@ -64,6 +64,7 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
+dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 duckdns.org
@@ -121,6 +122,7 @@ ipchicken.com
 ipecho.net #Network Monitor II
 ipinfo.io
 ip-tracker.org
+ipv4.am.i.mullvad.net
 itch.io
 i.ytimg.com  #YouTube thumbails
 js.gleam.io #GleamJavascript
