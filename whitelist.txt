@@ -1,7 +1,6 @@
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
-aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
 a.co #Amazon URL shortener
@@ -9,14 +8,11 @@ activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
 aliexpress.com
-alive.github.com
 amzn.to #Amazon URL shortener
-android.clients.google.com #Google Play store
 api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
-apis.google.com #Google API
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -39,46 +35,36 @@ c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
-cdn.jsdelivr.net #CDN for JS
 cdn.paddle.com #PocketCasts
 cdns.gigya.com #Embedded CTV News videos
 cdn-shop.adafruit.com #Adafruit CDN
-cdn.shopify.com #Shopify CDN
 cdns.us1.gigya.com #Elgato.com shopping links
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
-chrome.google.com
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
-clients1.google.com #Chrome autofill and search results
-clients6.google.com #Google apps
 cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
-connectivitycheck.gstatic.com #Google connectivity check
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
-csp.withgoogle.com #Content Security Policy
 ctt.ac #Click To Tweet
 cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
-developers.google.com
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
-dns.google.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 duckdns.org
 dynip.org
 e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
-earth.google.com
 ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
@@ -97,7 +83,6 @@ fb.com #Facebook
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
-fonts.gstatic.com #Google static fonts
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
 freegeoip.app #Public IP
@@ -107,12 +92,9 @@ geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
-github.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
-gmail.com
 go.microsoft.com
-google.com
 googlehosted.l.googleusercontent.com
 googlehosted.l.googleusercontent.com #CNAME for lh3.googleusercontent.com
 googlemail.com
@@ -123,10 +105,7 @@ gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 gue1-spclient.spotify.com #Spotify on Google Homes
-history.google.com
 icanhazip.com
-id.google.com
-i.instagram.com
 img.ifunny.co #Funny image hosting
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
@@ -146,7 +125,6 @@ l.facebook.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
 linktr.ee #Linktree
-l.instagram.com #Instagram links
 lm.facebook.com #Facebook links
 login.windows.net
 mailchi.mp
@@ -155,9 +133,7 @@ mandrillapp.com
 mapi.speedtest.net
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
-msftconnecttest.com
 msh.amazon.com #Amazon thumbnails
-mtalk.google.com #Kijiji Android app notifications
 myip.dnsomatic.com
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
@@ -167,8 +143,6 @@ open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
 pastie.org
 people-pa.googleapis.com
-peoplestackwebexperiments-pa.clients6.google.com #Google Photos Face Grouping
-pki-goog.l.google.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
@@ -190,7 +164,6 @@ rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
-safebrowsing.google.com #Google Safebrowsing
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
@@ -205,24 +178,19 @@ sputniknews.com
 s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-stun.l.google.com #get real IP
-supl.google.com #Google Location
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
-taskassist-pa.clients6.google.com
 t.co #Twitter URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
-tools.google.com
 track.aliexpress.com #AliExpress order tracking
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
-translate.google.com #Google Translate
 trib.al #URL Shortener
 trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
@@ -242,7 +210,6 @@ whatismyipaddress.com
 whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
-www3.l.google.com
 www.adafruit.com
 www.bit.ly
 www.coingeek.com
@@ -260,7 +227,6 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
-www.msftconnecttest.com
 www.msn.com
 www.pastie.org
 www.sickrage.ca
