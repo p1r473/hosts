@@ -129,6 +129,7 @@ link.indiegogo.com #Indiegogo links
 linktr.ee #Linktree
 lm.facebook.com #Facebook links
 login.live.com
+login.microsoftonline.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
