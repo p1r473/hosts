@@ -17,6 +17,7 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
+app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
@@ -158,6 +159,7 @@ pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com
+pingdom.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
@@ -193,6 +195,7 @@ sputniknews.com
 s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
+statuscake.com
 supl.google.com
 support.kaspersky.com
 sv.symcb.com #Absolute Software CRL Distribution Point
