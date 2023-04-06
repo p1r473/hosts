@@ -24,6 +24,7 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
+assets.vidyard.com
 audio-fa.scdn.co #Spotify Chromecast
 audio-fa.spotify.com #Spotify audio server
 auth.samsungosp.com #Logging into Samsung on an Android device
