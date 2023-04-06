@@ -185,6 +185,7 @@ rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 s1.wp.com #WordPress
 s7d2.scene7.com #ae.com
+safebrowsing.google.com
 sdk.split.io #MBNA mobile app
 sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
