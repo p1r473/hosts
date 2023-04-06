@@ -48,6 +48,8 @@ checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
 chromesyncpasswords-pa.googleapis.com
+ci3.googleusercontent.com
+ci4.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients6.google.com
 cn-geo1.uber.com #Uber/Uber Eats
