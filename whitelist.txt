@@ -108,7 +108,6 @@ gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 go.microsoft.com
 googlehosted.l.googleusercontent.com
-googlehosted.l.googleusercontent.com #CNAME for lh3.googleusercontent.com
 googlemail.com
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
@@ -136,7 +135,6 @@ js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 kotaku.com
 learn.adafruit.com
 l.facebook.com
-lh3.googleusercontent.com #CNAME for googlehosted.l.googleusercontent.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
 linktr.ee #Linktree
