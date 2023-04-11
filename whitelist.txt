@@ -18,6 +18,7 @@ api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
+app.pandadoc.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -160,6 +161,7 @@ north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
+pandadoc.com
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
