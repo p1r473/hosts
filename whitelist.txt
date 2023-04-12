@@ -1,6 +1,7 @@
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
+9.rarbg.to
 aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
@@ -178,6 +179,7 @@ public-api.wordpress.com #WordPress API
 pushbullet.com
 push.services.mozilla.com
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
+rarbg.to
 rawgit.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
