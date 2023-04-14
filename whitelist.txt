@@ -161,6 +161,7 @@ nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 ocsp.apple.com #Apple certificate validation
+onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
 pandadoc.com
