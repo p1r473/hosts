@@ -197,6 +197,7 @@ sdks.shopifycdn.com #Shopify SDK
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
 sickrage.ca
+slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
 socialize.us1.gigya.com #Logging into iRobot app on Android
 songbird.cardinalcommerce.com #LastPass credit card payment processing
