@@ -2,7 +2,6 @@
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
-9.rarbg.to
 aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
@@ -20,7 +19,6 @@ api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-app.pandadoc.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -28,7 +26,6 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
-assets.vidyard.com
 audio-fa.scdn.co #Spotify Chromecast
 audio-fa.spotify.com #Spotify audio server
 auth.samsungosp.com #Logging into Samsung on an Android device
@@ -83,7 +80,6 @@ e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
 ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
-edge-chat.facebook.com #Facebook chat
 edgekey.net #Akamai
 edge-mqtt.facebook.com
 emailmeter.com
@@ -164,7 +160,6 @@ ocsp.apple.com #Apple certificate validation
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
-pandadoc.com
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
@@ -181,7 +176,6 @@ public-api.wordpress.com #WordPress API
 pushbullet.com
 push.services.mozilla.com
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
-rarbg.to
 rawgit.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
