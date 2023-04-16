@@ -170,6 +170,7 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
 public-api.wordpress.com #WordPress API
@@ -259,6 +260,7 @@ www.jotform.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
+www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.worldometers.info
