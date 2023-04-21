@@ -337,6 +337,7 @@ https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts
 https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/p1r473/hosts/master/hosts.txt
 https://raw.githubusercontent.com/p1r473/pornaway/master/hosts/safe_ads.txt
