@@ -54,6 +54,7 @@ chromesyncpasswords-pa.googleapis.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
+clients1.google.com
 clients6.google.com
 cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
