@@ -209,6 +209,7 @@ s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
+storeedgefd.dsx.mp.microsoft.com #Microsoft store
 stun.l.google.com #Google IP lookup
 supl.google.com
 support.kaspersky.com
