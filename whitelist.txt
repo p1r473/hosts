@@ -158,7 +158,6 @@ mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com
 myip.dnsomatic.com
-myvirtualhome.ca
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
@@ -186,7 +185,6 @@ pushbullet.com
 push.services.mozilla.com
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
-reachedtours.myvirtualhome.ca
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
@@ -229,7 +227,6 @@ time.windows.com
 tiny.one #URL Shortener
 tinyurl.com
 tmx.td.com #MBNA app
-tours.myvirtualhome.ca
 track.aliexpress.com #AliExpress order tracking
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
