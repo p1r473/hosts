@@ -223,6 +223,7 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
+thumbor.forbes.com
 time.windows.com
 tiny.one #URL Shortener
 tinyurl.com
