@@ -62,6 +62,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
+cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com, breaks Twitter videos
 csp.withgoogle.com #Content Security Policy is designed to make applications more secure against common web vulnerabilities, cross-site scripting
 ctt.ac #Click To Tweet
 cutt.ly #URL Shortener
