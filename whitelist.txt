@@ -15,6 +15,7 @@ amzn.to #Amazon URL shortener
 android.clients.google.com
 api.ashleymadison.com
 api.braintreegateway.com #Reship payment
+api.ccbill.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.linkr.bio
@@ -42,6 +43,7 @@ bountysource.com
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
+ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
 cdn.paddle.com #PocketCasts
