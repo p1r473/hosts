@@ -79,6 +79,7 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
+dns.google
 dns.google.com
 dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
@@ -180,6 +181,7 @@ ocsp.apple.com #Apple certificate validation
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
+outlook-1.cdn.office.net
 outlook.office365.com
 pandadoc.com
 pastie.org
