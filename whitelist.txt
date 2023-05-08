@@ -20,6 +20,7 @@ api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
+apple-finance.query.yahoo.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -119,6 +120,8 @@ googlemail.com
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
+gs-loc.apple.com
+gs-loc.ls-apple.com.akadns.net
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
@@ -147,6 +150,7 @@ jsonip.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
+licensing.mp.microsoft.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
 linkr.bio
@@ -172,6 +176,7 @@ ocsp.apple.com #Apple certificate validation
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
+outlook.office365.com
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
