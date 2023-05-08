@@ -10,6 +10,7 @@ activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
 aliexpress.com
+alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 api.ashleymadison.com
@@ -253,6 +254,7 @@ us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
 v2.zopim.com #aoeah.com helpdesk
+valid.apple.com
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 weworkremotely.com
