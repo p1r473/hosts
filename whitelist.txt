@@ -22,7 +22,6 @@ api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 apple-finance.query.yahoo.com
-app.pandadoc.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -183,7 +182,6 @@ open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
 outlook-1.cdn.office.net
 outlook.office365.com
-pandadoc.com
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
