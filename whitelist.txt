@@ -248,6 +248,7 @@ thumbor.forbes.com
 time.windows.com
 tiny.one #URL Shortener
 tinyurl.com
+t.me #Telegram URL shortener
 tmx.td.com #MBNA app
 track.aliexpress.com #AliExpress order tracking
 tracker.opentrackr.org
