@@ -250,6 +250,7 @@ tiny.one #URL Shortener
 tinyurl.com
 t.me #Telegram URL shortener
 tmx.td.com #MBNA app
+tools.google.com
 track.aliexpress.com #AliExpress order tracking
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
