@@ -154,6 +154,7 @@ jsonip.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
+lh3.googleusercontent.com
 licensing.mp.microsoft.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
