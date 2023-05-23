@@ -35,6 +35,7 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 battle.net
 beacons.ai #Social media link sharing biography site
+beacons.gcp.gvt2.com
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bit.ly #URL Shortener
@@ -64,6 +65,7 @@ cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
+connectivitycheck.gstatic.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
@@ -105,6 +107,7 @@ fb.com #Facebook
 fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
+firmware-cn.nanoleaf.me
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forum.kaspersky.com
 freegeoip.app #Public IP
@@ -154,6 +157,7 @@ jsonip.com
 kotaku.com
 learn.adafruit.com
 l.facebook.com
+lh3.googleusercontent.com
 licensing.mp.microsoft.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
@@ -185,6 +189,7 @@ outlook.office365.com
 paste.c-net.org
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
+pcmanager.microsoft.com
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com
 pingdom.com
@@ -193,6 +198,7 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
+pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
 prod.balrog.prod.cloudops.mozgcp.net #Firefox updates
@@ -296,6 +302,7 @@ www.jotform.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
+www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.worldometers.info
