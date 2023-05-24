@@ -99,6 +99,8 @@ emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 emkei.cz #Email spoofer
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
 epoch.com
 eventopedia.cloudapp.net
 external.xx.fbcdn.net #Facebook CDN
