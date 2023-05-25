@@ -77,6 +77,7 @@ cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
+dc.glbtls.t.co
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
