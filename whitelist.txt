@@ -280,6 +280,7 @@ usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
+utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
 valid.apple.com
 web-api-tih.acronis.com #Acronis activation
