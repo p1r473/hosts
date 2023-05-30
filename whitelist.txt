@@ -183,6 +183,7 @@ ocsp.apple.com #Apple certificate validation
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
+oup.silverchair-cdn.com #Articles on academic.oup.com
 outlook-1.cdn.office.net
 outlook.office365.com
 paste.c-net.org
@@ -227,6 +228,7 @@ socialize.us1.gigya.com #Logging into iRobot app on Android
 songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login/app home tab
 spotify.app.link #Spotify URL shortener for download link
+spreadsheetpage.com
 sputniknews.com
 s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
@@ -302,6 +304,7 @@ www.pastie.org
 www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
+www.spreadsheetpage.com
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
