@@ -24,6 +24,7 @@ apple-finance.query.yahoo.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
+ashleymadison.com
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
@@ -283,6 +284,7 @@ whatismyip.com
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
 www.adafruit.com
+www.ashleymadison.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
