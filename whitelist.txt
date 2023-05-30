@@ -42,6 +42,7 @@ bountysource.com
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
+captive.apple.com
 ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
