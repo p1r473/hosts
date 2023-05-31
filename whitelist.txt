@@ -13,6 +13,7 @@ aliexpress.com
 alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
+answers.microsoft.com
 api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
