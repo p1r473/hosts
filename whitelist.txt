@@ -157,6 +157,7 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
 kotaku.com
+lander-cdn.ashleymadison.com
 learn.adafruit.com
 l.facebook.com
 licensing.mp.microsoft.com
