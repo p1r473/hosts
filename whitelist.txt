@@ -22,6 +22,7 @@ api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 apple-finance.query.yahoo.com
+app.pandadoc.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -191,6 +192,7 @@ o.ss2.us #ceriticate verification
 oup.silverchair-cdn.com #Articles on academic.oup.com
 outlook-1.cdn.office.net
 outlook.office365.com
+pandadoc.com
 paste.c-net.org
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
@@ -248,6 +250,7 @@ stun4.l.google.com #Google get Public IP
 stun.l.google.com #Google get Public IP
 supl.google.com
 support.kaspersky.com
+support.microsoft.com
 sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
