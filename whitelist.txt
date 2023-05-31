@@ -79,6 +79,7 @@ dcf.espn.com #Embedded videos on ZeroHedge
 dc.glbtls.t.co
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
+device.auth.xboxlive.com
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
 dns.google
