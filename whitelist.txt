@@ -114,6 +114,7 @@ fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
+forms.gle #Google Forms
 forum.kaspersky.com
 freegeoip.app #Public IP
 gab.com
