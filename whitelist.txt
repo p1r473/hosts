@@ -14,7 +14,6 @@ alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 answers.microsoft.com
-api.ashleymadison.com
 api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
@@ -22,11 +21,9 @@ api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 apple-finance.query.yahoo.com
-app.pandadoc.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
-ashleymadison.com
 asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
@@ -161,7 +158,6 @@ js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
 kotaku.com
-lander-cdn.ashleymadison.com
 learn.adafruit.com
 l.facebook.com
 licensing.mp.microsoft.com
@@ -190,10 +186,8 @@ ocsp.apple.com #Apple certificate validation
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
-oup.silverchair-cdn.com #Articles on academic.oup.com
 outlook-1.cdn.office.net
 outlook.office365.com
-pandadoc.com
 paste.c-net.org
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
@@ -292,7 +286,6 @@ whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
 www.adafruit.com
-www.ashleymadison.com
 www.bit.ly
 www.coingeek.com
 www.coinmarketcap.com
