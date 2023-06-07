@@ -162,6 +162,7 @@ learn.adafruit.com
 l.facebook.com
 licensing.mp.microsoft.com
 linkedin.com
+linkedinmobileapp.com
 link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
@@ -302,6 +303,7 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
+www.linkedinmobileapp.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
