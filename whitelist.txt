@@ -168,9 +168,11 @@ linkr.bio
 linktr.ee #Linktree
 lm.facebook.com #Facebook links
 login.live.com
+login.mailchimp.com
 login.microsoftonline.com
 login.windows.net
 mailchi.mp
+mailchimp.com
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 mapi.speedtest.net
