@@ -11,6 +11,7 @@
 (^|.*\.)lametric\.com$ #Nonmalicious but has metric in the URL
 (^|.*\.)list-manage.com$ #Unsubscribing from newsletters
 (^|.*\.)lithium.com$ #Nonmalicious domain but in some blocklists. Required for various community sites.
+(^|.*\.)mailchimp\.com$
 (^|.*\.)maxmind\.com$ #Nonmalicious but entire domain blocked by a blocklist
 (^|.*)ocsp\.(.)+ #OSCP
 ^(r([0-9]+)(\-\-\-|\.))?sn\-([a-z0-9.-])*\.googlevideo.com
