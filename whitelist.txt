@@ -2,7 +2,6 @@
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
-aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
 a.co #Amazon URL shortener
@@ -28,7 +27,6 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
-audio-fa.scdn.co #Spotify Chromecast
 audio-fa.spotify.com #Spotify audio server
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
@@ -99,8 +97,6 @@ emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 emkei.cz #Email spoofer
-encrypted-tbn0.gstatic.com
-encrypted-tbn1.gstatic.com
 epoch.com
 eventopedia.cloudapp.net
 external.xx.fbcdn.net #Facebook CDN
@@ -120,18 +116,14 @@ geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
-gfwsl.geforce.com #GeForce Experience driver updates
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 go.microsoft.com
-googlehosted.l.googleusercontent.com
 googlemail.com
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
 gs-loc.apple.com
-gs-loc.ls-apple.com.akadns.net
-gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 gue1-spclient.spotify.com #Spotify on Google Homes
@@ -201,7 +193,6 @@ players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
 prod.balrog.prod.cloudops.mozgcp.net #Firefox updates
@@ -278,7 +269,6 @@ us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
 utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
-valid.apple.com
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 weworkremotely.com
@@ -299,7 +289,6 @@ www.gamecopyworld.com
 www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
-www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
@@ -308,7 +297,6 @@ www.linkedinmobileapp.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
-www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.spreadsheetpage.com
