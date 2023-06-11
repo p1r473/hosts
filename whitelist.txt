@@ -119,6 +119,7 @@ getsatisfaction.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 go.microsoft.com
+googlehosted.l.googleusercontent.com
 googlemail.com
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
