@@ -2,6 +2,7 @@
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
+aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 accounts.us1.gigya.com #Logging into iRobot app on Android
 a.co #Amazon URL shortener
@@ -97,6 +98,8 @@ emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 embed-ssl.wistia.com #StackSkills.com video thumbnails
 emkei.cz #Email spoofer
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
 epoch.com
 eventopedia.cloudapp.net
 external.xx.fbcdn.net #Facebook CDN
