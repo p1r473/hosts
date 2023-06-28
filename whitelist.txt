@@ -165,6 +165,7 @@ link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
 lm.facebook.com #Facebook links
+lnkd.in #LinkedIn URL Shortener
 login.live.com
 login.mailchimp.com
 login.microsoftonline.com
