@@ -4,8 +4,6 @@
 3p.ampproject.net #Google News articles
 aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
-accounts.us1.gigya.com #Logging into iRobot app on Android
-a.co #Amazon URL shortener
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
@@ -14,13 +12,11 @@ alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 answers.microsoft.com
-api.braintreegateway.com #Reship payment
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-apple-finance.query.yahoo.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -47,16 +43,12 @@ ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
 cdn.paddle.com #PocketCasts
-cdns.gigya.com #Embedded CTV News videos
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
-cdns.us1.gigya.com #Elgato.com shopping links
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
 chromesyncpasswords-pa.googleapis.com
-ci3.googleusercontent.com
-ci4.googleusercontent.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com
 clients2.google.com
@@ -97,17 +89,13 @@ edge-mqtt.facebook.com
 emailmeter.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
-embed-ssl.wistia.com #StackSkills.com video thumbnails
 emkei.cz #Email spoofer
-encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 epoch.com
 eventopedia.cloudapp.net
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
-fast.wistia.com #Embedded videos on PurposeInvest
 fb.com #Facebook
-fidm.us1.gigya.com #Voila.ca
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
@@ -160,7 +148,6 @@ learn.adafruit.com
 l.facebook.com
 licensing.mp.microsoft.com
 linkedin.com
-linkedinmobileapp.com
 link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
@@ -205,7 +192,6 @@ postsign.docusign.com #Docusign post-signing
 prod.balrog.prod.cloudops.mozgcp.net #Firefox updates
 public-api.wordpress.com #WordPress API
 pushbullet.com
-push.services.mozilla.com
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
 reddit.app.link
@@ -226,7 +212,6 @@ sendgrid.net #Emails from ShipStation
 sickrage.ca
 slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
-socialize.us1.gigya.com #Logging into iRobot app on Android
 songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login/app home tab
 spotify.app.link #Spotify URL shortener for download link
@@ -301,7 +286,6 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
-www.linkedinmobileapp.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
