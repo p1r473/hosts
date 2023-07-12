@@ -16,6 +16,7 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
+app.bitly.com #URL Shortener
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 app.statuscake.com
 ap.spotify.com #Spotify
@@ -32,6 +33,7 @@ beacons.ai #Social media link sharing biography site
 beacons.gcp.gvt2.com
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
+bitly.com #URL Shortener
 bit.ly #URL Shortener
 bnc.lt #URL Shortener
 bountysource.com
@@ -274,6 +276,7 @@ widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
 www.adafruit.com
 www.bit.ly
+www.bitly.com #URL Shortener
 www.coingeek.com
 www.coinmarketcap.com
 www.duckdns.org
