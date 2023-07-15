@@ -16,7 +16,6 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
-app.bitly.com #URL Shortener
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 app.statuscake.com
 ap.spotify.com #Spotify
@@ -37,7 +36,6 @@ bitly.com #URL Shortener
 bit.ly #URL Shortener
 bnc.lt #URL Shortener
 bountysource.com
-b.stripecdn.com #Stripe
 buff.ly #URL Shortener
 c-0001.c-msedge.net #CNAME for download.windowsupdate.com
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
