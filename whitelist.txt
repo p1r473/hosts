@@ -97,6 +97,7 @@ eventopedia.cloudapp.net
 external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fb.com #Facebook
+feedly.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
