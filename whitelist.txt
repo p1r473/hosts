@@ -117,6 +117,7 @@ go.microsoft.com
 googlehosted.l.googleusercontent.com
 googlemail.com
 goo.gl #Google URL Shortener
+gql-realtime.reddit.com #Reddit app comments
 gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
