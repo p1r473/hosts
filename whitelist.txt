@@ -4,6 +4,7 @@
 3p.ampproject.net #Google News articles
 aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
+aboutmyip.com
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
@@ -273,6 +274,7 @@ whatismyip.com
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
+www.aboutmyip.com
 www.adafruit.com
 www.bit.ly
 www.bitly.com #URL Shortener
