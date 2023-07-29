@@ -274,7 +274,6 @@ whatismyip.com
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
-www.aboutmyip.com
 www.adafruit.com
 www.bit.ly
 www.bitly.com #URL Shortener
