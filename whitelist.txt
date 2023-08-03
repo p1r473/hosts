@@ -241,6 +241,7 @@ sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
+techtarget.com
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 thumbor.forbes.com
@@ -300,6 +301,7 @@ www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.spreadsheetpage.com
+www.techtarget.com
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
