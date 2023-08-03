@@ -166,6 +166,7 @@ mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 mapi.speedtest.net
+mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
