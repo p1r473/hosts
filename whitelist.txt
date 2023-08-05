@@ -5,6 +5,7 @@
 aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 aboutmyip.com
+accounts.adafruit.com
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
@@ -215,6 +216,7 @@ sb-ssl.google.com #Google Safe Browsing
 sdk.split.io #MBNA mobile app
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
+shop-app.sezzle.com
 sickrage.ca
 slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
@@ -277,6 +279,7 @@ whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 winaero.com
 www.adafruit.com
+www.autotrader.ca
 www.bit.ly
 www.bitly.com #URL Shortener
 www.coingeek.com
