@@ -34,6 +34,7 @@ auth.split.io #MBNA mobile app
 battle.net
 beacons.ai #Social media link sharing biography site
 beacons.gcp.gvt2.com
+bestbuy.ca
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bitly.com #URL Shortener
