@@ -26,6 +26,8 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
+audio-ak-spotify-com.akamaized.net #Spotify on Nvidia Shield
+audio-fa.scdn.co #Spotify on Nvidia Shield
 audio-fa.spotify.com #Spotify audio server
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
@@ -71,6 +73,7 @@ d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dc.glbtls.t.co
+dealer.spotify.com #Spotify on Nvidia Shield
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 device.auth.xboxlive.com
@@ -261,6 +264,7 @@ trk.klclick1.com #Email unsubscribe
 trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
+tv.scdn.co #Spotify on Nvidia Shield
 uptime.com
 uptimerobot.com
 usa.kaspersky.com
