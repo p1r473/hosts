@@ -44,6 +44,10 @@ https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://filtri-dns.ga/filtri.txt
 https://getadhell.com/standard-package.txt
+https://gist.github.com/rifkyekayama/f7c43e470f23878b20416e68f73829dc
+https://gist.github.com/shokoylele/8f4160a102480471cb946fbd800bc86a
+https://gist.github.com/Shujito/b7a8f8f971b22f49b4313d7d3e8e6931
+https://gist.github.com/teomaragakis/cb187d880c9a3ca2c8a2
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
