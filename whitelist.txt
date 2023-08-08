@@ -200,6 +200,7 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
+prod.assets.mcxdiego.prime.amazon.dev #Manage Prime Membership on Android Amazon App
 prod.balrog.prod.cloudops.mozgcp.net #Firefox updates
 public-api.wordpress.com #WordPress API
 pushbullet.com
