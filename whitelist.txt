@@ -26,6 +26,7 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
+assets.pixel.prime.amazon.dev #Manage Amazon Prime Membership in Android App
 audio-ak-spotify-com.akamaized.net #Spotify on Nvidia Shield
 audio-fa.scdn.co #Spotify on Nvidia Shield
 audio-fa.spotify.com #Spotify audio server
@@ -200,7 +201,6 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
-prod.assets.mcxdiego.prime.amazon.dev #Manage Prime Membership on Android Amazon App
 prod.balrog.prod.cloudops.mozgcp.net #Firefox updates
 public-api.wordpress.com #WordPress API
 pushbullet.com
