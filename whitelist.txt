@@ -227,6 +227,7 @@ slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
 songbird.cardinalcommerce.com #LastPass credit card payment processing
 spclient.wg.spotify.com #Spotify login/app home tab
+s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
 spreadsheetpage.com
 sputniknews.com
