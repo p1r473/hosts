@@ -179,6 +179,7 @@ mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com
 myip.dnsomatic.com
+narvar.com #Package tracking
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
