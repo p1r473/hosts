@@ -21,6 +21,7 @@ api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
+apple.co
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
