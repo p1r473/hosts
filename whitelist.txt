@@ -53,7 +53,6 @@ cdn.ipinfo.io
 cdn.paddle.com #PocketCasts
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
-centinelapi.cardinalcommerce.com #Best Buy
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
@@ -180,7 +179,6 @@ mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com
 myip.dnsomatic.com
-narvar.com #Package tracking
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
