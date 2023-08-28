@@ -184,6 +184,7 @@ news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
 ocsp.apple.com #Apple certificate validation
+officecdn.microsoft.com #Office updates
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
