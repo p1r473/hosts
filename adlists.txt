@@ -321,7 +321,7 @@ https://raw.githubusercontent.com/monolit/fuckhosts/main/resabuse.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/rom.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/tikkok.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/wot.txt
-https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
+#https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/ksn.hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/smart-tv.hosts
 #https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/spy.hosts
