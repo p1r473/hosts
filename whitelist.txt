@@ -104,7 +104,6 @@ emkei.cz #Email spoofer
 encrypted-tbn1.gstatic.com
 epoch.com
 eventopedia.cloudapp.net
-external.xx.fbcdn.net #Facebook CDN
 facebook.com
 fb.com #Facebook
 feedly.com
