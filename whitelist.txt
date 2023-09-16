@@ -65,7 +65,6 @@ cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
-community.plex.tv #Plex Library Sharing
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
@@ -76,7 +75,6 @@ cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
-dc.glbtls.t.co
 dealer.spotify.com #Spotify on Nvidia Shield
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
@@ -125,8 +123,6 @@ go.microsoft.com
 googlehosted.l.googleusercontent.com
 googlemail.com
 goo.gl #Google URL Shortener
-gql-realtime.reddit.com #Reddit app comments
-gql.reddit.com
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
 gs-loc.apple.com
@@ -203,7 +199,6 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
-prod.balrog.prod.cloudops.mozgcp.net #Firefox updates
 public-api.wordpress.com #WordPress API
 pushbullet.com
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
@@ -232,7 +227,6 @@ spotify.app.link #Spotify URL shortener for download link
 spreadsheetpage.com
 sputniknews.com
 s.ss2.us #ceriticate verification
-stackpath.bootstrapcdn.com #Address Validator from Roboturk
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics.teams.cdn.office.net #MS Teams
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
