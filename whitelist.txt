@@ -3,6 +3,7 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 aa.google.com
+aax-us-iad.amazon.com #Amazon Sponsored product
 ab40.mktossl.com #CNAME for info.expel.io
 aboutmyip.com
 accounts.adafruit.com
