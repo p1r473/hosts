@@ -194,6 +194,7 @@ pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com
 pingdom.com
+platform.linkedin.com #LinkedIn
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
