@@ -194,7 +194,6 @@ pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com
 pingdom.com
-platform.linkedin.com #LinkedIn
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
@@ -302,6 +301,7 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
+www-linkedin-com.l-0005.l-msedge.net #CName for linkedin.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
