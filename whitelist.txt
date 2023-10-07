@@ -30,6 +30,7 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
+assistant.google.com
 audio-ak-spotify-com.akamaized.net #Spotify on Nvidia Shield
 audio-fa.scdn.co #Spotify on Nvidia Shield
 audio-fa.spotify.com #Spotify audio server
