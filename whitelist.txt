@@ -150,7 +150,6 @@ ipv4.am.i.mullvad.net
 ipv4.jsonip.com
 ipv6.jsonip.com
 itch.io
-i.ytimg.com  #YouTube thumbails
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
