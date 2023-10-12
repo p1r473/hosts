@@ -55,6 +55,7 @@ cdn.ipinfo.io
 cdn.paddle.com #PocketCasts
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
+cerberusapp.com #Cerberus
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
