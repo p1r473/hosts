@@ -234,7 +234,6 @@ https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/r
 https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/scam.txt
 https://raw.githubusercontent.com/HenningVanRaumle/HHadlist/main/hhadlist
 https://raw.githubusercontent.com/herndlm/hosts_merge/master/hosts_blacklist.txt
-https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
