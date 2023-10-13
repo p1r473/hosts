@@ -288,7 +288,7 @@ winaero.com
 www.adafruit.com
 www.bit.ly
 www.bitly.com #URL Shortener
-www.cerberusapp.com
+www.cerberusapp.com #Cerberus
 www.coingeek.com
 www.coinmarketcap.com
 www.duckdns.org
