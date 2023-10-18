@@ -237,11 +237,13 @@ statics.teams.cdn.office.net #MS Teams
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
 storeedgefd.dsx.mp.microsoft.com #Microsoft store
+store-images.microsoft.com #Microsoft Store Images
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
 stun3.l.google.com #Google get Public IP
 stun4.l.google.com #Google get Public IP
 stun.l.google.com #Google get Public IP
+succeedscene.com #Admiral anti-ad blocking
 supl.google.com
 support.kaspersky.com
 support.microsoft.com
@@ -317,6 +319,7 @@ www.techtarget.com
 www.worldometers.info
 www.youtube-nocookie.com
 www.zerohedge.com
+xda-developers.com
 xhamster.com
 yt3.ggpht.com #YouTube Music API
 zombo.com
