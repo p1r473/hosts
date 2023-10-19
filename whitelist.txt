@@ -55,6 +55,7 @@ cdn.ipinfo.io
 cdn.paddle.com #PocketCasts
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
+cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
@@ -109,6 +110,7 @@ eventopedia.cloudapp.net
 facebook.com
 fb.com #Facebook
 feedly.com
+fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
@@ -152,7 +154,6 @@ ipv4.am.i.mullvad.net
 ipv4.jsonip.com
 ipv6.jsonip.com
 itch.io
-js.chargebee.com
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
