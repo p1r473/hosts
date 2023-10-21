@@ -22,7 +22,6 @@ api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-apple.co
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -86,8 +85,6 @@ device-api.urbanairship.com #Google News "more stories" thumbnails
 device.auth.xboxlive.com
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
-dns.google
-dns.google.com
 dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
@@ -132,7 +129,6 @@ googlemail.com
 goo.gl #Google URL Shortener
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
-gs-loc.apple.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
@@ -185,7 +181,6 @@ nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
-ocsp.apple.com #Apple certificate validation
 officecdn.microsoft.com #Office updates
 onedrive.live.com
 open.spotify.com #Spotify web player
@@ -309,7 +304,6 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.jotform.com
-www-linkedin-com.l-0005.l-msedge.net #CName for linkedin.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
