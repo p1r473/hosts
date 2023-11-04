@@ -21,6 +21,7 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
+app.box.com #box.com web app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 app.statuscake.com
 ap.spotify.com #Spotify
