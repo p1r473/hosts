@@ -1,4 +1,3 @@
-
 #activate.adobe.com #Photoshop Activation server
 #activation.acronis.com #Acronis Licensing server
 #activation.cyberlink.com #PowerDVD Licensing server
