@@ -1,3 +1,4 @@
+
 #activate.adobe.com #Photoshop Activation server
 #activation.acronis.com #Acronis Licensing server
 #activation.cyberlink.com #PowerDVD Licensing server
@@ -8,4 +9,6 @@ chat.grindr.com #Grindr
 grindr.mobi #Grindr
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
+pingplotter.com #PingPlotter Serial
 #practivate.adobe.com #Photoshop Licensing server
+www.pingplotter.com #PingPlotter serial

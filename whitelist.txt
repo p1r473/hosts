@@ -261,6 +261,7 @@ t.me #Telegram URL shortener
 tmx.td.com #MBNA app
 tools.google.com
 track.aliexpress.com #AliExpress order tracking
+tracker.bittor.pw #Torrent tracker
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
 translate.google.com
