@@ -1,13 +1,13 @@
-127.0.0.1 activate.adobe.com #Photoshop Activation server
-127.0.0.1 activation.acronis.com #Acronis Licensing server
-127.0.0.1 activation.cyberlink.com #PowerDVD Licensing server
-127.0.0.1 aliyun.com #Chinese time server used by Hue
-127.0.0.1 cap.cyberlink.com #PowerDVD Licensing server
-127.0.0.1 cdns.grindr.com #Grindr
-127.0.0.1 chat.grindr.com #Grindr
-127.0.0.1 grindr.mobi #Grindr
-127.0.0.1 lm.licenses.adobe.com #Photoshop Licensing server
-127.0.0.1 lmlicenses.wip4.adobe.com #Photoshop Licensing server
-127.0.0.1 pingplotter.com #PingPlotter Serial
-127.0.0.1 practivate.adobe.com #Photoshop Licensing server
-127.0.0.1 www.pingplotter.com #PingPlotter serial
+127.0.0.1 activate.adobe.com
+127.0.0.1 activation.acronis.com
+127.0.0.1 activation.cyberlink.com
+127.0.0.1 aliyun.com
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 cdns.grindr.com
+127.0.0.1 chat.grindr.com
+127.0.0.1 grindr.mobi
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 pingplotter.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 www.pingplotter.com
