@@ -11,4 +11,5 @@ grindr.mobi #Grindr
 pingplotter.com #PingPlotter Serial
 #practivate.adobe.com #Photoshop Licensing server
 usea1-017.sentinelone.net #SentinelOne
+usea1-pax8.sentinelone.net
 www.pingplotter.com #PingPlotter serial
