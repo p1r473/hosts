@@ -1,6 +1,6 @@
-0.0.0.0 0.0.0.0 aliyun.com #Chinese time server used by Hue
-0.0.0.0 0.0.0.0 cdns.grindr.com #Grindr
-0.0.0.0 0.0.0.0 chat.grindr.com #Grindr
-0.0.0.0 0.0.0.0 grindr.mobi #Grindr
-0.0.0.0 0.0.0.0 pingplotter.com #PingPlotter Serial
-0.0.0.0 0.0.0.0 www.pingplotter.com #PingPlotter serial
+0.0.0.0 0.0.0.0 0.0.0.0 aliyun.com #Chinese time server used by Hue
+0.0.0.0 0.0.0.0 0.0.0.0 cdns.grindr.com #Grindr
+0.0.0.0 0.0.0.0 0.0.0.0 chat.grindr.com #Grindr
+0.0.0.0 0.0.0.0 0.0.0.0 grindr.mobi #Grindr
+0.0.0.0 0.0.0.0 0.0.0.0 pingplotter.com #PingPlotter Serial
+0.0.0.0 0.0.0.0 0.0.0.0 www.pingplotter.com #PingPlotter serial
