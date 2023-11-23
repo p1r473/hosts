@@ -21,6 +21,7 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.linkr.bio
 apis.google.com
+api.sonelli.com #JuiceSSH Cloud Syncing
 app.box.com #box.com web app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 app.statuscake.com
@@ -207,6 +208,7 @@ public-api.wordpress.com #WordPress API
 pushbullet.com
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
+rbc.com
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
