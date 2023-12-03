@@ -79,7 +79,6 @@ d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify on Nvidia Shield
-developers.google.com
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 device.auth.xboxlive.com
