@@ -147,6 +147,7 @@ ip-tracker.org
 ipv4.am.i.mullvad.net
 ipv4.jsonip.com
 ipv6.jsonip.com
+isobuster.com
 itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
@@ -304,6 +305,7 @@ www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
+www.isobuster.com
 www.jotform.com
 www.msftconnecttest.com
 www.msn.com
