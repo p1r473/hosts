@@ -19,7 +19,6 @@ android.clients.google.com
 answers.microsoft.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
-api.linkr.bio
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
 app.box.com #box.com web app
@@ -110,7 +109,6 @@ firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
-form.typeform.com
 forum.kaspersky.com
 freegeoip.app #Public IP
 gab.com
@@ -263,6 +261,7 @@ tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+tracking.narvar.com #BestBuy shipping tracking
 translate.google.com
 trib.al #URL Shortener
 trk.klclick1.com #Email unsubscribe
@@ -305,7 +304,6 @@ www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
-www.isobuster.com
 www.jotform.com
 www.msftconnecttest.com
 www.msn.com
