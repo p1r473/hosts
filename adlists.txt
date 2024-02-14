@@ -39,8 +39,6 @@ http://sbc.io/hosts/hosts
 https://big.oisd.nl/
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
-https://dblmobile.oisd.nl/
-https://dbl.oisd.nl
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://getadhell.com/standard-package.txt
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
@@ -87,7 +85,6 @@ https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 https://hostfiles.frogeye.fr/multiparty-trackers.txt
 https://hostsfile.mine.nu/hosts0.txt
 https://hostsfile.org/Downloads/hosts.txt
-https://hostsmobile.oisd.nl
 https://hosts.ubuntu101.co.za/domains.list
 https://logroid.github.io/adaway-hosts/hosts.txt
 https://malwaredomains.usu.edu/domains.hosts
@@ -99,8 +96,6 @@ https://o0.pages.dev/mini/domains.txt
 https://o0.pages.dev/Pro/domains.txt
 #https://o0.pages.dev/Xtra/domains.txt
 http://someonewhocares.org/hosts/zero/hosts
-https://orca.pet/notonmyshift/domains.txt
-https://orca.pet/notonmyshift/hosts.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -125,7 +120,6 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_n
 https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
 https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
@@ -381,11 +375,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
-https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
-https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
-https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
-https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
-https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
