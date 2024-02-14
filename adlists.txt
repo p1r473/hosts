@@ -420,6 +420,7 @@ https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
 https://raw.githubusercontent.com/UnbendableStraw/samsungnosnooping/master/Samsungnosnooping.txt
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
+https://raw.githubusercontent.com/Veticia/antipopads/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt
@@ -427,8 +428,6 @@ https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/master/SpotifyBlocklist.t
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist_HOSTS.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
-https://raw.githubusercontent.com/yhonay/antipopads/master/hosts
-https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
 https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list
