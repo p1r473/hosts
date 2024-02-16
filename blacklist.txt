@@ -8,8 +8,6 @@ chat.grindr.com #Grindr
 grindr.mobi #Grindr
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
-pingplotter.com #PingPlotter Serial
 #practivate.adobe.com #Photoshop Licensing server
-usea1-017.sentinelone.net #SentinelOne
-usea1-pax8.sentinelone.net
-www.pingplotter.com #PingPlotter serial
+pingplotter.com #PingPlotter
+www.pingplotter.com #PingPlotter
