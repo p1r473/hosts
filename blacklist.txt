@@ -8,6 +8,6 @@ chat.grindr.com #Grindr
 grindr.mobi #Grindr
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
-#practivate.adobe.com #Photoshop Licensing server
 pingplotter.com #PingPlotter
+#practivate.adobe.com #Photoshop Licensing server
 www.pingplotter.com #PingPlotter
