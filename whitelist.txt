@@ -281,7 +281,7 @@ web.facebook.com
 weworkremotely.com
 whatismyipaddress.com
 whatismyip.com
-whirlwindengine.firebaseio.com
+whirlwindengine.firebaseio.com #SignalRGB
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
@@ -313,6 +313,7 @@ www.sickrage.ca
 www.spotify.com #Spotify
 www.spreadsheetpage.com
 www.techtarget.com
+www.tgtube.com #XXX site
 www.xnxx.com #XXX
 www.xvideos.com #XXX
 www.youtube-nocookie.com
