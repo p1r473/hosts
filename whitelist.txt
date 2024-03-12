@@ -292,6 +292,7 @@ www.bitly.com #URL Shortener
 www.cerberusapp.com #Cerberus
 www.coingeek.com
 www.coinmarketcap.com
+www-dailymail-co-uk.cdn.ampproject.org #Daily Mail news on Google AMP
 www.duckdns.org
 www.ebates.com
 www.ecdinterface.philips.com #Control Hue from internet
