@@ -184,7 +184,6 @@ open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
 outlook-1.cdn.office.net
 outlook.office365.com
-paste.c-net.org
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
@@ -224,8 +223,6 @@ s.marketwatch.com #MarketWatch images
 spclient.wg.spotify.com #Spotify login/app home tab
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
-spreadsheetpage.com
-s.ss2.us #ceriticate verification
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics.teams.cdn.office.net #MS Teams
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
@@ -242,7 +239,6 @@ succeedscene.com #Admiral anti-ad blocking
 supl.google.com
 support.kaspersky.com
 support.microsoft.com
-sv.symcb.com #Absolute Software CRL Distribution Point
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
@@ -278,7 +274,6 @@ utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
-weworkremotely.com
 whatismyipaddress.com
 whatismyip.com
 whoami.akamai.net
@@ -303,14 +298,12 @@ www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
-www.jotform.com
 www.msftconnecttest.com
 www.msn.com
 www.pastie.org
 www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
-www.spreadsheetpage.com
 www.techtarget.com
 www.xnxx.com #XXX
 www.xvideos.com #XXX
