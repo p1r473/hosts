@@ -276,6 +276,7 @@ web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
 whatismyip.com
+whirlwindengine.firebaseio.com #SignalRGB
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
@@ -286,6 +287,7 @@ www.bitly.com #URL Shortener
 www.cerberusapp.com #Cerberus
 www.coingeek.com
 www.coinmarketcap.com
+www-dailymail-co-uk.cdn.ampproject.org #Daily Mail news on Google AMP
 www.duckdns.org
 www.ebates.com
 www.ecdinterface.philips.com #Control Hue from internet
@@ -305,6 +307,7 @@ www.pornhub.com
 www.sickrage.ca
 www.spotify.com #Spotify
 www.techtarget.com
+www.tgtube.com #XXX site
 www.xnxx.com #XXX
 www.xvideos.com #XXX
 www.youtube-nocookie.com
