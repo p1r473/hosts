@@ -51,7 +51,6 @@ cacerts.thawte.com #Absolute Software Authority Info Access Certification Author
 ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.ipinfo.io
-cdn.paddle.com #PocketCasts
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
 cdn.syndication.twimg.com #Embedded Twitter images
