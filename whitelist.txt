@@ -238,6 +238,7 @@ succeedscene.com #Admiral anti-ad blocking
 supl.google.com
 support.kaspersky.com
 support.microsoft.com
+supportportal.crowdstrike.com
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
