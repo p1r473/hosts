@@ -230,7 +230,6 @@ statuscake.com
 storeedgefd.dsx.mp.microsoft.com #Microsoft store
 store-images.microsoft.com #Microsoft Store Images
 store-images.s-microsoft.com
-store.isaca.org
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
 stun3.l.google.com #Google get Public IP
@@ -240,7 +239,6 @@ succeedscene.com #Admiral anti-ad blocking
 supl.google.com
 support.kaspersky.com
 support.microsoft.com
-supportportal.crowdstrike.com
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
@@ -278,7 +276,6 @@ web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
 whatismyip.com
-whirlwindengine.firebaseio.com #SignalRGB
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
