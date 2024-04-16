@@ -50,6 +50,7 @@ buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.cookielaw.org #HomeDepot site
 cdn.ipinfo.io
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
