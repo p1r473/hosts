@@ -63,10 +63,12 @@ chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com
 clients6.google.com
+client.wns.windows.com #Windows WNS push notification
 cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
+config.teams.microsoft.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
