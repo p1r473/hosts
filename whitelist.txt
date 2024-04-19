@@ -95,6 +95,7 @@ ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
+edge.microsoft.com
 edge-mqtt.facebook.com
 emailmeter.com
 emailtracker.website #Email tracker Chrome extension
