@@ -364,12 +364,12 @@ https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Pro
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
-#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting2
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting3
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting4
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
-#https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
@@ -443,7 +443,7 @@ https://v.firebog.net/hosts/neohostsbasic.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/Prigent-Crypto.txt
 https://v.firebog.net/hosts/Prigent-Malware.txt
-#https://v.firebog.net/hosts/RPiList-Malware.txt
+https://v.firebog.net/hosts/RPiList-Malware.txt
 https://v.firebog.net/hosts/RPiList-Phishing.txt
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://warui.intaa.net/adhosts/hosts.txt

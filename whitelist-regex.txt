@@ -2,6 +2,7 @@
 (^|.*\.)abg-analytics\.com$ #Nonmalicious site that has analytics in the name
 (^|.*\.)api\.p001\.1drv\.com$ #skyapi.onedrive.live.com break OneDrive
 (^|.*\.)archive.org #Download server for archive.org
+*.chatgpt.com
 (^|.*\.)cloudfront\.net$ #Amazon service, sometimes does serve ads
 (^|.*\.)googleapis.com$
 ^guce\.(.*)\.com$ #breaks all sites owned by Verizon Media , StevenBlack/hosts#1370 + lightswitch05/hosts#188 
