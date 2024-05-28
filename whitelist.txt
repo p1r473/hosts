@@ -80,6 +80,7 @@ d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify on Nvidia Shield
+delivr.com #QR code URL shortener service
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 device.auth.xboxlive.com
@@ -201,6 +202,7 @@ portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
 public-api.wordpress.com #WordPress API
 pushbullet.com
+qrco.de #QR code URL shortener service
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
 rbc.com
