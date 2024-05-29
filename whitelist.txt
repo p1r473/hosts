@@ -238,6 +238,7 @@ statuscake.com
 storeedgefd.dsx.mp.microsoft.com #Microsoft store
 store-images.microsoft.com #Microsoft Store Images
 store-images.s-microsoft.com
+stream-windows.pushbullet.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
 stun3.l.google.com #Google get Public IP

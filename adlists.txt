@@ -138,7 +138,7 @@ https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/mobile%20domains.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
+#https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 #https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Android/androidblocklist.txt
