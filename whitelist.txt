@@ -17,6 +17,7 @@ alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 answers.microsoft.com
+api2.pushbullet.com #Pushbullet API
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
@@ -63,6 +64,7 @@ chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
 clients1.google.com
 clients6.google.com
+clients.l.google.com
 client.wns.windows.com #Windows WNS push notification
 cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
@@ -106,6 +108,7 @@ epoch.com
 eventopedia.cloudapp.net
 facebook.com
 fb.com #Facebook
+fe3.delivery.mp.microsoft.com #Windows updates
 feedly.com
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
