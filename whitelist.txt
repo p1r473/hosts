@@ -2,37 +2,28 @@
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
-#aa.google.com
 aa.google.com
 aax-us-iad.amazon.com #Amazon Sponsored product
 ab40.mktossl.com #CNAME for info.expel.io
-#aboutmyip.com
 aboutmyip.com
-#accounts.adafruit.com
 accounts.adafruit.com
 accounts.snap.com #Snapchat account management
 accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
-#adafruit.com
 adafruit.com
 ae01.alicdn.com #AliExpress
-#aliexpress.com
 aliexpress.com
-#alive.github.com
 alive.github.com
 amzn.to #Amazon URL shortener
-#android.clients.google.com
 android.clients.google.com
-#answers.microsoft.com
 answers.microsoft.com
+api2.pushbullet.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
-#apis.google.com
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
 app.box.com #box.com web app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
-#app.statuscake.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
@@ -40,63 +31,46 @@ asia.pool.ntp.org #NTPServer
 assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
-#assistant.google.com
 assistant.google.com
 audio-ak-spotify-com.akamaized.net #Spotify on Nvidia Shield
 audio-fa.scdn.co #Spotify on Nvidia Shield
 audio-fa.spotify.com #Spotify audio server
 auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
-#battle.net
 battle.net
 beacons.ai #Social media link sharing biography site
-#beacons.gcp.gvt2.com
 beacons.gcp.gvt2.com
-#bestbuy.ca
 bestbuy.ca
-#b-graph.facebook.com #Logging into Facebook Messenger on mobile
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bitly.com #URL Shortener
 bit.ly #URL Shortener
 bnc.lt #URL Shortener
-#bountysource.com
 bountysource.com
 buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
-#ccbill.com
 ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.cookielaw.org #HomeDepot site
-#cdn.ipinfo.io
 cdn.ipinfo.io
-#cdn-shop.adafruit.com #Adafruit CDN
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.shoplightspeed.com #Online shopping
 cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
-#chrome.cloudflare-dns.com
 chrome.cloudflare-dns.com
-#chromesyncpasswords-pa.googleapis.com
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
-#clients1.google.com
 clients1.google.com
-#clients6.google.com
 clients6.google.com
+clients.l.google.com
 client.wns.windows.com #Windows WNS push notification
 cn-geo1.uber.com #Uber/Uber Eats
-#coingeek.com
 coingeek.com
-#coinmarketcap.com
 coinmarketcap.com
-#community.kaspersky.com
 community.kaspersky.com
-#config.teams.microsoft.com
 config.teams.microsoft.com
-#content-autofill.googleapis.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
@@ -105,221 +79,145 @@ csp.withgoogle.com #Content Security Policy is designed to make applications mor
 ctt.ac #Click To Tweet
 cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
-#d3tracking.rbc.com #RBC 2FA
 d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify on Nvidia Shield
 delivr.com #QR code URL shortener service
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
-#device.auth.xboxlive.com
 device.auth.xboxlive.com
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
-#dns.msftncsi.com
 dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
-#dts.podtrac.com
 dts.podtrac.com
-#duckdns.org
 duckdns.org
-#dynip.org
 dynip.org
 e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
-#ebates.com
 ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
-#edge.microsoft.com
 edge.microsoft.com
-#edge-mqtt.facebook.com
 edge-mqtt.facebook.com
-#emailmeter.com
 emailmeter.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 emkei.cz #Email spoofer
-#epoch.com
 epoch.com
-#eventopedia.cloudapp.net
 eventopedia.cloudapp.net
-#facebook.com
 facebook.com
 fb.com #Facebook
-#feedly.com
+fe3.delivery.mp.microsoft.com
 feedly.com
 fidm.us1.gigya.com #Voila login
-#firebaseinstallations.googleapis.com
 firebaseinstallations.googleapis.com
-#firebaseremoteconfig.googleapis.com
 firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
-#forum.kaspersky.com
 forum.kaspersky.com
 freegeoip.app #Public IP
-#gab.com
 gab.com
-#gamecopyworld.com
 gamecopyworld.com
-#geo3.ggpht.com
 geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
-#getsatisfaction.com
 getsatisfaction.com
-#gleam.io
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
-#go.microsoft.com
 go.microsoft.com
-#googlehosted.l.googleusercontent.com
 googlehosted.l.googleusercontent.com
-#googlemail.com
 googlemail.com
 goo.gl #Google URL Shortener
-#graph.facebook.com #Viewing own Facebook wall
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
-#gstatic.com
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
-#history.google.com
 history.google.com
 i9.ytimg.com #Youtube thumbnails
-#icanhazip.com
 icanhazip.com
 ifconfig.co #Public IP lookup
-#images.ccbill.com
 images.ccbill.com
 img.ifunny.co #Funny image hosting
-#imgur.com
 imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
-#ip2location.com
 ip2location.com
 ip4.seeip.org #See IP Address
-#ipchicken.com
 ipchicken.com
 ipecho.net #Network Monitor II
-#ipinfo.io
 ipinfo.io
-#ip-tracker.org
 ip-tracker.org
-#ipv4.am.i.mullvad.net
 ipv4.am.i.mullvad.net
-#ipv4.jsonip.com
 ipv4.jsonip.com
-#ipv6.jsonip.com
 ipv6.jsonip.com
-#isobuster.com
 isobuster.com
-#itch.io
 itch.io
-#js.gleam.io #GleamJavascript
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
-#jsonip.com
 jsonip.com
-#kotaku.com
 kotaku.com
-#learn.adafruit.com
 learn.adafruit.com
-#l.facebook.com
 l.facebook.com
-#licensing.mp.microsoft.com
 licensing.mp.microsoft.com
-#linkedin.com
 linkedin.com
 link.indiegogo.com #Indiegogo links
-#linkr.bio
 linkr.bio
 linktr.ee #Linktree
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
-#lm.facebook.com #Facebook links
 lm.facebook.com #Facebook links
-#login.live.com
 login.live.com
-#login.mailchimp.com
 login.mailchimp.com
-#login.microsoftonline.com
 login.microsoftonline.com
-#login.windows.net
 login.windows.net
-#mailchi.mp
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
-#mandrillapp.com
 mandrillapp.com
-#mapi.speedtest.net
 mapi.speedtest.net
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
-#mozilla.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
-#mtalk.google.com
 mtalk.google.com
-#myip.dnsomatic.com
 myip.dnsomatic.com
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
-#news.bitcoin.com
 news.bitcoin.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
 officecdn.microsoft.com #Office updates
-#onedrive.live.com
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
-#outlook-1.cdn.office.net
 outlook-1.cdn.office.net
-#outlook.office365.com
 outlook.office365.com
-#pastie.org
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
-#people-pa.googleapis.com
 people-pa.googleapis.com
-#peoplestackwebexperiments-pa.clients6.google.com
 peoplestackwebexperiments-pa.clients6.google.com
-#pingdom.com
 pingdom.com
-#platform.twitter.com
 platform.twitter.com
 players.brightcove.net #NewYorkPost/CityNews1130 embedded videos
 play.spotify.com #Spotify web player
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
-#pornhub.com
 pornhub.com
-#portableappz.blogspot.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
 public-api.wordpress.com #WordPress API
-#pushbullet.com
 pushbullet.com
 qrco.de #QR code URL shortener service
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
-#rawgit.com
 rawgit.com
-#rbc.com
 rbc.com
-#reddit.app.link
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
-#reminders-pa.googleapis.com
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
-#rutracker.org
 rutracker.org
 s7d2.scene7.com #ae.com
-#safebrowsing.google.com
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
 sb-ssl.google.com #Google Safe Browsing
@@ -327,7 +225,6 @@ scoreland.com #XXX
 sdk.split.io #MBNA mobile app
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
-#sickrage.ca
 sickrage.ca
 slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
@@ -337,52 +234,38 @@ spotify.app.link #Spotify URL shortener for download link
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics.teams.cdn.office.net #MS Teams
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
-#statuscake.com
 statuscake.com
 storeedgefd.dsx.mp.microsoft.com #Microsoft store
 store-images.microsoft.com #Microsoft Store Images
-#store-images.s-microsoft.com
 store-images.s-microsoft.com
+stream-windows.pushbullet.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
 stun3.l.google.com #Google get Public IP
 stun4.l.google.com #Google get Public IP
 stun.l.google.com #Google get Public IP
 succeedscene.com #Admiral anti-ad blocking
-#supl.google.com
 supl.google.com
-#support.kaspersky.com
 support.kaspersky.com
-#support.microsoft.com
 support.microsoft.com
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
 t.co #Twitter URL Shortener
-#techtarget.com
 techtarget.com
-#telephonyspamprotect-pa.googleapis.com
 telephonyspamprotect-pa.googleapis.com
-#thepiratebay.org
 thepiratebay.org
-#thumbor.forbes.com
 thumbor.forbes.com
-#time.windows.com
 time.windows.com
 tiny.one #URL Shortener
-#tinyurl.com
 tinyurl.com
 t.me #Telegram URL shortener
 tmx.td.com #MBNA app
-#tools.google.com
 tools.google.com
-#track.aliexpress.com #AliExpress order tracking
 track.aliexpress.com #AliExpress order tracking
 tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
-#tracker.opentrackr.org
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
-#translate.google.com
 translate.google.com
 trib.al #URL Shortener
 trk.klclick1.com #Email unsubscribe
@@ -390,84 +273,53 @@ trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
 tv.scdn.co #Spotify on Nvidia Shield
-#uptime.com
 uptime.com
-#uptimerobot.com
 uptimerobot.com
-#usa.kaspersky.com
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
-#userlocation.googleapis.com
 userlocation.googleapis.com
 utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
 wankzvr.com #XXX
 web-api-tih.acronis.com #Acronis activation
-#web.facebook.com
 web.facebook.com
-#whatismyipaddress.com
 whatismyipaddress.com
-#whatismyip.com
 whatismyip.com
-#whoami.akamai.net
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
 www2.leapmotion.com #Leap Motion Controller
-#www.adafruit.com
 www.adafruit.com
-#www.bit.ly
 www.bit.ly
 www.bitly.com #URL Shortener
 www.cerberusapp.com #Cerberus
-#www.coingeek.com
 www.coingeek.com
-#www.coinmarketcap.com
 www.coinmarketcap.com
-#www.duckdns.org
 www.duckdns.org
-#www.ebates.com
 www.ebates.com
 www.ecdinterface.philips.com #Control Hue from internet
-#www.e-junkie.com
 www.e-junkie.com
-#www.gamecopyworld.com
 www.gamecopyworld.com
-#www.goodreads.com
 www.goodreads.com
-#www.googleadservices.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
-#www.gstatic.com
 www.gstatic.com
-#www.ip2location.com
 www.ip2location.com
-#www.ipinfo.io
 www.ipinfo.io
-#www.ip-tracker.org
 www.ip-tracker.org
-#www.msftconnecttest.com
 www.msftconnecttest.com
-#www.msn.com
 www.msn.com
-#www.pastie.org
 www.pastie.org
-#www.pornhub.com
 www.pornhub.com
-#www.sickrage.ca
 www.sickrage.ca
 www.spotify.com #Spotify
-#www.techtarget.com
 www.techtarget.com
 www.tgtube.com #XXX site
 www.xnxx.com #XXX
 www.xvideos.com #XXX
-#www.youtube-nocookie.com
 www.youtube-nocookie.com
-#xhamster.com
 xhamster.com
 xvideos.com #XXX
 yt3.ggpht.com #YouTube Music API
-#zombo.com
 zombo.com
