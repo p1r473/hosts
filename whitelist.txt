@@ -91,6 +91,7 @@ dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
 dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
+drive-thirdparty.googleusercontent.com
 dts.podtrac.com
 duckdns.org
 dynip.org
@@ -223,6 +224,7 @@ safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
 sb-ssl.google.com #Google Safe Browsing
 scoreland.com #XXX
+script.google.com
 sdk.split.io #MBNA mobile app
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
