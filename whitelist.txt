@@ -305,6 +305,7 @@ www.gamecopyworld.com
 www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
+www.greenhouse.io
 www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
