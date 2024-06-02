@@ -164,6 +164,7 @@ livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 lm.facebook.com #Facebook links
 login.mailchimp.com
 login.windows.net
+mail-attachment.googleusercontent.com
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
