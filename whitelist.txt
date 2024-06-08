@@ -131,7 +131,6 @@ graph.microsoft.com #SharePoint file browser
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
-hdtv33500.cdngold.me #IPTV Anubis
 history.google.com
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
