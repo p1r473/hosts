@@ -231,6 +231,7 @@ static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
 store-images.s-microsoft.com
+store.isaca.org
 stream-windows.pushbullet.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
