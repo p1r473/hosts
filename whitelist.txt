@@ -122,6 +122,7 @@ getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
 ghs.google.com #Google hosting
+ghs.googlehosted.com #Google hosting
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 googlehosted.l.googleusercontent.com
