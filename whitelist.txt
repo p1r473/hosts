@@ -16,6 +16,7 @@ aliexpress.com
 alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
+angryip.org
 api2.pushbullet.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
