@@ -180,6 +180,7 @@ mtalk.google.com
 myip.dnsomatic.com
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
+nordvpn.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
 onedrive.live.com
