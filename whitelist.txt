@@ -137,7 +137,6 @@ guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.1
 history.google.com
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
-iconarchive.com
 ifconfig.co #Public IP lookup
 images.ccbill.com
 img.ifunny.co #Funny image hosting
