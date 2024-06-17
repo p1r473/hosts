@@ -244,6 +244,7 @@ stun4.l.google.com #Google get Public IP
 stun.l.google.com #Google get Public IP
 succeedscene.com #Admiral anti-ad blocking
 supl.google.com
+support.eufy.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
