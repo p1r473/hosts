@@ -22,6 +22,7 @@ api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
+app2.greenhouse.io
 app.box.com #box.com web app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 app.statuscake.com
