@@ -180,6 +180,7 @@ mozilla.cloudflare-dns.com
 msh.amazon.com #Amazon thumbnails
 mtalk.google.com
 myip.dnsomatic.com
+my.plexapp.com #Plex
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
 nordvpn.com
