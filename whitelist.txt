@@ -144,6 +144,7 @@ imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ip4.seeip.org #See IP Address
+ip-api.com
 ipchicken.com
 ipecho.net #Network Monitor II
 ipinfo.io
