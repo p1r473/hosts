@@ -84,6 +84,7 @@ d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify on Nvidia Shield
 delivr.com #QR code URL shortener service
+detectportal.firefox.com
 developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
