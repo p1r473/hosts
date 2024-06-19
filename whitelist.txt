@@ -280,6 +280,7 @@ tv.scdn.co #Spotify on Nvidia Shield
 uptime.com
 uptimerobot.com
 urlscan.io
+usa590.sfdc-lywfpd.salesforce.com #CName secondcityca.my.salesforce-sites.com
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
