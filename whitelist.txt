@@ -277,6 +277,7 @@ trk.klclick.com #Email unsubscribe
 tv.scdn.co #Spotify on Nvidia Shield
 uptime.com
 uptimerobot.com
+urlscan.io
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
