@@ -218,6 +218,7 @@ redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
 reship.com
+rog.asus.com
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rumble.com #Video streaming
