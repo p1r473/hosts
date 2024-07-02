@@ -279,6 +279,7 @@ trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
 tv.scdn.co #Spotify on Nvidia Shield
 update.pushbullet.com
+update.utorrent.li
 uptime.com
 uptimerobot.com
 urlscan.io
