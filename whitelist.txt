@@ -227,6 +227,7 @@ s7d2.scene7.com #ae.com
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
 sb-ssl.google.com #Google Safe Browsing
+scone-pa.clients6.google.com
 scoreland.com #XXX
 script.google.com
 sdk.split.io #MBNA mobile app
