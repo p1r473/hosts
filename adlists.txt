@@ -13,6 +13,7 @@ https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://getadhell.com/standard-package.txt
+https://get.domainsblacklists.com/blacklist.txt
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
@@ -37,6 +38,7 @@ https://github.com/What-Zit-Tooya/Ad-Block/blob/main/Main-Blocklist/Ad-Block-HOS
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
+https://gitlab.com/Natizyskunk/pi-hole-lists/raw/master/blocklists/personal_mega_blocklist/hosts.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -184,6 +186,8 @@ https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/xiaomi-ad
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.mini.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
 https://raw.githubusercontent.com/Hariharann8175/Indicators-of-Compromise-IOC-/master/COVID%20-%2019%20Malicious%20Domains
 https://raw.githubusercontent.com/Hariharann8175/Indicators-of-Compromise-IOC-/master/DNS-BH%20Malware%20Domains%20List
 https://raw.githubusercontent.com/Hariharann8175/Indicators-of-Compromise-IOC-/master/Malware%20Domain%20List
@@ -306,6 +310,7 @@ https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/popup/commo
 https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts
 https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+https://raw.githubusercontent.com/NN33NN/SwedenHost/master/hosts
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 #https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
@@ -336,6 +341,7 @@ https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHostsCB/etc/MinimalHostsBlocker/minimalhosts
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+https://raw.githubusercontent.com/Rhys-H/hosts-list/master/HostsList.txt
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting1
