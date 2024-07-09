@@ -238,6 +238,7 @@ s.marketwatch.com #MarketWatch images
 spclient.wg.spotify.com #Spotify login/app home tab
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
+static.hamrick.com #Statis images on hamrick.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
