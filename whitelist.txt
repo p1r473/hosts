@@ -14,6 +14,7 @@ adafruit.com
 ae01.alicdn.com #AliExpress
 aliexpress.com
 alive.github.com
+amazon.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 angryip.org
