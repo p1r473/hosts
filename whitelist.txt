@@ -90,6 +90,7 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
+dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 drive-thirdparty.googleusercontent.com
 dts.podtrac.com
