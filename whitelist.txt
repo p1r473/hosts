@@ -19,6 +19,7 @@ amzn.to #Amazon URL shortener
 android.clients.google.com
 angryip.org
 api2.pushbullet.com
+api.fing.io
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
