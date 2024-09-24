@@ -228,6 +228,7 @@ rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rumble.com #Video streaming
 rutracker.org
+s-0005.s-msedge.net #CNAME for ecs.office.com
 s7d2.scene7.com #ae.com
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
@@ -249,6 +250,7 @@ statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
 store-images.s-microsoft.com
 store.isaca.org
+stream-extension.pushbullet.com
 stream-windows.pushbullet.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
