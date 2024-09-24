@@ -308,6 +308,7 @@ whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
 www2.leapmotion.com #Leap Motion Controller
+www3.l.google.com
 www.adafruit.com
 www.bit.ly
 www.bitly.com #URL Shortener
