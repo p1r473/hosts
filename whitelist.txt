@@ -108,6 +108,7 @@ emailmeter.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 emkei.cz #Email spoofer
+encrypted-tbn0.gstatic.com #Google static
 epoch.com
 eventopedia.cloudapp.net
 facebook.com
@@ -217,6 +218,7 @@ r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
 rbc.com
 reddit.app.link
+reddit.map.fastly.net #CNAME for www.reddit.com
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
