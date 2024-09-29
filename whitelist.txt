@@ -3,7 +3,6 @@
 2.android.pool.ntp.org #NTP server
 3p.ampproject.net #Google News articles
 aa.google.com
-aax-us-iad.amazon.com #Amazon Sponsored product
 ab40.mktossl.com #CNAME for info.expel.io
 aboutmyip.com
 accounts.adafruit.com
@@ -14,12 +13,10 @@ adafruit.com
 ae01.alicdn.com #AliExpress
 aliexpress.com
 alive.github.com
-amazon.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 angryip.org
 api2.pushbullet.com
-api.fing.io
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
@@ -91,7 +88,6 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
-dns.msftncsi.com
 downloads.intercomcdn.com #Website layouts that use Intercom help
 drive-thirdparty.googleusercontent.com
 dts.podtrac.com
@@ -108,7 +104,6 @@ emailmeter.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 emkei.cz #Email spoofer
-encrypted-tbn0.gstatic.com #Google static
 epoch.com
 eventopedia.cloudapp.net
 facebook.com
@@ -184,7 +179,6 @@ members.ip-api.com
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
-msh.amazon.com #Amazon thumbnails
 mtalk.google.com
 myip.dnsomatic.com
 my.plexapp.com #Plex
@@ -218,7 +212,6 @@ r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
 rbc.com
 reddit.app.link
-reddit.map.fastly.net #CNAME for www.reddit.com
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
@@ -228,7 +221,6 @@ rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rumble.com #Video streaming
 rutracker.org
-s-0005.s-msedge.net #CNAME for ecs.office.com
 s7d2.scene7.com #ae.com
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
@@ -309,7 +301,6 @@ whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
 www2.leapmotion.com #Leap Motion Controller
-www3.l.google.com
 www.adafruit.com
 www.bit.ly
 www.bitly.com #URL Shortener
@@ -342,6 +333,5 @@ www.xvideos.com #XXX
 www.youtube-nocookie.com
 xhamster.com
 xvideos.com #XXX
-youtube.com
 yt3.ggpht.com #YouTube Music API
 zombo.com
