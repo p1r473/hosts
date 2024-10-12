@@ -398,7 +398,6 @@ https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist_H
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-https://raw.githubusercontent.com/ZYX2019/host-block-list/master/Custom.txt
 https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
 https://rescure.fruxlabs.com/covid.txt
