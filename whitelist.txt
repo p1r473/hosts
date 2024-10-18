@@ -283,6 +283,7 @@ update.utorrent.li
 uptime.com
 uptimerobot.com
 urlscan.io
+urlsrt.io #URL Shortener
 usa590.sfdc-lywfpd.salesforce.com #CName secondcityca.my.salesforce-sites.com
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
