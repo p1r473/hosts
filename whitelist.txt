@@ -15,13 +15,11 @@ aliexpress.com
 alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
-angryip.org
 api2.pushbullet.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
-app2.greenhouse.io
 app.box.com #box.com web app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
 app.statuscake.com
@@ -55,7 +53,6 @@ cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.cookielaw.org #HomeDepot site
 cdn.ipinfo.io
 cdn-shop.adafruit.com #Adafruit CDN
-cdn.shoplightspeed.com #Online shopping
 cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
 checkip.amazonaws.com #AWS Getpublic IP
@@ -76,7 +73,6 @@ content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
 cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com, breaks Twitter videos
 csp.withgoogle.com #Content Security Policy is designed to make applications more secure against common web vulnerabilities, cross-site scripting
-ctt.ac #Click To Tweet
 cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
 d3tracking.rbc.com #RBC 2FA
@@ -188,7 +184,6 @@ nordvpn.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
 onedrive.live.com
-onlyfans.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
 pastie.org
@@ -204,7 +199,6 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
-proxy-ssl.webflow.com #SSL proxy illuminarium.com
 public-api.wordpress.com #WordPress API
 pushbullet.com
 qrco.de #QR code URL shortener service
@@ -219,7 +213,6 @@ res.cloudinary.com #SpringBoard images
 rog.asus.com
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
-rumble.com #Video streaming
 rutracker.org
 s7d2.scene7.com #ae.com
 safebrowsing.google.com
@@ -316,7 +309,6 @@ www.gamecopyworld.com
 www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
-www.greenhouse.io
 www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
