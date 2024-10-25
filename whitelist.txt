@@ -212,6 +212,7 @@ reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
+remote.utorrent.com
 res.cloudinary.com #SpringBoard images
 rog.asus.com
 rover.ebay.com #ebay
