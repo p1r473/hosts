@@ -279,8 +279,8 @@ https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains2.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains3.list
-https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
-https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
+#https://raw.githubusercontent.com/mkb2091/blockconvert/master/internal/blocklist.txt
+#https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/_blocklist
 https://raw.githubusercontent.com/monolit/fuckhosts/main/melcosoft.txt
 https://raw.githubusercontent.com/monolit/fuckhosts/main/old%3F/miui_zero.txt
