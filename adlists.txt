@@ -33,7 +33,6 @@ https://git.herrbischoff.com/trackers/plain/trackers.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-mini_domains.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Pro_domains.txt
-#https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt
 https://github.com/What-Zit-Tooya/Ad-Block/blob/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
@@ -41,10 +40,8 @@ https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Abuse-List.txt
-https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt
-https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Youtube-Ads-List.txt
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Raw/The_Quantum_Ad-List.txt
 https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts
 https://gitlab.com/Wiggum27/blockers/-/raw/master/host.txt
 https://gitlab.com/Wiggum27/blockers/-/raw/master/NetguardHosts
@@ -400,7 +397,6 @@ https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list
 https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
-https://rescure.fruxlabs.com/covid.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
