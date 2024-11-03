@@ -56,6 +56,7 @@ cdn.samsungcloudsolution.com #Samsung TV connectivity
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
+chatgpt.com
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
