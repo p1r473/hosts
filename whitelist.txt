@@ -52,6 +52,7 @@ ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
 cdn.cookielaw.org #HomeDepot site
 cdn.ipinfo.io
+cdn.samsungcloudsolution.com #Samsung TV connectivity
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
@@ -259,6 +260,7 @@ techtarget.com
 telephonyspamprotect-pa.googleapis.com
 thepiratebay.org
 thumbor.forbes.com
+time.samsungcloudsolution.com #Samsung TV connectivity
 tiny.one #URL Shortener
 tinyurl.com
 t.me #Telegram URL shortener
