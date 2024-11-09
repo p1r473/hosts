@@ -15,7 +15,6 @@ aliexpress.com
 alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
-api2.pushbullet.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
@@ -44,7 +43,6 @@ bitli.pro #URL Shortener
 bitly.com #URL Shortener
 bit.ly #URL Shortener
 bnc.lt #URL Shortener
-boards.greenhouse.io #Job site
 bountysource.com
 buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
@@ -67,7 +65,6 @@ clients2.google.com
 clients6.google.com
 clients.l.google.com
 client.wns.windows.com #Windows WNS push notification
-cn-geo1.uber.com #Uber/Uber Eats
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
@@ -89,7 +86,6 @@ device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
 downloads.intercomcdn.com #Website layouts that use Intercom help
-drive-thirdparty.googleusercontent.com
 dts.podtrac.com
 duckdns.org
 dynip.org
@@ -98,7 +94,6 @@ ebates.com
 ecn.dev.virtualearth.net #Public IP
 edge.api.brightcove.com #NewYorkPost/CityNews1130 embedded videos
 edgekey.net #Akamai
-edge.microsoft.com
 edge-mqtt.facebook.com
 emailmeter.com
 emailtracker.website #Email tracker Chrome extension
@@ -123,8 +118,6 @@ geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
-ghs.google.com #Google hosting
-ghs.googlehosted.com #Google hosting
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 googlehosted.l.googleusercontent.com
@@ -135,7 +128,6 @@ graph.microsoft.com #SharePoint file browser
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
-h.edge2.salesforce.com #CNAME for care.acronis.com
 history.google.com
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
@@ -171,7 +163,6 @@ livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 lm.facebook.com #Facebook links
 login.mailchimp.com
 login.windows.net
-mail-attachment.googleusercontent.com
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
@@ -215,9 +206,7 @@ reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
-remote.utorrent.com
 res.cloudinary.com #SpringBoard images
-rog.asus.com
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
@@ -226,7 +215,6 @@ safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
 sb-ssl.google.com #Google Safe Browsing
 scoreland.com #XXX
-script.google.com
 sdk.split.io #MBNA mobile app
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
@@ -236,14 +224,10 @@ s.marketwatch.com #MarketWatch images
 spclient.wg.spotify.com #Spotify login/app home tab
 s.pinimg.com #Pinterest
 spotify.app.link #Spotify URL shortener for download link
-static.hamrick.com #Statis images on hamrick.com
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
 store-images.s-microsoft.com
-store.isaca.org
-stream-extension.pushbullet.com
-stream-windows.pushbullet.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
 stun3.l.google.com #Google get Public IP
@@ -251,7 +235,6 @@ stun4.l.google.com #Google get Public IP
 stun.l.google.com #Google get Public IP
 succeedscene.com #Admiral anti-ad blocking
 supl.google.com
-support.eufy.com
 support.kaspersky.com
 syndication.twitter.com #Embedded tweets
 t0.ssl.ak.dynamic.tiles.virtualearth.net #Public IP
@@ -279,13 +262,11 @@ trk.klclick2.com #Email unsubscribe
 trk.klclick3.com #Email unsubscribe
 trk.klclick.com #Email unsubscribe
 tv.scdn.co #Spotify on Nvidia Shield
-update.pushbullet.com
 update.utorrent.li
 uptime.com
 uptimerobot.com
 urlscan.io
 urlsrt.io #URL Shortener
-usa590.sfdc-lywfpd.salesforce.com #CName secondcityca.my.salesforce-sites.com
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
@@ -298,7 +279,6 @@ web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
 whatismyip.com
-whirlwindengine.firebaseio.com
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
