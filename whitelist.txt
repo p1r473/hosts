@@ -218,6 +218,7 @@ scoreland.com #XXX
 sdk.split.io #MBNA mobile app
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
+share.hsforms.com #Hubspot Forms
 sickrage.ca
 slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
