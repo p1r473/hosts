@@ -42,6 +42,7 @@ b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bitly.com #URL Shortener
 bit.ly #URL Shortener
+blog.adafruit.com
 bnc.lt #URL Shortener
 bountysource.com
 buff.ly #URL Shortener
@@ -207,6 +208,7 @@ redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
+rgom10-asus-en.url.trendmicro.com #TrendMicro for Asus
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
