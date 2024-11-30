@@ -112,6 +112,7 @@ firebaseremoteconfig.googleapis.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
 forum.kaspersky.com
+forums.adafruit.com
 freegeoip.app #Public IP
 gab.com
 gamecopyworld.com
