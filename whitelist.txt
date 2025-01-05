@@ -73,6 +73,7 @@ content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
 cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com, breaks Twitter videos
 csp.withgoogle.com #Content Security Policy is designed to make applications more secure against common web vulnerabilities, cross-site scripting
+ctrk.klclick1.com #Email unsubscribe
 ctrk.klclick.com #Mailing liwt unsubscribe
 cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
@@ -251,6 +252,7 @@ tinyurl.com
 t.me #Telegram URL shortener
 tmx.td.com #MBNA app
 tools.google.com
+track.aftership.com
 track.aliexpress.com #AliExpress order tracking
 tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
