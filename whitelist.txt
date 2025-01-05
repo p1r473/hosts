@@ -55,7 +55,6 @@ cdn.samsungcloudsolution.com #Samsung TV connectivity
 cdn-shop.adafruit.com #Adafruit CDN
 cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
-chatgpt.com
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
 chrome.cloudflare-dns.com
@@ -175,7 +174,6 @@ mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 mtalk.google.com
 myip.dnsomatic.com
-myip.opendns.com
 my.plexapp.com #Plex
 nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 news.bitcoin.com
@@ -269,7 +267,6 @@ update.utorrent.li
 uptime.com
 uptimerobot.com
 urlscan.io
-urlsrt.io #URL Shortener
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
