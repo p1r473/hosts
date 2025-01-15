@@ -181,6 +181,7 @@ news.bitcoin.com
 nordvpn.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
+ntd-asus-2014b-en.fbs20.trendmicro.com
 onedrive.live.com
 open.spotify.com #Spotify web player
 o.ss2.us #ceriticate verification
