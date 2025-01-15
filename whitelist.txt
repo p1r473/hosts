@@ -203,11 +203,13 @@ qrco.de #QR code URL shortener service
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rawgit.com
 rbc.com
+rb.gy #URL Shortener
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
+rgom10-asus-en.url.trendmicro.com
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
