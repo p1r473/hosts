@@ -40,6 +40,7 @@ bitly.com #URL Shortener
 bit.ly #URL Shortener
 blog.adafruit.com
 bnc.lt #URL Shortener
+boards.greenhouse.io
 bountysource.com
 buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
