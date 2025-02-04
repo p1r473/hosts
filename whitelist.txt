@@ -11,6 +11,7 @@ accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
+airtable.com
 alive.github.com
 amzn.to #Amazon URL shortener
 api.getpocket.com #Pocket API
@@ -146,6 +147,7 @@ ipv4.am.i.mullvad.net
 ipv4.jsonip.com
 ipv6.jsonip.com
 isobuster.com
+itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
