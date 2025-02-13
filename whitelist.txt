@@ -108,6 +108,7 @@ feedly.com
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
+flown.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
 forum.kaspersky.com
