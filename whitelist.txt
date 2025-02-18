@@ -48,6 +48,7 @@ buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
 ccbill.com
 cdn.ampproject.org #YouTube embedded videos in the Google News app
+cdn.ap.bittorrent.com
 cdn.cookielaw.org #HomeDepot site
 cdn.ipinfo.io
 cdn.samsungcloudsolution.com #Samsung TV connectivity
@@ -127,6 +128,7 @@ googlemail.com
 goo.gl #Google URL Shortener
 graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
+graph.occulus.con #MetaQuest VR
 gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
@@ -207,6 +209,7 @@ redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
+rgom10-asus-en.url.trendmicro.com
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
