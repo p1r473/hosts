@@ -285,6 +285,7 @@ whatismyipaddress.com
 whatismyip.com
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
+winaero.com
 wmdcommander.appspot.com #Wheres My Droid Commander
 www2.leapmotion.com #Leap Motion Controller
 www.adafruit.com
