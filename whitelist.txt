@@ -43,6 +43,7 @@ bit.ly #URL Shortener
 blog.adafruit.com
 bnc.lt #URL Shortener
 boards.greenhouse.io
+bot.whatismyipaddress.com
 bountysource.com
 buff.ly #URL Shortener
 cacerts.thawte.com #Absolute Software Authority Info Access Certification Authority Issuer
@@ -136,6 +137,7 @@ history.google.com
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
 ifconfig.co #Public IP lookup
+ifconfig.me
 images.ccbill.com
 img.ifunny.co #Funny image hosting
 imgur.com
