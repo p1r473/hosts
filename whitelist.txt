@@ -15,6 +15,7 @@ ae01.alicdn.com #AliExpress
 airtable.com
 alive.github.com
 amzn.to #Amazon URL shortener
+android.chat.openai.com #ChatGPT Android
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
@@ -145,6 +146,7 @@ imgur.com
 instantmessaging-pa.googleapis.com #Google Messages for Web
 ip2location.com
 ip4.seeip.org #See IP Address
+ipapi.co
 ip-api.com
 ipchicken.com
 ipecho.net #Network Monitor II
