@@ -15,7 +15,6 @@ ae01.alicdn.com #AliExpress
 airtable.com
 alive.github.com
 amzn.to #Amazon URL shortener
-android.chat.openai.com #ChatGPT Android
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
@@ -250,7 +249,6 @@ taskassist-pa.clients6.google.com
 t.co #Twitter URL Shortener
 techtarget.com
 telephonyspamprotect-pa.googleapis.com
-the.earth.li #Hosts PuTTY
 thepiratebay.org
 thumbor.forbes.com
 time.samsungcloudsolution.com #Samsung TV connectivity
