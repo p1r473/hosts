@@ -213,6 +213,7 @@ redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
+rgom10-asus-en.url.trendmicro.com
 rgom10-asus-en.url.trendmicro.com #Asus Trend Micro
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
