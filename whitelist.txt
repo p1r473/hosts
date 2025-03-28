@@ -282,6 +282,7 @@ utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
 wankzvr.com
 wankzvr.com #XXX
+waws-prod-blu-057.vip.azurewebsites.windows.net #CName for www.wakeupdialer.com
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
