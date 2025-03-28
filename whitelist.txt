@@ -119,6 +119,7 @@ forums.adafruit.com
 freegeoip.app #Public IP
 gab.com
 gamecopyworld.com
+gateway.ixopay.com #DHL pay
 geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
