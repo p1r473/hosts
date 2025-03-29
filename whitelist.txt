@@ -67,7 +67,6 @@ clients2.google.com
 clients6.google.com
 clients.l.google.com
 client.wns.windows.com #Windows WNS push notification
-codeload.github.com
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
@@ -119,7 +118,6 @@ forums.adafruit.com
 freegeoip.app #Public IP
 gab.com
 gamecopyworld.com
-gateway.ixopay.com #DHL pay
 geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
@@ -214,7 +212,6 @@ redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
-rgom10-asus-en.url.trendmicro.com #Asus Trend Micro
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
@@ -283,7 +280,6 @@ utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
 wankzvr.com
 wankzvr.com #XXX
-waws-prod-blu-057.vip.azurewebsites.windows.net #CName for www.wakeupdialer.com
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
