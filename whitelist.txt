@@ -261,6 +261,7 @@ tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+track.purolator.com
 translate.google.com
 trib.al #URL Shortener
 trk.klclick1.com #Email unsubscribe
