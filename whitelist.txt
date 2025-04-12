@@ -12,7 +12,6 @@ accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
-airtable.com
 alive.github.com
 amzn.to #Amazon URL shortener
 api.getpocket.com #Pocket API
