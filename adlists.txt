@@ -44,9 +44,6 @@ https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts
 https://gitlab.com/Wiggum27/blockers/-/raw/master/host.txt
 https://gitlab.com/Wiggum27/blockers/-/raw/master/NetguardHosts
 https://gitlab.com/Wiggum27/blockers/-/raw/master/NetguardHosts.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://hblock.molinero.dev/hosts
 https://hole.cert.pl/domains/domains.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
