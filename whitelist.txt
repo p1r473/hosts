@@ -134,6 +134,7 @@ gstatic.com
 guce.yahoo.com #Yahoo Finance
 guc-spclient.spotify.com #Spotify redirector usa (san jose) links to 7.127.154.104.bc.googleusercontent.com and sjc.weblb-wg.dual-gslb.spotify.com
 history.google.com
+html-load.com #HTML loading of Sourceforge
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
 ifconfig.co #Public IP lookup
@@ -307,6 +308,7 @@ www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com
+www.html-load.com #HTML loading of Sourceforge
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
