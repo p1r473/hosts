@@ -15,6 +15,7 @@ adafruit.com
 ae01.alicdn.com #AliExpress
 alive.github.com
 amzn.to #Amazon URL shortener
+android.clients.google.com
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
@@ -88,6 +89,7 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
+dns.msftncsi.com #Microsoft DNS checker
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
 duckdns.org
@@ -137,6 +139,7 @@ history.google.com
 html-load.com #HTML loading of Sourceforge
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
+id.google.com
 ifconfig.co #Public IP lookup
 ifconfig.me
 images.ccbill.com
@@ -176,6 +179,7 @@ mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 mapi.speedtest.net
 members.ip-api.com
+mem.gfx.ms #Microsoft.com login	
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
@@ -215,6 +219,7 @@ redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
+rgom10-asus-en.url.trendmicro.com #Asus TrendMicro
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
