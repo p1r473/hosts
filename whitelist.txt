@@ -140,7 +140,6 @@ history.google.com
 html-load.com #HTML loading of Sourceforge
 i9.ytimg.com #Youtube thumbnails
 icanhazip.com
-id.google.com
 ifconfig.co #Public IP lookup
 ifconfig.me
 images.ccbill.com
@@ -220,7 +219,6 @@ redirector.googlevideo.com #Google Play Movies
 redirector.gvt1.com #Chrome updates
 reminders-pa.googleapis.com
 res.cloudinary.com #SpringBoard images
-rgom10-asus-en.url.trendmicro.com #Asus TrendMicro
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
