@@ -179,7 +179,6 @@ mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 mapi.speedtest.net
 members.ip-api.com
-mem.gfx.ms #Microsoft.com login	
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
