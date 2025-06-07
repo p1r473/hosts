@@ -7,7 +7,6 @@ aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 aboutmyip.com
 accounts.adafruit.com
-accounts.google.com
 accounts.snap.com #Snapchat account management
 accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
@@ -44,7 +43,6 @@ bitly.com #URL Shortener
 bit.ly #URL Shortener
 blog.adafruit.com
 bnc.lt #URL Shortener
-boards.greenhouse.io
 bot.whatismyipaddress.com
 bountysource.com
 buff.ly #URL Shortener
@@ -169,7 +167,6 @@ linkedin.com
 link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
-l.instagram.com #Instagram external links
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 lm.facebook.com #Facebook links
 login.mailchimp.com
