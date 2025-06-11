@@ -69,7 +69,6 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mime
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://raw.githubusercontent.com/12425/adblist/master/adbhost.txt
-https://raw.githubusercontent.com/2RDLive/Pi-Hole/master/Blacklist.txt
 https://raw.githubusercontent.com/34730/Adaway/master/block
 https://raw.githubusercontent.com/abc45628/hosts/master/hosts
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt

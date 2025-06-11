@@ -17,6 +17,7 @@ amzn.to #Amazon URL shortener
 android.clients.google.com
 api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
+api-global.netflix.com #Netflix on TV
 api.ipify.org #ddclient
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
@@ -317,6 +318,7 @@ www.msn.com
 www.pastie.org
 www.pornhub.com
 www.sickrage.ca
+www.sony.net #Sony Bravia internet detection
 www.spotify.com #Spotify
 www.techtarget.com
 www.tgtube.com #XXX site
