@@ -57,6 +57,7 @@ ftp.phishing.guru #KnowBe4
 gmail.net-login.com #KnowBe4
 gooqle.internalportal.net #KnowBe4
 grabify.link
+#Grindr
 grindr.mobi #Grindr
 guru.phishing.guru #KnowBe4
 https.file-transfers.ancillarycheese.com #KnowBe4
@@ -71,8 +72,7 @@ ios.my-cloud-mail.com #KnowBe4
 kb4.io #KnowBe4
 #Kik messenger
 kn0wbe4.compromisedblog.com #KnowBe4
-#KnowBe4 Phishing
-#Licensing
+#KnowBe4
 #lm.licenses.adobe.com #Photoshop Licensing server
 #lmlicenses.wip4.adobe.com #Photoshop Licensing server
 login.gogie.com.000000000000.phish.farm #KnowBe4
@@ -92,6 +92,8 @@ nam05.safelinks.protection.outlook.com.url.ATP-redirect.protected-forms.com #Kno
 name10-safelinks-protection-outlook-com-url-atp-redirect.internalportal.net #KnowBe4
 net-login.com #KnowBe4
 noresponse.donotreply.biz #KnowBe4
+ntd-asus-2014b-en-cfg.fbs20.trendmicro.com #TrendMicro
+ntd-asus-2014b-en.fbs20.trendmicro.com #TrendMicro
 office.internalportal.net #KnowBe4
 oldmacdonald.had-a.phish.farm #KnowBe4
 online-banking.kb4.io #KnowBe4
@@ -102,13 +104,15 @@ phish.farm #KnowBe4
 phishing.guru #KnowBe4
 phishtrain.org #KnowBe4
 phishwall.net #KnowBe4
-#PingPlotter
+#Pingplotter
 pingplotter.com #PingPlotter
+#practivate.adobe.com #Photoshop Licensing server
 protected-forms.com #KnowBe4
 ps.absolute.com #Professional Services
 ps.namequery.com #Professional Services
 report-scam.malwarebouncer.com #KnowBe4
 resources.namequery.com #Absolute 7 components. Absolute 7 components delivered from CloudFlare Content Delivery Network
+rgom10-asus-en.url.trendmicro.com #TrendMicro
 river.data.ea.com #Origin telemetry
 rm01.awmdm.com #Workspace ONE
 rmau01.awmdm.com #Workspace ONE
@@ -128,6 +132,7 @@ rmsession06.awmdm.com #Workspace ONE
 rmuk01.awmdm.com #Workspace ONE
 rmuksession01.awmdm.com #Workspace ONE
 robust-backend.ancillarycheese.com #KnowBe4
+sc.aspirets.com #Aspire Technical Support
 sc.aspirets.com #ConnectWise
 science.farenheit.net #KnowBe4
 search2.namequery.com #Data Delete & Device Freeze
@@ -141,10 +146,11 @@ si.namequery.com #Absolute Persistence 2.x
 socialmedia-insights.bloemlight.com #KnowBe4
 spamchallenge.msftemail.com #KnowBe4
 su.onamoc.comano.us #KnowBe4
-support.aspirets.com
+support.aspirets.com #Aspire Technical Support
 temp.farenheit.net #KnowBe4
 test.user-click.phishtrain.org #KnowBe4
 token.onelogin.com-token-auth.com #KnowBe4
+#TrendMicro
 um2.eqads.com #Kik messenger
 us-api.mimecast.com.kb4.io #KnowBe4
 us.farenheit.net #KnowBe4
@@ -154,4 +160,3 @@ web-login.malwarebouncer.com #KnowBe4
 welsfargo.com-onlinebanking.com #KnowBe4
 #Workspace ONE
 www.pingplotter.com #PingPlotter
-#XXX

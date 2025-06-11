@@ -1,2 +1,0 @@
-0.0.0.0 pingplotter.com #PingPlotter
-0.0.0.0 www.pingplotter.com #PingPlotter

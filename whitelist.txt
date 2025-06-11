@@ -15,6 +15,7 @@ ae01.alicdn.com #AliExpress
 alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
+api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 apis.google.com
