@@ -17,7 +17,6 @@ amzn.to #Amazon URL shortener
 android.clients.google.com
 api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
-api-global.netflix.com #Netflix on TV
 api.ipify.org #ddclient
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
@@ -38,7 +37,6 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 beacons.ai #Social media link sharing biography site
 beacons.gcp.gvt2.com
-bestbuy.ca
 b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bitly.com #URL Shortener
@@ -158,7 +156,6 @@ ipv4.am.i.mullvad.net
 ipv4.jsonip.com
 ipv6.jsonip.com
 isobuster.com
-itch.io
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com

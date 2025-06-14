@@ -91,7 +91,6 @@ https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/Mini
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
-https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/domains.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 #https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
