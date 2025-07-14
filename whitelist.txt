@@ -123,6 +123,7 @@ geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
+github.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 googlehosted.l.googleusercontent.com
