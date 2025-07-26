@@ -12,7 +12,6 @@ accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
 ae01.alicdn.com #AliExpress
-alive.github.com
 amzn.to #Amazon URL shortener
 android.clients.google.com
 api.db-ip.com #Geolocation API
@@ -123,7 +122,6 @@ geo3.ggpht.com
 getpocket.cdn.mozilla.net #CDN for Pocket in FireFox
 getpocket.com #Pocket
 getsatisfaction.com
-github.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 googlehosted.l.googleusercontent.com
