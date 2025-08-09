@@ -64,7 +64,6 @@ clients1.google.com
 clients2.google.com
 clients6.google.com
 clients.l.google.com
-client.wns.windows.com #Windows WNS push notification
 coingeek.com
 coinmarketcap.com
 community.kaspersky.com
