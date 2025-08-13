@@ -17,6 +17,7 @@ android.clients.google.com
 api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
+api.ipinfo.io #Public IP
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
 app.box.com #box.com web app
