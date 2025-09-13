@@ -25,7 +25,6 @@ app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
-assets.bwbx.io #Bloomberg website layout
 assets-jpcust.jwpsrv.com #Embedded videos
 assets.msn.com #MSN Assets
 assistant.google.com
@@ -36,7 +35,6 @@ auth.samsungosp.com #Logging into Samsung on an Android device
 auth.split.io #MBNA mobile app
 beacons.ai #Social media link sharing biography site
 beacons.gcp.gvt2.com
-b-graph.facebook.com #Logging into Facebook Messenger on mobile
 bitli.pro #URL Shortener
 bitly.com #URL Shortener
 bit.ly #URL Shortener
@@ -94,15 +92,12 @@ e8218.dscb1.akamaiedge.net #CNAME for OSCP domains
 ebates.com
 ecn.dev.virtualearth.net #Public IP
 edgekey.net #Akamai
-edge-mqtt.facebook.com
 emailmeter.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 emkei.cz #Email spoofer
 epoch.com
 eventopedia.cloudapp.net
-facebook.com
-fb.com #Facebook
 fe3.delivery.mp.microsoft.com
 feedly.com
 fidm.us1.gigya.com #Voila login
@@ -124,7 +119,6 @@ gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
 googlehosted.l.googleusercontent.com
 goo.gl #Google URL Shortener
-graph.facebook.com #Viewing own Facebook wall
 graph.microsoft.com #SharePoint file browser
 graph.oculus.com #MetaQuest VR
 gstatic.com
@@ -157,13 +151,10 @@ js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
 kingworldnews.com
 learn.adafruit.com
-l.facebook.com
-linkedin.com
 link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
-lm.facebook.com #Facebook links
 login.mailchimp.com
 login.windows.net
 mailchi.mp
@@ -281,7 +272,6 @@ v2.zopim.com #aoeah.com helpdesk
 wankzvr.com
 wankzvr.com #XXX
 web-api-tih.acronis.com #Acronis activation
-web.facebook.com
 whatismyipaddress.com
 whatismyip.com
 whoami.akamai.net
