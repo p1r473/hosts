@@ -12,7 +12,6 @@ https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
 https://getadhell.com/standard-package.txt
-https://get.domainsblacklists.com/blacklist.txt
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
 https://gist.githubusercontent.com/BBcan177/b6df57cef74e28d90acf1eec93d62d3b/raw/f0996cf5248657ada2adb396f3636be8716b99eb/MS-4
@@ -64,7 +63,6 @@ https://o0.pages.dev/Lite/domains.txt
 https://o0.pages.dev/Pro/domains.txt
 #https://o0.pages.dev/Xtra/domains.txt
 http://someonewhocares.org/hosts/zero/hosts
-https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
@@ -262,7 +260,6 @@ https://raw.githubusercontent.com/minoplhy/filters/main/Resources/blocked.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/CoinBlockerLists/refs/heads/master/hosts
 https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt
-https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/ACTIVE/list
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains0.list
 https://raw.githubusercontent.com/mitchellkrogza/Ultimate.Hosts.Blacklist/master/domains/domains1.list
@@ -300,7 +297,6 @@ https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domain
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 #https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
-https://raw.githubusercontent.com/p1r473/hosts/master/hosts.txt
 https://raw.githubusercontent.com/p1r473/pornaway/master/hosts/safe_ads.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt
 https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-hphosts-legacy.txt
@@ -383,8 +379,7 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt
 https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://raw.githubusercontent.com/WillPresley/ZeroDot1_CoinBlockerList/refs/heads/main/hosts
 https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/master/SpotifyBlocklist.txt
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist_HOSTS.txt
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware_HOSTS.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/refs/heads/master/PiHole/HOSTS
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list
@@ -396,7 +391,6 @@ https://small.oisd.nl/
 https://someonewhocares.org/hosts/zero/hosts
 https://stopforumspam.com/downloads/toxic_domains_whole.txt
 https://sysctl.org/cameleon/hosts
-https://tgc.cloud/downloads/hosts.txt
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/AdguardDNS.txt
@@ -422,4 +416,3 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
-https://zonefiles.io/f/compromised/domains/live
