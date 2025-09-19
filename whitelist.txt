@@ -1,4 +1,3 @@
-1337x.to #Torrents
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -293,7 +292,6 @@ www.goodreads.com
 www.googleadservices.com
 www.googletagmanager.com #Hearthstone login from iOS
 www.gstatic.com
-www.html-load.com #HTML loading of Sourceforge
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
