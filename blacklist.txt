@@ -124,7 +124,7 @@ web-login.malwarebouncer.com #KnowBe4
 welsfargo.com-onlinebanking.com #KnowBe4
 
 #Microsoft Intune
-manage.microsoft.com Microsoft Intune
+manage.microsoft.com #Microsoft Intune
 
 #Origin telemetry
 river.data.ea.com #Origin telemetry

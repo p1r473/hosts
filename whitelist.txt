@@ -1,4 +1,5 @@
-api.ipinfo.io #IPinfo API
+s3.amazonaws.com #Amazon S3 bucket
+l.instagram.com #Instagram links
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -154,6 +155,7 @@ learn.adafruit.com
 link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
+l.instagram.com #Instagram link referrer
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 login.mailchimp.com
 login.windows.net
