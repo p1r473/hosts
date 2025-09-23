@@ -15,6 +15,7 @@ amzn.to #Amazon URL shortener
 android.clients.google.com
 api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
+api.ipinfo.io #IPInfo API
 api.ipify.org #ddclient
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
@@ -154,7 +155,6 @@ link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
 l.instagram.com #Instagram link referrer
-l.instagram.com #Instagram links
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 login.mailchimp.com
 login.windows.net
