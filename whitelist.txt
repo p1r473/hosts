@@ -15,7 +15,6 @@ amzn.to #Amazon URL shortener
 android.clients.google.com
 api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
-api.ipinfo.io #IPInfo API
 api.ipify.org #ddclient
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
