@@ -1,5 +1,3 @@
-s3.amazonaws.com #Amazon S3 bucket
-l.instagram.com #Instagram links
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -156,6 +154,7 @@ link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
 l.instagram.com #Instagram link referrer
+l.instagram.com #Instagram links
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 login.mailchimp.com
 login.windows.net
@@ -206,6 +205,7 @@ res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
+s3.amazonaws.com #Amazon S3 bucket
 s7d2.scene7.com #ae.com
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
