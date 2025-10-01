@@ -1,2 +1,3 @@
 api.ipinfo.io
 track.purolator.com
+gateway.ixopay.com #DHL payment

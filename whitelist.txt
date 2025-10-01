@@ -1,4 +1,3 @@
-lm.facebook.com #Facebook referrer
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -157,6 +156,7 @@ linkr.bio
 linktr.ee #Linktree
 l.instagram.com #Instagram link referrer
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
+lm.facebook.com #Facebook referrer
 login.mailchimp.com
 login.windows.net
 mailchi.mp
