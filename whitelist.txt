@@ -1,3 +1,9 @@
+tracker.torrent.eu.org #torrent tracker
+tracker.internetwarriors.net #torrent tracker
+tracker.dler.org #torrent tracker
+tracker.coppersurfer.tk #torrent tracker
+public.popcorn-tracker.org#torrent tracker
+glotorrents.pw #torrent tracker
 ctfassets.net #Contentful content, images on life360
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
