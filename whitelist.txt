@@ -1,3 +1,4 @@
+mt-rv.map.fastly.net #www.zdnet.com is a CNAME
 tracker.torrent.eu.org #torrent tracker
 tracker.internetwarriors.net #torrent tracker
 tracker.dler.org #torrent tracker
