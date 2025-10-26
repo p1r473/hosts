@@ -1,11 +1,3 @@
-mt-rv.map.fastly.net #www.zdnet.com is a CNAME
-tracker.torrent.eu.org #torrent tracker
-tracker.internetwarriors.net #torrent tracker
-tracker.dler.org #torrent tracker
-tracker.coppersurfer.tk #torrent tracker
-public.popcorn-tracker.org #torrent tracker
-glotorrents.pw #torrent tracker
-ctfassets.net #Contentful content, images on life360
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -126,6 +118,7 @@ getpocket.com #Pocket
 getsatisfaction.com
 gleam.io
 g.live.com #Backup Bitlocker key to Microsoft
+glotorrents.pw #torrent tracker
 googlehosted.l.googleusercontent.com
 goo.gl #Google URL Shortener
 graph.microsoft.com #SharePoint file browser
@@ -177,6 +170,7 @@ mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 mtalk.google.com
+mt-rv.map.fastly.net #www.zdnet.com is a CNAME
 myip.dnsomatic.com
 myip.ms #IP Threat Feed
 my.plexapp.com #Plex
@@ -201,6 +195,8 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
+prod2-common-apps2-k8s-azrlb.sprinklr.com #Blueair Purifier support
+prod3-common-apps2-k8s-azrlb.sprinklr.com  #Blueair Purifier support
 public-api.wordpress.com #WordPress API
 pushbullet.com
 qrco.de #QR code URL shortener service
