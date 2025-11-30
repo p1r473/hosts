@@ -1,4 +1,4 @@
-steamcommunity.com
+manage.kmail-lists.com #Email unsubscribe
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -231,6 +231,7 @@ s.pinimg.com #Pinterest
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
+steamcommunity.com
 store-images.s-microsoft.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
