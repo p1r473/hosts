@@ -323,3 +323,6 @@ xhamster.com
 xvideos.com #XXX
 yt3.ggpht.com #YouTube Music API
 zombo.com
+api.ipinfo.io
+gateway.ixopay.com #DHL payment
+track.purolator.com
