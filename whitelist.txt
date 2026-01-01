@@ -1,5 +1,3 @@
-l.facebook.com #Facebook links
-manage.kmail-lists.com #Email unsubscribe
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -155,6 +153,7 @@ js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
 jsonip.com
 kingworldnews.com
 learn.adafruit.com
+l.facebook.com #Facebook links
 link.indiegogo.com #Indiegogo links
 linkr.bio
 linktr.ee #Linktree
@@ -165,6 +164,7 @@ login.mailchimp.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
+manage.kmail-lists.com #Email unsubscribe
 mandrillapp.com
 mapi.speedtest.net
 members.ip-api.com
@@ -172,7 +172,6 @@ mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 mtalk.google.com
-mt-rv.map.fastly.net #www.zdnet.com is a CNAME
 myip.dnsomatic.com
 myip.ms #IP Threat Feed
 my.plexapp.com #Plex
@@ -214,7 +213,6 @@ res.cloudinary.com #SpringBoard images
 rover.ebay.com #ebay
 r.stripe.com #Stripe; Locals
 rutracker.org
-s3.amazonaws.com #Amazon S3 bucket
 s7d2.scene7.com #ae.com
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
@@ -232,7 +230,6 @@ s.pinimg.com #Pinterest
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
-steamcommunity.com
 store-images.s-microsoft.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
