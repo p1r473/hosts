@@ -133,6 +133,7 @@ river.data.ea.com #Origin telemetry
 #Pingplotter
 pingplotter.com #PingPlotter
 www.pingplotter.com #PingPlotter
+a2-20-254-145.deploy.static.akamaitechnologies.com #PingPlotter
 
 #TrendMicro
 ntd-asus-2014b-en-cfg.fbs20.trendmicro.com #TrendMicro
@@ -144,7 +145,6 @@ cdn.ap.bittorrent.com #uTorrent Ads
 cdn.bitmedianetwork.com #uTorrent Ads
 
 #Workspace ONE
-
 rm01.awmdm.com #Workspace ONE
 rmau01.awmdm.com #Workspace ONE
 rmausession01.awmdm.com #Workspace ONE
