@@ -11,6 +11,7 @@ https://big.oisd.nl/
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
+https://fussle.de/block.txt
 https://getadhell.com/standard-package.txt
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
@@ -134,6 +135,7 @@ https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/SmartTV/
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/gmbkslist%20%28Hosts%29.txt
+https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/refs/heads/main/tiktok.txt
 https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt
@@ -232,6 +234,7 @@ https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover_aggressive.txt
 https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_leftover.txt
+https://raw.githubusercontent.com/krombopulosM/TikTok-blocklist/refs/heads/master/tiktok%20blocklist.txt
 https://raw.githubusercontent.com/KurzGedanke/kurzBlock/master/kurzBlock.txt
 https://raw.githubusercontent.com/Laicure/HostsY_hosts/master/shithosts
 https://raw.githubusercontent.com/Lerist/Go-Hosts/master/hosts-ad
@@ -246,6 +249,7 @@ https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txt
 https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
+https://raw.githubusercontent.com/M4jx/TikTokBlockList/refs/heads/main/hosts
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/mayesidevel/PiHoleLists/master/MiscBlocklist
 https://raw.githubusercontent.com/meinhimmel/hosts/master/hosts
