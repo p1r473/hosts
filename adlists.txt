@@ -11,7 +11,6 @@ https://big.oisd.nl/
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt
 https://dehakkelaar.nl/lists/cryptojacking_campaign.list.txt
-https://fussle.de/block.txt
 https://getadhell.com/standard-package.txt
 https://gist.githubusercontent.com/anthony-wang/943e08bc83759e1dbb8745819f4b3eca/raw/8744f04cfc3f8614aabc42ff2915afe60ee3df13/spotify-hosts.txt
 https://gist.githubusercontent.com/BBcan177/4a8bf37c131be4803cb2/raw/343ff780e15205b4dd0de37c86af34cfb26b2fbe/MS-2
