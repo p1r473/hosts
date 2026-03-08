@@ -1,5 +1,7 @@
-https://abpvn.com/android/abpvn.txt https://adaway.org/hosts.txt 
-https://adblock.mahakala.is https://asc.hk/adplus.txt 
+https://abpvn.com/android/abpvn.txt
+https://adaway.org/hosts.txt 
+https://adblock.mahakala.is
+https://asc.hk/adplus.txt 
 https://assets.windscribe.com/custom_blocklists/clickbait.txt 
 https://badmojr.github.io/1Hosts/Lite/domains.txt 
 https://badmojr.github.io/1Hosts/Pro/domains.txt
