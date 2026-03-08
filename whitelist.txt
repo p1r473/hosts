@@ -1,4 +1,3 @@
-dns.google
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -84,6 +83,7 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
+dns.google
 dns.msftncsi.com #Microsoft DNS checker
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
