@@ -1,9 +1,3 @@
-video-fa.scdn.co #Spotify videos
-encrypted-tbn1.gstatic.com #Google cache/thumbnails
-players.brightcove.net #Embedded video player
-graph.facebook.com #Facebook mobile app
-links.h6.hilton.com #Hilton email links
-ipv6.msftncsi.com #Microsoft ipv6 connectivity checker
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -103,6 +97,7 @@ emailmeter.com
 emailtracker.website #Email tracker Chrome extension
 embed.spotify.com #Spotify
 emkei.cz #Email spoofer
+encrypted-tbn1.gstatic.com #Google cache/thumbnails
 epoch.com
 eventopedia.cloudapp.net
 fe3.delivery.mp.microsoft.com
@@ -128,6 +123,7 @@ g.live.com #Backup Bitlocker key to Microsoft
 glotorrents.pw #torrent tracker
 googlehosted.l.googleusercontent.com
 goo.gl #Google URL Shortener
+graph.facebook.com #Facebook mobile app
 graph.microsoft.com #SharePoint file browser
 graph.oculus.com #MetaQuest VR
 gstatic.com
@@ -154,6 +150,7 @@ ip-tracker.org
 ipv4.am.i.mullvad.net
 ipv4.jsonip.com
 ipv6.jsonip.com
+ipv6.msftncsi.com #Microsoft ipv6 connectivity checker
 isobuster.com
 js.gleam.io #GleamJavascript
 js.hsforms.net #Form content on PurposeInvest and Forbes RealEstate Council
@@ -163,15 +160,14 @@ learn.adafruit.com
 l.facebook.com #Facebook links
 link.indiegogo.com #Indiegogo links
 linkr.bio
+links.h6.hilton.com #Hilton email links
 linktr.ee #Linktree
-l.instagram.com #Instagram link referrer
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 lm.facebook.com #Facebook referrer
 login.mailchimp.com
 login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
-manage.kmail-lists.com #Email unsubscribe
 mandrillapp.com
 mapi.speedtest.net
 members.ip-api.com
@@ -197,6 +193,7 @@ people-pa.googleapis.com
 peoplestackwebexperiments-pa.clients6.google.com
 pingdom.com
 platform.twitter.com
+players.brightcove.net #Embedded video player
 play.spotify.com #Spotify web player
 play.spotify.edgekey.net #Spotify
 pool.ntp.org #NTP Server
@@ -284,6 +281,7 @@ us.data3.mobile.pendo.io #Morgan Report
 userlocation.googleapis.com
 utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
+video-fa.scdn.co #Spotify videos
 wankzvr.com #XXX
 web-api-tih.acronis.com #Acronis activation
 whatismyipaddress.com
