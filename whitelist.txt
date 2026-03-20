@@ -1,3 +1,9 @@
+video-fa.scdn.co #Spotify videos
+encrypted-tbn1.gstatic.com #Google cache/thumbnails
+players.brightcove.net #Embedded video player
+graph.facebook.com #Facebook mobile app
+links.h6.hilton.com #Hilton email links
+ipv6.msftncsi.com #Microsoft ipv6 connectivity checker
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
