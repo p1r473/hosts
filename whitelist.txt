@@ -10,9 +10,7 @@ accounts.snap.com #Snapchat account management
 accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
-tester.test
 ae01.alicdn.com #AliExpress
-yester.test
 amzn.to #Amazon URL shortener
 android.clients.google.com
 api.db-ip.com #Geolocation API
