@@ -7,6 +7,7 @@ ab40.mktossl.com #CNAME for info.expel.io
 aboutmyip.com
 accounts.adafruit.com
 accounts.snap.com #Snapchat account management
+tester.test2
 accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
