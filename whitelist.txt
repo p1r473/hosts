@@ -1,5 +1,3 @@
-olg.ca
-www.olg.ca
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -185,6 +183,7 @@ nordvpn.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
 ntd-asus-2014b-en.fbs20.trendmicro.com
+olg.ca
 onedrive.live.com
 open.spotify.com #Spotify web player
 orb.net
@@ -311,6 +310,7 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.msn.com
+www.olg.ca
 www.pastie.org
 www.pornhub.com
 www.sickrage.ca
