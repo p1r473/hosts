@@ -1,4 +1,3 @@
-link.me #Socials
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -160,6 +159,7 @@ kingworldnews.com
 learn.adafruit.com
 l.facebook.com #Facebook links
 link.indiegogo.com #Indiegogo links
+link.me #Socials
 linkr.bio
 links.h6.hilton.com #Hilton email links
 linktr.ee #Linktree

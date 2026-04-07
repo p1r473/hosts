@@ -41,8 +41,6 @@ https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Raw/The_Quantum_Ad-List.txt
 https://gitlab.com/Wiggum27/blockers/-/raw/master/hosts
 https://gitlab.com/Wiggum27/blockers/-/raw/master/host.txt
-https://gitlab.com/Wiggum27/blockers/-/raw/master/NetguardHosts
-https://gitlab.com/Wiggum27/blockers/-/raw/master/NetguardHosts.txt
 https://hblock.molinero.dev/hosts
 https://hole.cert.pl/domains/domains.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
