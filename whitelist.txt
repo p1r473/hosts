@@ -83,7 +83,6 @@ developer.spotify.com #Spotify
 device-api.urbanairship.com #Google News "more stories" thumbnails
 dev.virtualearth.net #Public IP
 dlvr.it #URL Shortener
-dns.google
 dns.msftncsi.com #Microsoft DNS checker
 downloads.intercomcdn.com #Website layouts that use Intercom help
 dts.podtrac.com
@@ -100,7 +99,6 @@ emkei.cz #Email spoofer
 encrypted-tbn1.gstatic.com #Google cache/thumbnails
 epoch.com
 eventopedia.cloudapp.net
-fe3.delivery.mp.microsoft.com
 feedly.com
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
@@ -163,6 +161,7 @@ link.me #Socials
 linkr.bio
 links.h6.hilton.com #Hilton email links
 linktr.ee #Linktree
+l.instagram.com #Instagram links
 livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 lm.facebook.com #Facebook referrer
 login.mailchimp.com
@@ -184,7 +183,6 @@ nordvpn.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
 ntd-asus-2014b-en.fbs20.trendmicro.com
-olg.ca
 onedrive.live.com
 open.spotify.com #Spotify web player
 orb.net
@@ -290,7 +288,6 @@ whatismyipaddress.com
 whatismyip.com
 whoami.akamai.net
 widget-mediator.zopim.com #Help/Support chat on Reship
-winaero.com
 wmdcommander.appspot.com #Wheres My Droid Commander
 www2.leapmotion.com #Leap Motion Controller
 www.adafruit.com
@@ -311,7 +308,6 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.msn.com
-www.olg.ca
 www.pastie.org
 www.pornhub.com
 www.sickrage.ca
