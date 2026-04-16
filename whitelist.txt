@@ -1,3 +1,7 @@
+zupimages.net #Image hosting
+www.zupimages.net #Image hosting
+msftncsi.com #MS connectivity status checker indicator
+www.msftncsi.com #MS connectivity status checker indicator
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
