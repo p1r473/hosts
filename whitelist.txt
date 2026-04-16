@@ -1,10 +1,3 @@
-ibb.co #Image hosting
-i.ibb.co #Image hosting
-www.ibb.co #Image hosting
-zupimages.net #Image hosting
-www.zupimages.net #Image hosting
-msftncsi.com #MS connectivity status checker indicator
-www.msftncsi.com #MS connectivity status checker indicator
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -181,6 +174,7 @@ members.ip-api.com
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
+msftncsi.com #MS connectivity status checker indicator
 mtalk.google.com
 myip.dnsomatic.com
 myip.ms #IP Threat Feed
@@ -314,6 +308,7 @@ www.gstatic.com
 www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
+www.msftncsi.com #MS connectivity status checker indicator
 www.msn.com
 www.pastie.org
 www.pornhub.com
@@ -330,3 +325,4 @@ xhamster.com
 xvideos.com #XXX
 yt3.ggpht.com #YouTube Music API
 zombo.com
+zupimages.net #Image hosting
