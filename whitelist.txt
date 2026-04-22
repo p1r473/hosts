@@ -1,5 +1,3 @@
-orb.net
-core.orb.net #Orb
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -28,7 +26,6 @@ ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets-jpcust.jwpsrv.com #Embedded videos
-assets.msn.com #MSN Assets
 assistant.google.com
 audio-ak-spotify-com.akamaized.net #Spotify on Nvidia Shield
 audio-fa.scdn.co #Spotify on Nvidia Shield
@@ -70,6 +67,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
+core.orb.net #Orb
 cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com, breaks Twitter videos
 csp.withgoogle.com #Content Security Policy is designed to make applications more secure against common web vulnerabilities, cross-site scripting
 ctrk.klclick1.com #Email unsubscribe
@@ -171,7 +169,6 @@ login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
-mapi.speedtest.net
 members.ip-api.com
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
