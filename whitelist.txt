@@ -1,3 +1,7 @@
+agent.drata.com
+api.drata.com
+app.drata.com
+drata.com
 edgedl.me.gvt1.com #Chrome updates
 ipv6check-udp.steamserver.net #Steam IPv6 check
 p2p-ams1.discovery.steamserver.net #Steam P2P discovery
@@ -13,7 +17,7 @@ api.x-sense-iot.com #X-Sense
 eu-central-1.x-sense-iot.com #X-Sense
 us-east-1.x-sense-iot.com #X-Sense
 x-sense-iot.com #X-Sense
-cloud.proteussensor.com #Proteus
+cloud.proteussensor.com
 proteussensor.com
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -84,7 +88,7 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
-core.orb.net #Orb
+core.orb.net
 cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com, breaks Twitter videos
 csp.withgoogle.com #Content Security Policy is designed to make applications more secure against common web vulnerabilities, cross-site scripting
 ctrk.klclick1.com #Email unsubscribe
