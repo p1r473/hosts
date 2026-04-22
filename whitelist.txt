@@ -1,3 +1,11 @@
+api.yosmart.com #YoLink YoSmart
+mq-yl-gw-lb.yosmart.com #YoLink YoSmart
+mq-yl-gw.yosmart.com #YoLink YoSmart
+yosmart.com #YoLink YoSmart
+api.x-sense-iot.com #X-Sense
+eu-central-1.x-sense-iot.com #X-Sense
+us-east-1.x-sense-iot.com #X-Sense
+x-sense-iot.com #X-Sense
 cloud.proteussensor.com #Proteus
 proteussensor.com
 1drv.ms #OneDrive
