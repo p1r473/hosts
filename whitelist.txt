@@ -1,3 +1,4 @@
+edgedl.me.gvt1.com #Chrome updates
 ipv6check-udp.steamserver.net #Steam IPv6 check
 p2p-ams1.discovery.steamserver.net #Steam P2P discovery
 p2p-fra1.discovery.steamserver.net #Steam P2P discovery
