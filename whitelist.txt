@@ -1,3 +1,9 @@
+ipv6check-udp.steamserver.net #Steam IPv6 check
+p2p-ams1.discovery.steamserver.net #Steam P2P discovery
+p2p-fra1.discovery.steamserver.net #Steam P2P discovery
+p2p-fra2.discovery.steamserver.net #Steam P2P discovery
+p2p-iad1.discovery.steamserver.net #Steam P2P discovery
+p2p-sto1.discovery.steamserver.net #Steam P2P discovery
 api.yosmart.com #YoLink YoSmart
 mq-yl-gw-lb.yosmart.com #YoLink YoSmart
 mq-yl-gw.yosmart.com #YoLink YoSmart
