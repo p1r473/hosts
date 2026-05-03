@@ -1,24 +1,5 @@
-agent.drata.com
-api.drata.com
-app.drata.com
-drata.com
-edgedl.me.gvt1.com #Chrome updates
-ipv6check-udp.steamserver.net #Steam IPv6 check
-p2p-ams1.discovery.steamserver.net #Steam P2P discovery
-p2p-fra1.discovery.steamserver.net #Steam P2P discovery
-p2p-fra2.discovery.steamserver.net #Steam P2P discovery
-p2p-iad1.discovery.steamserver.net #Steam P2P discovery
-p2p-sto1.discovery.steamserver.net #Steam P2P discovery
-api.yosmart.com #YoLink YoSmart
-mq-yl-gw-lb.yosmart.com #YoLink YoSmart
-mq-yl-gw.yosmart.com #YoLink YoSmart
-yosmart.com #YoLink YoSmart
-api.x-sense-iot.com #X-Sense
-eu-central-1.x-sense-iot.com #X-Sense
-us-east-1.x-sense-iot.com #X-Sense
-x-sense-iot.com #X-Sense
-cloud.proteussensor.com
-proteussensor.com
+kmail-lists.com #Email subs
+manage.kmail-lists.com #Email subs
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -88,7 +69,6 @@ community.kaspersky.com
 content-autofill.googleapis.com
 content.ctfs.com #Triangle app
 content.invisioncic.com #uTorrent forums
-core.orb.net
 cs531.wpc.edgecastcdn.net #CNAME for video.twimg.com, breaks Twitter videos
 csp.withgoogle.com #Content Security Policy is designed to make applications more secure against common web vulnerabilities, cross-site scripting
 ctrk.klclick1.com #Email unsubscribe
@@ -168,6 +148,7 @@ ipinfo.io
 ip-tracker.org
 ipv4.am.i.mullvad.net
 ipv4.jsonip.com
+ipv6check-udp.steamserver.net #Steam IPv6 check
 ipv6.jsonip.com
 ipv6.msftncsi.com #Microsoft ipv6 connectivity checker
 isobuster.com
@@ -208,6 +189,11 @@ onedrive.live.com
 open.spotify.com #Spotify web player
 orb.net
 o.ss2.us #ceriticate verification
+p2p-ams1.discovery.steamserver.net #Steam P2P discovery
+p2p-fra1.discovery.steamserver.net #Steam P2P discovery
+p2p-fra2.discovery.steamserver.net #Steam P2P discovery
+p2p-iad1.discovery.steamserver.net #Steam P2P discovery
+p2p-sto1.discovery.steamserver.net #Steam P2P discovery
 pastie.org
 pbs.twimg.com #Twitter photo blobstore
 people-pa.googleapis.com
