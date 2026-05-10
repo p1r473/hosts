@@ -1,3 +1,4 @@
+event.bblmw.com #Bambu printer
 us-d-master-71spctnsfa8p5xvgkssa.iotcplatform.com #Bambu printer
 cc06b4cc.ala.dedicated.aws.emqxcloudpro.com #CNAME for us.mqtt.bambulab.com
 us.mqtt.bambulab.com 
