@@ -1,3 +1,4 @@
+cc06b4cc.ala.dedicated.aws.emqxcloudpro.com #CNAME for us.mqtt.bambulab.com
 us.mqtt.bambulab.com 
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
