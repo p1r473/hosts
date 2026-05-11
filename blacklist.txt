@@ -31,9 +31,9 @@ canarytokens.org #Canarytokens
 #cap.cyberlink.com #PowerDVD Licensing server
 
 #Grindr
-cdns.grindr.com #Grindr
-chat.grindr.com #Grindr
-grindr.mobi #Grindr
+#cdns.grindr.com #Grindr
+#chat.grindr.com #Grindr
+#grindr.mobi #Grindr
 
 #IP Grabbers
 grabify.link #IP Grabbers
