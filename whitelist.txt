@@ -1,3 +1,4 @@
+static-assets.ripplingcdn.com #Rippling
 us-d-master-71spctnsfa8p5xvgkssa.iotcplatform.com #Bambu printer
 cdn-social.janrain.com #Parkinson Canada
 us.mqtt.bambulab.com #Bambu
