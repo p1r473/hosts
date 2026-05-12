@@ -1,3 +1,4 @@
+cdn-social.janrain.com #Parkinson Canada
 us.mqtt.bambulab.com #Bambu
 us-mdk-im.kalayservice.com #Bambu 
 1drv.ms #OneDrive
