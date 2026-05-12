@@ -1,3 +1,4 @@
+na1-fastconn-api.botslab.com #Rippling
 cdn-social.janrain.com #Parkinson Canada
 us.mqtt.bambulab.com #Bambu
 us-mdk-im.kalayservice.com #Bambu 
