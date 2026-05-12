@@ -1,7 +1,6 @@
-na1-fastconn-api.botslab.com #Rippling
+us-d-master-71spctnsfa8p5xvgkssa.iotcplatform.com #Bambu printer
 cdn-social.janrain.com #Parkinson Canada
 us.mqtt.bambulab.com #Bambu
-us-mdk-im.kalayservice.com #Bambu 
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
