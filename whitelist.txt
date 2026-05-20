@@ -1,7 +1,6 @@
-static-assets.ripplingcdn.com #Rippling
-us-d-master-71spctnsfa8p5xvgkssa.iotcplatform.com #Bambu printer
-cdn-social.janrain.com #Parkinson Canada
-us.mqtt.bambulab.com #Bambu
+sa.agechecker.net #Age Verification
+track.passportglobal.com #Order tracking
+jobs.ashbyhq.com #Jobs
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -54,6 +53,7 @@ cdn.cookielaw.org #HomeDepot site
 cdn.ipinfo.io
 cdn.samsungcloudsolution.com #Samsung TV connectivity
 cdn-shop.adafruit.com #Adafruit CDN
+cdn-social.janrain.com #Parkinson Canada
 cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
 checkip.amazonaws.com #AWS Getpublic IP
@@ -208,7 +208,6 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
-prelaunch.com
 prod2-common-apps2-k8s-azrlb.sprinklr.com #Blueair Purifier support
 prod3-common-apps2-k8s-azrlb.sprinklr.com  #Blueair Purifier support
 public-api.wordpress.com #WordPress API
@@ -239,11 +238,10 @@ slice.vanilla.futurecdn.net #PCGamer embedded images
 s.marketwatch.com #MarketWatch images
 spclient.wg.spotify.com #Spotify login/app home tab
 s.pinimg.com #Pinterest
+static-assets.ripplingcdn.com #Rippling
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
-store.bblcdn.com
-store-fe.bblcdn.com
 store-images.s-microsoft.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
