@@ -1,5 +1,6 @@
-edge-mqtt.facebook.com #Facebook messenger
+edge-mqtt.facebook.com
 ashesbyhq.com #Jobs
+z-m-gateway.facebook.com #Facebook messenger
 sa.agechecker.net #Age Verification
 track.passportglobal.com #Order tracking
 jobs.ashbyhq.com #Jobs
