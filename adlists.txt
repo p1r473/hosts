@@ -4,7 +4,6 @@ https://adblock.mahakala.is
 https://asc.hk/adplus.txt
 https://assets.windscribe.com/custom_blocklists/clickbait.txt 
 https://badmojr.github.io/1Hosts/Lite/domains.txt 
-https://badmojr.github.io/1Hosts/Xtra/domains.txt
 http://sbc.io/hosts/hosts
 https://big.oisd.nl/
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
@@ -43,7 +42,6 @@ https://gist.githubusercontent.com/vuxat/f25149898451efc6a2723af7c6643f82/raw/59
 https://gist.githubusercontent.com/wassname/b594c63222f9e4c83ea23c818440901b/raw/1b0afd2aecf3a099f1681b1cf18fc0e6e2fa116a/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole)
 https://gist.githubusercontent.com/wesinator/7f40d954a2fec693c358b030a6d6c971/raw/f7164b0ea8af8b4a1655c7ff426777abd57d60f9/Mandiant_APT1_Domains.txt
 https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Lite_domains.txt
-#https://github.com/badmojr/1Hosts/releases/download/latest/1hosts-Xtra_domains.txt
 https://github.com/What-Zit-Tooya/Ad-Block/blob/main/Main-Blocklist/Ad-Block-HOSTS.txt
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
@@ -99,7 +97,6 @@ https://raw.githubusercontent.com/arcetera/Minimal-Hosts-Blocker/master/etc/Mini
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
 https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/00_general.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/admiral-antiadblock.txt
 https://raw.githubusercontent.com/bentasker/adblocklists/master/config/manualblocks/xiaomi.txt
@@ -419,4 +416,3 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.thedumbterminal.co.uk/files/services/squidblockedsites/blocked.txt
-#Recent Domains
