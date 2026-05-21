@@ -1,3 +1,4 @@
+web.facebook.com
 edge-mqtt.facebook.com
 ashesbyhq.com #Jobs
 z-m-gateway.facebook.com #Facebook messenger
