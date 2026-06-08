@@ -1,3 +1,4 @@
+us-d-master-tutk.iotcplatform.com #Bambu camera
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -101,7 +102,6 @@ encrypted-tbn1.gstatic.com #Google cache/thumbnails
 epoch.com
 event.bblmw.com #Bambu printer
 eventopedia.cloudapp.net
-federated-api.prod.federated-graph.generacapis.com #Ecobee app
 feedly.com
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
@@ -265,11 +265,11 @@ tinyurl.com
 t.me #Telegram URL shortener
 tmx.td.com #MBNA app
 tools.google.com
-track.aftership.com
 tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+track.passportglobal.com #Package tracking
 track.purolator.com
 translate.google.com
 trib.al #URL Shortener
