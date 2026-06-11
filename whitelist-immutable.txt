@@ -1,4 +1,5 @@
 api.ipinfo.io
 gateway.ixopay.com #DHL payment
+track.parcelperform.com #DHL payments
 track.passportglobal.com #Package tracking
 track.purolator.com
