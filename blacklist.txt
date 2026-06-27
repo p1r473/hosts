@@ -38,6 +38,14 @@ canarytokens.org #Canarytokens
 #IP Grabbers
 grabify.link #IP Grabbers
 
+#Iru (Kandji)
+b260f74f.web-api.kandji.io
+b260f74f.devices.us-1.kandji.io
+kandji-prd.s3.amazonaws.com
+iru-prd-managed-library-items.s3.amazonaws.com
+managed-library.kandji.io
+windows-agent.kandji.io
+
 #Kik messenger
 um2.eqads.com #Kik messenger
 

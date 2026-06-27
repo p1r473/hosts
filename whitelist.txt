@@ -1,4 +1,4 @@
-us-d-master-tutk.iotcplatform.com #Bambu camera
+app.primevideo.com
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -269,6 +269,7 @@ tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
 tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
+track.parcelperform.com #DHL payments
 track.passportglobal.com #Package tracking
 track.purolator.com
 translate.google.com
@@ -285,6 +286,7 @@ urlscan.io
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
+us-d-master-tutk.iotcplatform.com #Bambu camera
 userlocation.googleapis.com
 utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
