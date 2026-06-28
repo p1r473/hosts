@@ -1,4 +1,3 @@
-app.primevideo.com
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -22,6 +21,7 @@ apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
 app.box.com #box.com web app
 app.launchdarkly.com #LaunchDarkly enables development and operations teams to deploy code at any time
+app.primevideo.com
 app.statuscake.com
 ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
