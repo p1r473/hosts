@@ -366,6 +366,7 @@ https://raw.githubusercontent.com/svetlyobg/svet-custom-domains/master/ads-domai
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
 https://raw.githubusercontent.com/Th3M3/blocklists/master/malware.list
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
+https://raw.githubusercontent.com/TheShawnMiranda/LG-TV-Ad-Block/refs/heads/master/list
 https://raw.githubusercontent.com/tiuxo/hosts/master/ads
 https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
 https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/master/superhosts.deny/superhosts0.deny
