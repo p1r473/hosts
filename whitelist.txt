@@ -1,6 +1,3 @@
-del.dhl.com #DHL Tracking
-i.ibb.co #Image hosting
-widget.gleamjs.io #Gleam
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
 2.android.pool.ntp.org #NTP server
@@ -139,6 +136,7 @@ i9.ytimg.com #Youtube thumbnails
 icanhazip.com
 ifconfig.co #Public IP lookup
 ifconfig.me
+i.ibb.co #Image hosting
 images.ccbill.com
 img.ifunny.co #Funny image hosting
 imgur.com
@@ -301,6 +299,7 @@ web.facebook.com
 whatismyipaddress.com
 whatismyip.com
 whoami.akamai.net
+widget.gleamjs.io #Gleam
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
 wup-content23.bmo.com #BMO app
