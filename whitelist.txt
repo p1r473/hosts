@@ -1,4 +1,3 @@
-lifteragecheck.com #Age check
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -165,6 +164,7 @@ jsonip.com
 kingworldnews.com
 learn.adafruit.com
 l.facebook.com #Facebook links
+lifteragecheck.com #Age check
 link.indiegogo.com #Indiegogo links
 link.me #Socials
 linkr.bio
