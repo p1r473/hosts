@@ -7,7 +7,7 @@ https://badmojr.github.io/1Hosts/Lite/domains.txt
 http://sbc.io/hosts/hosts
 https://big.oisd.nl/
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
-
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/doh.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/multi.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.amazon.txt
@@ -29,6 +29,7 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.plus.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/pro.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/tif.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/ultimate.txt
+https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/doh.txt
 https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/light.txt
 https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/multi.txt
 https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/domains/native.amazon.txt
