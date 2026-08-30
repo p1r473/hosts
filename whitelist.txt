@@ -275,7 +275,6 @@ tools.google.com
 tracker2.itzmx.com #Torrent tracker
 tracker.bittor.pw #Torrent tracker
 tracker.coppersurfer.tk #Tracker
-tracker.opentrackr.org
 tracker.trackerfix.com #Torrent tracker
 track.parcelperform.com #DHL payments
 track.passportglobal.com #Package tracking
