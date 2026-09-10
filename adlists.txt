@@ -211,6 +211,8 @@ https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-
 https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/spotify-ads-tracking.txt
 https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt
 https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/xiaomi-ads-tracking.txt
+https://raw.githubusercontent.com/furkan-bayrak/lg-tv-blocklist/main/lists/safe-domains.txt
+https://raw.githubusercontent.com/furkan-bayrak/lg-tv-blocklist/main/lists/strict-domains.txt
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
