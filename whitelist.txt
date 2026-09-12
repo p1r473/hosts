@@ -1,5 +1,5 @@
-m.x.com #X mobile
-mediaservices.cdn-apple.com #Apple streaming
+checkout.airwallex.com #Airwallex checkout (buying from Bambu)
+evtubescms.phncdn.com
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -180,6 +180,7 @@ login.windows.net
 mailchi.mp
 mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
+mediaservices.cdn-apple.com #Apple streaming
 members.ip-api.com
 mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
