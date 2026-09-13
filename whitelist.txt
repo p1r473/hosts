@@ -1,5 +1,3 @@
-checkout.airwallex.com #Airwallex checkout (buying from Bambu)
-evtubescms.phncdn.com
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -59,6 +57,7 @@ cdn.syndication.twimg.com #Embedded Twitter images
 cerberusapp.com #Cerberus
 checkip.amazonaws.com #AWS Getpublic IP
 checkip.dyndns.org #Public IP
+checkout.airwallex.com #Airwallex checkout (buying from Bambu)
 chrome.cloudflare-dns.com
 chromesyncpasswords-pa.googleapis.com
 click.appcast.io #ZipRecruiter links in Kijiji
@@ -106,6 +105,7 @@ encrypted-tbn1.gstatic.com #Google cache/thumbnails
 epoch.com
 event.bblmw.com #Bambu printer
 eventopedia.cloudapp.net
+evtubescms.phncdn.com
 feedly.com
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
