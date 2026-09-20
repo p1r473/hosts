@@ -1,6 +1,3 @@
-mirrors.cernet.edu.cn #Entware mirror
-mirrors.bfsu.edu.cn #Entware mirror
-boards.greenhouse.io
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -44,6 +41,7 @@ bitly.com #URL Shortener
 bit.ly #URL Shortener
 blog.adafruit.com
 bnc.lt #URL Shortener
+boards.greenhouse.io
 bot.whatismyipaddress.com
 bountysource.com
 buff.ly #URL Shortener
