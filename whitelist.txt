@@ -312,7 +312,6 @@ widget.gleamjs.io #Gleam
 widget-mediator.zopim.com #Help/Support chat on Reship
 wmdcommander.appspot.com #Wheres My Droid Commander
 wup-content23.bmo.com #BMO app
-www.1377x.to #Torrent
 www2.leapmotion.com #Leap Motion Controller
 www.adafruit.com
 www.bit.ly
