@@ -1,4 +1,5 @@
 api.pinterest.com
+assets.pinterest.com
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
