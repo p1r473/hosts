@@ -1,6 +1,3 @@
-oculus.xx.fbcdn.net #Metaquest store
-api.pinterest.com
-assets.pinterest.com
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -21,6 +18,7 @@ api.db-ip.com #Geolocation API
 api.getpocket.com #Pocket API
 api.ipify.org #ddclient
 api.ipinfo.io
+api.pinterest.com
 apis.google.com
 api.sonelli.com #JuiceSSH Cloud Syncing
 app.box.com #box.com web app
@@ -31,6 +29,7 @@ ap.spotify.com #Spotify
 aruljohn.com #Networking utilities
 asia.pool.ntp.org #NTPServer
 assets-jpcust.jwpsrv.com #Embedded videos
+assets.pinterest.com
 assistant.google.com
 audio-ak-spotify-com.akamaized.net #Spotify on Nvidia Shield
 audio-fa.scdn.co #Spotify on Nvidia Shield
@@ -198,6 +197,7 @@ nationalbankofcanada.d2.sc.omtrdc.net #National Bank app
 nordvpn.com
 north-america.pool.ntp.org #NTP Server
 nrdp.nccp.netflix.com #Netflix on PS4
+oculus.xx.fbcdn.net #Metaquest store
 odysseusai.dev #AI
 onedrive.live.com
 open.spotify.com #Spotify web player
