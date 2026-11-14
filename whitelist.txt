@@ -1,3 +1,4 @@
+feverup.com #Fever
 1377x.to #Torrent
 1drv.ms #OneDrive
 27qc0ib0er.algolia.io #Patreon mobile app search
@@ -7,7 +8,6 @@ aa.google.com
 ab40.mktossl.com #CNAME for info.expel.io
 aboutmyip.com
 accounts.adafruit.com
-accounts.snap.com #Snapchat account management
 accounts.us1.gigya.com #iRobot Android app
 activity.windows.com #Cloud backup for Microsoft Authenticator
 adafruit.com
@@ -113,7 +113,6 @@ feedly.com
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
-flown.com
 fonts.intercomcdn.com #Website layouts that use Intercom help
 forms.gle #Google Forms
 forum.kaspersky.com
@@ -176,7 +175,6 @@ linkr.bio
 links.h6.hilton.com #Hilton email links
 linktr.ee #Linktree
 l.instagram.com #Instagram links
-livenation.lb.apidn.net #TickerMaster app; CNAME for app.ticketmaster.com
 lm.facebook.com #Facebook referrer
 login.mailchimp.com
 login.windows.net
@@ -220,8 +218,6 @@ pool.ntp.org #NTP Server
 pornhub.com
 portableappz.blogspot.com
 postsign.docusign.com #Docusign post-signing
-prod2-common-apps2-k8s-azrlb.sprinklr.com #Blueair Purifier support
-prod3-common-apps2-k8s-azrlb.sprinklr.com  #Blueair Purifier support
 public-api.wordpress.com #WordPress API
 pushbullet.com
 qrco.de #QR code URL shortener service
@@ -300,12 +296,10 @@ urlscan.io
 usa.kaspersky.com
 us.data2.mobile.pendo.io #Morgan Report
 us.data3.mobile.pendo.io #Morgan Report
-us-d-master-tutk.iotcplatform.com #Bambu camera
 userlocation.googleapis.com
 utclient.utorrent.com #uTorrent client
 v2.zopim.com #aoeah.com helpdesk
 video-fa.scdn.co #Spotify videos
-wankzvr.com #XXX
 web-api-tih.acronis.com #Acronis activation
 web.facebook.com
 whatismyipaddress.com
@@ -341,7 +335,6 @@ www.sickrage.ca
 www.sony.net #Sony Bravia internet detection
 www.spotify.com #Spotify
 www.techtarget.com
-www.tgtube.com #XXX site
 www.upload.ee #File sharing
 www.xnxx.com #XXX
 www.xvideos.com #XXX
