@@ -343,3 +343,5 @@ xvideos.com #XXX
 yt3.ggpht.com #YouTube Music API
 zombo.com
 zupimages.net #Image hosting
+feverup.com #User-requested Fever access, 2026-11-14
+www.feverup.com #User-requested Fever access, 2026-11-14
