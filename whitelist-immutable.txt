@@ -1,7 +1,7 @@
 api.ipinfo.io
+feverup.com #User-requested Fever access, 2026-11-14
 gateway.ixopay.com #DHL payment
 track.parcelperform.com #DHL payments
 track.passportglobal.com #Package tracking
 track.purolator.com
-feverup.com #User-requested Fever access, 2026-11-14
 www.feverup.com #User-requested Fever access, 2026-11-14

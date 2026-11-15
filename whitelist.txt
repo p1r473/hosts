@@ -109,6 +109,7 @@ event.bblmw.com #Bambu printer
 eventopedia.cloudapp.net
 evtubescms.phncdn.com
 feedly.com
+feverup.com #User-requested Fever access, 2026-11-14
 fidm.us1.gigya.com #Voila login
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -318,6 +319,7 @@ www.duckdns.org
 www.ebates.com
 www.ecdinterface.philips.com #Control Hue from internet
 www.e-junkie.com
+www.feverup.com #User-requested Fever access, 2026-11-14
 www.gamecopyworld.com
 www.goodreads.com
 www.googleadservices.com
@@ -343,5 +345,3 @@ xvideos.com #XXX
 yt3.ggpht.com #YouTube Music API
 zombo.com
 zupimages.net #Image hosting
-feverup.com #User-requested Fever access, 2026-11-14
-www.feverup.com #User-requested Fever access, 2026-11-14
