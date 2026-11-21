@@ -80,7 +80,6 @@ ctrk.klclick1.com #Email unsubscribe
 ctrk.klclick.com #Mailing liwt unsubscribe
 cutt.ly #URL Shortener
 d36eyd5j1kt1m6.cloudfront.net #Gleam.io embedded images
-d3tracking.rbc.com #RBC 2FA
 dcf.espn.com #Embedded videos on ZeroHedge
 dealer.spotify.com #Spotify on Nvidia Shield
 delivr.com #QR code URL shortener service
@@ -183,7 +182,6 @@ mailgun.org #email.survey.pledgebox.com
 mandrillapp.com
 mediaservices.cdn-apple.com #Apple streaming
 members.ip-api.com
-mene.com #Jewelry
 mobilenetworkscoring-pa.googleapis.com #Canary Android app push notifications
 mozilla.cloudflare-dns.com
 msftncsi.com #MS connectivity status checker indicator
@@ -223,8 +221,6 @@ pushbullet.com
 qrco.de #QR code URL shortener service
 r3.o.lencr.org #Let's Encrypt SLL OCSP verification for certificates
 rapidgator.net #Filesharing
-rawgit.com
-rbc.com
 rb.gy #URL Shortener
 reddit.app.link
 redirector.googlevideo.com #Google Play Movies
@@ -237,7 +233,6 @@ rutracker.org
 safebrowsing.google.com
 sb.l.google.com #Google Safe Browsing
 sb-ssl.google.com #Google Safe Browsing
-scoreland.com #XXX
 sdk.split.io #MBNA mobile app
 seeip.org #IP Address API
 sendgrid.net #Emails from ShipStation
@@ -250,7 +245,6 @@ s.pinimg.com #Pinterest
 static.intercomassets.com #Website layouts that use Intercomhelp
 statics-www-ssl.gingersoftware.com #Assets hosted on GingerSoftware
 statuscake.com
-store-images.s-microsoft.com
 stun1.l.google.com #Google get Public IP
 stun2.l.google.com #Google get Public IP
 stun3.l.google.com #Google get Public IP
@@ -329,7 +323,6 @@ www.ip2location.com
 www.ipinfo.io
 www.ip-tracker.org
 www.msftncsi.com #MS connectivity status checker indicator
-www.msn.com
 www.pastie.org
 www.pornhub.com
 www.sickrage.ca
